@@ -1,0 +1,180 @@
+body{
+  background-color:#131212;
+  color:#ccc;
+}
+a{
+	color:#007bff;
+	text-decoration:none;
+}
+.native_mode{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  margin: auto;
+  max-height: 100%;
+  max-width: 800px;
+}
+.zoomed_mode{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  margin: auto;
+  max-height: 100%;
+  width: 800px;
+}
+.urls input{
+	width:500px;
+	padding:10px;
+	  background-color:#2d2d2d;
+	  border:solid 1px #000;
+	  margin:5px;
+	  color:#ccc;
+}
+
+
+
+
+
+#fav{
+	display:none;
+	position:fixed;
+	z-index:1010;
+	top:0px;
+	right:-10px;
+overflow-x: hidden!important;
+	overflow:scroll;
+	height:100vh;
+	background:#2d2d2d;
+	border-left:solid 0px #000;
+	  animation-name: example;
+  animation-duration: 0.3s;
+}
+@keyframes example {
+  from {width: 10px;}
+  to {width: 300px;}
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+  background: #000; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+#show{
+	color:#007bff;
+}
+#close{
+	padding:5px 10px;
+	border:0;
+	background:#fff;
+	color:#007bff;
+	font-size:12px;
+}
+
+
+#container {
+  margin:0;
+  width:300px;
+  position:relative;
+  background: #2d2d2d;
+}
+
+#header{
+  background: #ccc;
+  padding:20px;
+}
+
+#content {
+   padding: 5px 20px 10px 20px;
+}
+
+h2 {
+  padding:0;
+  margin:0;
+  font-weight:100;
+  color: #333;
+}
+
+ul {
+  padding: 0;
+  margin: 0px;
+}
+
+.removebtn { 
+  border:none;
+  background: none;
+  color: #999;
+  float:right;
+  margin-top:-5px;
+  font-size:14px;
+  display:block;
+  padding:5px;
+}
+
+.removebtn:hover {
+cursor:pointer;
+  color:orange;
+}
+
+ul li {
+  margin-bottom: 5px;
+  list-style:none;
+}
+
+#favorite-links li {
+  padding:10px;
+  background: #131212;
+ 
+}
+
+#favorite-links li:last-child {
+  border:none;
+}
+
+#favorite-links a {
+  color: dimgrey; 
+  text-decoration:none;
+  padding:10px 10px 40px 10px;
+}
+#favorite-links a:hover {
+  color:#007bff!important;
+}
+
+#favorite-links li:hover {
+  background: #212020;
+
+}
+
+#add-link-form {
+  display:none;
+  background: #444;
+  padding:20px;
+  color: #ccc;
+  margin: -10px -20px 0px;
+}
+
+#add-link-form input {
+  margin: 5px 0;
+  width:100%;
+  color: #333;
+  padding:5px;
+  outline:none;
+  border:none;
+}
+button{
+	padding:5px;
+	margin-bottom:5px;
+	background:#007bff;
+	color:#fff;
+	border:solid 0px;
+}
