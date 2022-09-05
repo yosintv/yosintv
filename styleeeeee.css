@@ -7,7 +7,7 @@
 .nav>li>a {
     position: relative;
     display: block;
-    padding: 10px 15px;
+    padding: 5px 5px;
 }
 .nav>li>a:focus, .nav>li>a:hover {
     text-decoration: none;
@@ -45,12 +45,11 @@
     margin-bottom: 2px;
 }
 .nav-tabs>li>a {
-    margin-right: 2px;
+    margin-right: 4px;
     line-height: 1.42857143;
     border: 1px solid transparent;
-    border-radius: 4px 4px 0 0;
     font-weight: bolder;
-    background:  #274;
+    background:  #fbff00;
 
 }
 .nav-tabs>li>a:hover {
@@ -97,7 +96,7 @@
     width: 95%;
     height: 34px;
     padding: 6px 12px;
-    font-size: 14px;
+    font-size: 9px;
     line-height: 1.42857143;
     color: #555;
     background-color: #fff;
@@ -113,6 +112,6 @@
 .league{width: 15%; }
 .gname {width: 60%; }
 .liveg {width: 25px;}
-.league a { font-size: 12px; } 
+.league a { font-size: 9px; } 
   
 </style>
