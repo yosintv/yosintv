@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YoSinTV Video Player</title>
+    <style>
+        /* Style for the video container */
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio for responsive design */
+            overflow: hidden;
+        }
+
+        /* Style for the iframe player */
+        .video-container iframe {
+            position: relative;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 420px;
+            border: none; /* Remove the iframe border */
+        }
+
+        /* Style for the copyright text */
+             .copyright-text {
+            position: absolute;
+            top: 39px;
+            right: 30px;
+            background: black;
+            color: white;
+            padding: 5px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="video-container" id="video-container">
+        <!-- JavaScript will dynamically insert the iframe here -->
+    </div>
+
+    <script>
+        // Function to parse URL parameters
+        function getParameterByName(name, url) {
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, '\\$&');
+            var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, ' '));
+        }
+
+        // Get the 'video_url' parameter from the URL
+        var videoUrl = getParameterByName('video_url');
+
+        if (videoUrl) {
+            // Create a container for the iframe and copyright text
+            var videoContainer = document.getElementById('video-container');
+            
+            // Create the iframe element with the specified URL
+            var iframe = document.createElement('iframe');
+            iframe.src = videoUrl;
+            iframe.setAttribute('frameborder', '0');
+            iframe.setAttribute('allowfullscreen', '');
+          
+          // Add the sandbox attribute with desired restrictions
+            iframe.setAttribute('sandbox', 'allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation'); 
+            
+            // Append the iframe to the container
+            videoContainer.appendChild(iframe);
+            
+            // Create the copyright text element
+          //  var copyrightText = document.createElement('div');
+          //  copyrightText.className = 'copyright-text';
+         //   copyrightText.innerHTML = 'Watch Every Football, Cricket Matches in YoSinTV';
+            
+            // Append the copyright text to the container
+            videoContainer.appendChild(copyrightText);
+        } else {
+            // Display an error message if the 'video_url' parameter is not provided
+            document.write('<p>Error: Video URL parameter is missing.</p>');
+        }
+    </script>
+  
+  <!--
+    <script type='text/javascript'>
+$(document).ready(function() {$(&#39;img#closed&#39;).click(function(){$(&#39;#bl_banner&#39;).hide(90);});});
+</script>
+<div id='fixedban' style='width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:999;-webkit-transform:translateZ(0);'>
+<div>
+<a id='close-fixedban' onclick='document.getElementById(&quot;fixedban&quot;).style.display = &quot;none&quot;;' style='cursor:pointer;'><img alt='close' src='https://1.bp.blogspot.com/-_A83iDM6JYc/VhtxROLILrI/AAAAAAAADK4/aM4ikIA6aqI/s1600/btn_close.gif' style='vertical-align:middle;' title='close button'/></a></div>
+<div style='text-align:center;display:block;max-width:728px;height:auto;overflow:hidden;margin:auto'>
+
+<script type="text/javascript">
+	atOptions = {
+		'key' : '0bf9fa0a59005b4b836444f060321d48',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitablecreativeformat.com/0bf9fa0a59005b4b836444f060321d48/invoke.js"></scr' + 'ipt>');
+</script>
+  
+</div>
+</div>
+-->
+  
+  
+</body>
+</html>
