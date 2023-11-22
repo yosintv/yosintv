@@ -1,11 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-    <!--If i find these code copied by someone, I will DMCA on that website-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> YoSinTV Player</title>
+    <title>Responsive Player</title>
     <style>
         /* Add your custom styles for the iframe container */
         #player-container {
@@ -23,6 +22,49 @@
             border: 0;
         }
     </style>
+  
+  
+    <style>
+    #player-container {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      background: #000;
+      color: #fff;
+      overflow: hidden;
+    }
+    #iframe-iframe, #jwPlayer {
+      height: 100vh !important;
+      padding: 0;
+      margin: 0;
+    }
+    body {
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+    }
+    #container {
+      position: absolute;
+      text-align: center;
+    }
+    video {
+      outline: 0;
+    }
+    #text {
+      position: fixed;
+      border: 0;
+      left: 0;
+      width: 100%;
+      color: #fff;
+      bottom: 50px;
+      text-align: center;
+      font-family: tahoma;
+      font-size: 20px;
+      z-index: 9999;
+    }
+  </style>
+  
 </head>
 <body>
 
