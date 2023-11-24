@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BrightCove Player</title>
+    <style>
+        /* Add your custom styles for the iframe container */
+        #player-container {
+            position: relative;
+            overflow: hidden;
+            padding-top: 56.25%; /* 16:9 aspect ratio (change based on your player's aspect ratio) */
+        }
+
+        #player-iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+    </style>
+</head>
+<body>
+
+<div id="player-container">
+    <iframe id="player-iframe" allowfullscreen></iframe>
+</div>
+
+<script>
+    // Get the Custom_ID1 and Custom_ID2 from the URL parameters
+    const urlParams = new URLSearchParams(window.location.search);
+    const customID1 = urlParams.get('aid');
+    const customID2 = urlParams.get('pid');
+
+    // Replace (Custom_ID1) and (Custom_ID2) in the original URL with the custom IDs
+    const originalURL = `https://players.brightcove.net/pages/v1/index.html?accountId=${customID1}&playerId=default&videoId=${customID2}&mode=iframe`;
+
+    // Set the iframe source to the modified URL
+    document.getElementById('player-iframe').src = originalURL;
+</script>
+
+</body>
+</html>
