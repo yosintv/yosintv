@@ -38,7 +38,7 @@
     const customID2 = urlParams.get('pid');
 
     // Replace (Custom_ID1) and (Custom_ID2) in the original URL with the custom IDs
-    const originalURL = `https://players.brightcove.net/pages/v1/index.html?accountId=${aid}&playerId=default&videoId=${pid}&mode=iframe`;
+    const originalURL = `https://players.brightcove.net/pages/v1/index.html?accountId=${customID1}&playerId=default&videoId=${customID2}&mode=iframe`;
 
     // Set the iframe source to the modified URL
     document.getElementById('player-iframe').src = originalURL;
