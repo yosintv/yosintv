@@ -172,91 +172,91 @@
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Real Sociedad",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Real Betis",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Las Palmas",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8306.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Valencia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Rayo Vallecano",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Getafe",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png"
   },
      
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Villarreal",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Deportivo Alaves",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Osasuna",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Sevilla",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Cadiz",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Mallorca",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Celta Vigo",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Granada",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png"
   },
      
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Almeria",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9865.png"
   },  
      
      
