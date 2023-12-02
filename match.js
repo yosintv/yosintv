@@ -261,122 +261,122 @@
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Juventus",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Inter",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "AC Milan",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Napoli",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Roma",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Bologna",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Atalanta",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8524.png"
   },
      
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Florentina",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Lazio",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Frosinone",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9891.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Monza",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6504.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Torino",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Lecce",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9888.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Sassuolo",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7943.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Genoa",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png"
   },
      
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Udinese",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Empoli",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8534.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Cagliari",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Hellas Verona",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Salernitana",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png"
   },  
      
      
