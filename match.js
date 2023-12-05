@@ -503,16 +503,75 @@
 
        
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Nepal",
+    "logo": "https://aimages.willow.tv/teamLogos/nepal.png"
   },  
      
-     
- 
-  {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+{
+    "name": "India",
+    "logo": "https://aimages.willow.tv/teamLogos/india.png"
   },  
+
+{
+    "name": "Australia",
+    "logo": "https://aimages.willow.tv/teamLogos/australia.png"
+  },  
+
+       {
+    "name": "Bangladesh",
+    "logo": "https://aimages.willow.tv/teamLogos/bangladesh.png"
+  },  
+
+       {
+    "name": "New Zealand",
+    "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
+  },  
+
+
+       {
+    "name": "Afghanistan",
+    "logo": "https://aimages.willow.tv/teamLogos/afghanistan.png"
+  },  
+
+
+       {
+    "name": "Pakistan",
+    "logo": "https://aimages.willow.tv/teamLogos/pakistan.png"
+  },  
+
+
+       {
+    "name": "Sri Lanka",
+    "logo": "https://aimages.willow.tv/teamLogos/srilanka.png"
+  },  
+
+
+       {
+    "name": "England",
+    "logo": "https://aimages.willow.tv/teamLogos/england.png"
+  }, 
+
+
+
+              {
+    "name": "West Indies",
+    "logo": "https://aimages.willow.tv/teamLogos/westindies.png"
+  },  
+
+
+       {
+    "name": "S. Africa",
+    "logo": "https://aimages.willow.tv/teamLogos/aouthafrica.png"
+  },  
+
+
+       {
+    "name": "USA",
+    "logo": "https://aimages.willow.tv/teamLogos/usa.png"
+  }, 
+
+       
+    
      
      
   {
