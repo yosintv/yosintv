@@ -12351,47 +12351,7 @@
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
   },    
   
-       {
-    "name": "Australia",
-    "logo": "https://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/aus.png"
-  },  
-     
-     
-  {
-    "name": "New Zealand",
-    "logo": "https://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/nzl.png"
-  },  
-     
-     
- 
-  {
-    "name": "Bangladesh",
-    "logo": "https://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/ban.png"
-  },  
-     
-     
-  {
-    "name": "Sri Lanka",
-    "logo": "https://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/sri.png"
-  },
-       {
-    "name": "Pakistan",
-    "logo": "https://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/pak.png"
-  },  
-     
-     
-  {
-    "name": "India",
-    "logo": "https://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/ind.png"
-  },  
-     
-     
- 
-  {
-    "name": "Nepal",
-    "logo": "https://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/nep.png"
-  },  
-     
+
      
   {
     "name": "____",
