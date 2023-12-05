@@ -59,7 +59,7 @@
      
  
   {
-    "name": "Wolverhampton",
+    "name": "Wolves",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png"
   },  
      
@@ -489,17 +489,19 @@
   },  
      
      
-  {
+
+       {
+    "name": "Burnley",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png"
+  },  
+     
+
+       {
     "name": "matchends",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
   },
-     
-       {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
-  },  
-     
-     
+
+       
   {
     "name": "____",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
