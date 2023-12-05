@@ -12548,8 +12548,8 @@ function updatePreview() {
     const previewHtml = `
     
     <!-- ${homeTeamSelectValue} vs ${awayTeamSelectValue} -->
-        <div class="match-event match-${randomNumbers}" data-result="${matchResultValue}">
-            <a title="${homeTeamSelectValue} vs ${awayTeamSelectValue}" id="match-${randomNumbers}" href="${postLinkValue}">
+        <div class="match-event match-${randomNumbers}" data-result="vs">
+            <a title="${homeTeamSelectValue} vs ${awayTeamSelectValue}" id="match-${randomNumbers}" href="____">
                 <div id="overlay-match">
                     <div id="watch-match"></div>
                 </div>
