@@ -561,7 +561,7 @@
 
        {
     "name": "S. Africa",
-    "logo": "https://aimages.willow.tv/teamLogos/aouthafrica.png"
+    "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
   },  
 
 
