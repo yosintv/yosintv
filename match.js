@@ -496,11 +496,7 @@
   },  
      
 
-       {
-    "name": "matchends",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
-  },
-
+       
        
   {
     "name": "Nepal",
@@ -783,8 +779,8 @@
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Al Ittihad",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png"
   },  
      
      
