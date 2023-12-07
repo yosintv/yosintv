@@ -83,7 +83,7 @@
      
  
   {
-    "name": "Newcastle United",
+    "name": "Newcastle",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png"
   },  
      
@@ -94,7 +94,7 @@
   },    
   
        {
-    "name": "West Ham United",
+    "name": "West Ham",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png"
   },  
      
