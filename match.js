@@ -676,108 +676,108 @@
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Leverkusen",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Bayern",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Stuttgart",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "RB Leipzig",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Dortmund",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Hoffenheim",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8226.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Frankfurt",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Freiburg",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8358.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Augsburg",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8406.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "M'Gladbach",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Wolfsburg",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8721.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Bochum",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9911.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "W. Bremen",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8697.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Heidenheim",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/94937.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "FC Koln",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8722.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Darmstadt",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8262.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Mainz 05",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Union Berlin",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png"
   },  
      
      
