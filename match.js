@@ -575,8 +575,8 @@
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Everton",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png"
   },    
   
        {
