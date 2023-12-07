@@ -776,13 +776,7 @@
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png"
   },  
      
-     
- 
-  {
-    "name": "Al Ittihad",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png"
-  },  
-     
+    
      
   {
     "name": "____",
