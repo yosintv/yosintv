@@ -14,12 +14,7 @@
     "name": "Man United",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png"
   },
-     
-  {
-    "name": "Bayern München",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png"
-  },     
-     
+      
    
   {
     "name": "Real Madrid",
