@@ -1,4 +1,4 @@
-  ================== English Premeir League ==================
+==================== English Premeir League ====================
 Man City    https://www.yosin-tv.net/p/manchester-city.html
 Chelsea     https://www.yosin-tv.net/p/chelsea.html 
 Arsenal     https://www.yosin-tv.net/p/arsenal.html
@@ -7,16 +7,16 @@ New Castle  https://www.yosin-tv.net/p/newcastle-united.html
 Tottenham   https://www.yosin-tv.net/p/tottenham-hotspur.html
 
 
-  ================== Saudi Pro League  ==================
+====================  Saudi Pro League  ====================
 Al Nassr    https://www.yosin-tv.net/p/al-nassr.html
 Al Hilal    https://www.yosin-tv.net/p/al-hilal.html
 
 
-  ================== Serie A  ================== 
+====================  Serie A  ==================== 
 Juventus    https://www.yosin-tv.net/p/juventus.html
 Napoli:     https://www.yosin-tv.net/p/napoli.html
 
 
-  ================== La Liga  ==================
+====================  La Liga  ==================== 
 Lens        https://www.yosin-tv.net/p/lens.html
 Valencia    https://www.yosin-tv.net/p/valencia.html
