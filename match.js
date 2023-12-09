@@ -562,7 +562,22 @@
   }, 
 
        
-    
+         {
+    "name": "UAE",
+    "logo": "https://aimages.willow.tv/teamLogos/uae.png"
+  }, 
+
+
+              {
+    "name": "Japan",
+    "logo": "https://aimages.willow.tv/teamLogos/japan.png"
+  }, 
+
+
+              {
+    "name": "Cricket",
+    "logo": "https://aimages.willow.tv/teamLogos/___.png"
+  }, 
      
      
   {
