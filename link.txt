@@ -5,6 +5,8 @@ Arsenal     https://www.yosin-tv.net/p/arsenal.html
 Barcelona   https://www.yosin-tv.net/p/barcelona.html
 New Castle  https://www.yosin-tv.net/p/newcastle-united.html
 Tottenham   https://www.yosin-tv.net/p/tottenham-hotspur.html
+Liverpool   https://www.yosin-tv.net/p/liverpool.html
+Man United  https://www.yosin-tv.net/p/manchester-united.html
 
 
 ====================  Saudi Pro League  ====================
@@ -15,8 +17,19 @@ Al Hilal    https://www.yosin-tv.net/p/al-hilal.html
 ====================  Serie A  ==================== 
 Juventus    https://www.yosin-tv.net/p/juventus.html
 Napoli:     https://www.yosin-tv.net/p/napoli.html
+Inter       https://www.yosin-tv.net/p/inter.html
 
 
 ====================  La Liga  ==================== 
 Lens        https://www.yosin-tv.net/p/lens.html
 Valencia    https://www.yosin-tv.net/p/valencia.html
+R Madrid    https://www.yosin-tv.net/p/real-madrid.html
+
+
+====================  Ligue 1 ==================== 
+PSG         https://www.yosin-tv.net/p/psg.html
+
+
+
+Bayern      https://www.yosin-tv.net/p/bayern-munchen.html
+Dortmund    https://www.yosin-tv.net/p/dortmund.html
