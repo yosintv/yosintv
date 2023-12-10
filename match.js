@@ -789,8 +789,8 @@
     
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Fiorentina",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png"
   },
        {
     "name": "____",
