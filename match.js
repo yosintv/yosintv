@@ -10,10 +10,7 @@
       
    var teamNamesAndLogos = [
 
-       {
-    "name": " New____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/____.png"
-  },
+
 
 
        
@@ -746,7 +743,12 @@
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png"
   },  
      
-     
+       {
+    "name": " New____",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/____.png"
+  },
+
+       
  
   {
     "name": "Wolfsburg",
