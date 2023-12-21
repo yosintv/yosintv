@@ -9,7 +9,14 @@
 
       
    var teamNamesAndLogos = [
-         
+
+       {
+    "name": " New____",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/____.png"
+  },
+
+
+       
   {
     "name": "Man United",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png"
