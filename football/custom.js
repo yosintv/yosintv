@@ -2132,14 +2132,14 @@ Okay
  }
  </style>
 
- <div id='floating-ad'>
+ <!-- <div id='floating-ad'>
  <span class='close-btn' onclick='closeAd()'>&#9421;</span>
- <script async='async' crossorigin='anonymous' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147'/>
+ <script async='async' crossorigin='anonymous' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxx'/>
  <ins class='adsbygoogle' data-ad-client='ca-pub-5525538810839147' data-ad-slot='5087351746' style='display: inline-block; width: 300px; height: 250px;'/>
  <script>
  (adsbygoogle = window.adsbygoogle || []).push({});
  </script>
-</div>
+</div> -->
 
 <script>
  // Function to show the floating ad after 30 seconds
@@ -2157,13 +2157,7 @@ Okay
 
       
       
-      
-
- <!-- BEGIN: Powered by Supercounters.com -->
-<center><script src='//widget.supercounters.com/ssl/online_i.js' type='text/javascript'/><script type='text/javascript'>sc_online_i(1670778,&quot;0000000&quot;,&quot;ffffff&quot;);</script><noscript/>
-</center>
-<!-- END: Powered by Supercounters.com -->
-      
+   
       
 </b:includable>
    
