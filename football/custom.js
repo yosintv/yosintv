@@ -8,17 +8,6 @@
    
 <head>
  
-
-  
-  <!-- Google tag (gtag.js) -->
-<script async='async' src='https://www.googletagmanager.com/gtag/js?id=G-YGTZ961YTZ'/>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag(&#39;js&#39;, new Date());
-
-  gtag(&#39;config&#39;, &#39;G-YGTZ961YTZ&#39;);
-</script>
   <link href='https://cdn.jsdelivr.net/gh/iamsinghyogendra/yosintv/rosyotv.css' rel='stylesheet'/>
 
   
@@ -347,7 +336,7 @@ by: https://yosin-tv.net/
 <div class='container'>
 <div class='navbar-brand'>
     <b:section class='header' id='header' maxwidgets='1' name='------------' showaddelement='yes'>
-      <b:widget id='Header1' locked='true' title='D Player (Header)' type='Header' version='1'>
+      <b:widget id='Header1' locked='true' title='IPL 2024 Live Stream (Header)' type='Header' version='1'>
         <b:widget-settings>
           <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEgPW62n3GieGxmfl3dOKSs0p1sb9AelxUi7A967d8L82NQYq68_tsDsUdsNXbWhrgy6P7xXQ6nmRlXt0JuyTQDRw5j68jafa3ZhnR_v5q52g41PTk0HcVAlTfcF3G5xr6k5ABqLJ-FZ85vGkK0ip3K7pNEBDQd0DVXv5frMMX0GqRDAo-LrbqFq-djhwuc=s1600</b:widget-setting>
           <b:widget-setting name='displayHeight'>1600</b:widget-setting>
@@ -1096,6 +1085,11 @@ urn _0x2763b3(_0x37873a);},'QQHEg':_0x5d1ddd(0x3d5,0x3d6,0x380,0x28c,0x31a)+_0x5
       
       </a> </div> </div> <div class='post-info'> <h3 class='post-title'> <a expr:href='data:post.link ? data:post.link : data:post.url'><data:post.title/></a> </h3> </div> <div class='post-footer'> </div> </div> </div>          
                       </b:includable>
+    <b:includable id='nextPageLink'>
+  <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:messages.olderPosts'>
+    <data:messages.olderPosts/>
+  </a>
+</b:includable>
     <b:includable id='nextprev'/>
     <b:includable id='otherSharingButton'/>
     <b:includable id='pagination' var='post'>
@@ -1276,39 +1270,24 @@ urn _0x2763b3(_0x37873a);},'QQHEg':_0x5d1ddd(0x3d5,0x3d6,0x380,0x28c,0x31a)+_0x5
         <data:post.body/>
     </div>
             
-<div id='seoneurons-content1' style='margin:15px 0;text-align:center;clear:both;'>
-
-  
- <script async='async' crossorigin='anonymous' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147'/> 
-<ins class='adsbygoogle' data-ad-client='ca-pub-5525538810839147' data-ad-format='auto' data-ad-slot='1315161722' data-full-width-responsive='true' style='display:block'/>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>    
+<div id='seoneurons-content1' style='margin:15px 0;text-align:center;clear:both;'>   
       
 </div>
 
           
           
 <div id='seoneurons-content2' style='margin:15px 0;text-align:center;clear:both;'>
-<script async='async' crossorigin='anonymous' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147'/>
-<ins class='adsbygoogle' data-ad-client='ca-pub-5525538810839147' data-ad-format='auto' data-ad-slot='1315161722' data-full-width-responsive='true' style='display:block'/>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
+ 
 </div>
           
           
           
-<!--<div id='seoneurons-content3' style='margin:15px 0;text-align:center;clear:both;'>
+<div id='seoneurons-content3' style='margin:15px 0;text-align:center;clear:both;'>
   
      
-  
-<ins class='adsbygoogle' data-ad-client='ca-pub-5525538810839147' data-ad-format='auto' data-ad-slot='1315161722' data-full-width-responsive='true' style='display:block'/>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    </div> -->
-          
+
+    </div>
           
           
           
@@ -1766,16 +1745,7 @@ We Notify all copyright owners, to discover that the links and media shared by v
    <b:section class='adspos container' id='adspos4' maxwidgets='13' name='Ad Controls' showaddelement='no'>
      <b:widget id='HTML701' locked='true' title='Above Title - Post' type='HTML' version='2' visible='true'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;!-- Responsive Ads --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:block&quot;
-     data-ad-client=&quot;ca-pub-5525538810839147&quot;
-     data-ad-slot=&quot;6796017996&quot;
-     data-ad-format=&quot;auto&quot;
-     data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-     (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;</b:widget-setting>
+         <b:widget-setting name='content'/>
        </b:widget-settings>
        <b:includable id='main'>
             <b:if cond='data:view.isPost'>
@@ -1783,10 +1753,7 @@ We Notify all copyright owners, to discover that the links and media shared by v
      </b:widget>
      <b:widget id='HTML702' locked='true' title='Below Title - Post' type='HTML' version='2' visible='true'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;ins class=&#39;adsbygoogle&#39; data-ad-client=&#39;ca-pub-5525538810839147&#39; data-ad-slot=&#39;5087351746&#39; style=&#39;display:inline-block;width:468px;height:60px&#39;/&gt;
-&lt;script&gt;
-     (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;&lt;/ins&gt;</b:widget-setting>
+         <b:widget-setting name='content'/>
        </b:widget-settings>
        <b:includable id='main'>
             <b:if cond='data:view.isPost'>
@@ -1794,16 +1761,7 @@ We Notify all copyright owners, to discover that the links and media shared by v
      </b:widget>
      <b:widget id='HTML703' locked='true' title='Random Under Post' type='HTML' version='2' visible='true'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;!-- Responsive Ads --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:block&quot;
-     data-ad-client=&quot;ca-pub-5525538810839147&quot;
-     data-ad-slot=&quot;6796017996&quot;
-     data-ad-format=&quot;auto&quot;
-     data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-     (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;</b:widget-setting>
+         <b:widget-setting name='content'/>
        </b:widget-settings>
        <b:includable id='main'>
             <b:if cond='data:view.isPost'>
@@ -1849,16 +1807,7 @@ We Notify all copyright owners, to discover that the links and media shared by v
      </b:widget>
      <b:widget id='HTML709' locked='true' title='Under the share buttons' type='HTML' version='2' visible='true'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;script async src=&quot;https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147&quot;
-     crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
-&lt;!-- 728x90 Ads --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:inline-block;width:970px;height:250px&quot;
-     data-ad-client=&quot;ca-pub-5525538810839147&quot;
-     data-ad-slot=&quot;5912194004&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-     (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;</b:widget-setting>
+         <b:widget-setting name='content'/>
        </b:widget-settings>
        <b:includable id='main'>
             <b:if cond='data:view.isPost'>
@@ -1866,33 +1815,15 @@ We Notify all copyright owners, to discover that the links and media shared by v
      </b:widget>
      <b:widget id='HTML710' locked='true' title='Top Ads - Homepage' type='HTML' version='2' visible='true'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;script async src=&quot;https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147&quot;
-     crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
-&lt;!-- 728x90 Ads --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:inline-block;width:970px;height:250px&quot;
-     data-ad-client=&quot;ca-pub-5525538810839147&quot;
-     data-ad-slot=&quot;5912194004&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-     (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;</b:widget-setting>
+         <b:widget-setting name='content'/>
        </b:widget-settings>
        <b:includable id='main'>
             <b:if cond='data:view.isHomepage'> 
               <div class='HTML mtads'><data:content/></div><script>/*<![CDATA[*/if(document.querySelector("div#madspos710")){document.querySelector("div#madspos710").appendChild(document.querySelector("div#HTML710 .HTML"))}else{document.querySelector("div#HTML710 .HTML").innerHTML="";}/*]]>*/</script></b:if></b:includable>
      </b:widget>
-     <b:widget id='HTML711' locked='true' title='Under the match schedule' type='HTML' version='2' visible='true'>
+     <b:widget id='HTML711' locked='true' title='Under the match schedule' type='HTML' version='2' visible='false'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;script async src=&quot;https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147&quot;
-     crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
-&lt;!-- 728x90 Ads --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:inline-block;width:970px;height:250px&quot;
-     data-ad-client=&quot;ca-pub-5525538810839147&quot;
-     data-ad-slot=&quot;5912194004&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-     (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;</b:widget-setting>
+         <b:widget-setting name='content'/>
        </b:widget-settings>
        <b:includable id='main'>
             <b:if cond='data:view.isHomepage'>
