@@ -1,0 +1,12 @@
+/* custom-theme.css */
+
+.custom-theme {
+  --yrsdaybg: #3749b4;
+  --live-start: #e0190b;
+  --live-soon: #13b619;
+  --live-end: #545454;
+  --bar-background: #eceef2;
+  --post-header-backgroundr: #eceef2;
+  --card-background: #eceef2;
+  --border-radius: 5px;
+}
