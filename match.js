@@ -808,8 +808,8 @@
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Zimbabwe",
+    "logo": "https://aimages.willow.tv/teamLogos/zimbabwe.png"
   },  
      
      
