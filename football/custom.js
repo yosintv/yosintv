@@ -24,8 +24,7 @@
  <meta content='#3749b4' name='theme-color'/>
  <meta content='#3749b4' name='msapplication-navbutton-color'/>
  <meta expr:content='data:view.description.escaped' name='description'/>
-<link href='https://www.singhyogendra.com.np/favicon.ico' rel='icon' type='image/x-icon'/>
-<link href='https://www.singhyogendra.com.np/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://raw.githubusercontent.com/yosintv/yosintv/main/football/favicon-32x32.png' rel='icon' type='image/x-icon'/>
  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
  <meta content='blogger' name='generator'/>
  <meta expr:content='data:blog.blogId' name='BlogId'/>
@@ -83,7 +82,7 @@
 
   <b:if cond='data:view.isLayoutMode'> <b:template-skin><![CDATA[
 
-div#adspos4 .widget.HTML { width: 48.3%; float: left; margin: 5px; margin-top: 0 !important; } .widget.HTML.locked-widget {} .add_widget a { color: #00838f !important; } body#layout .container.barcontinr .bar-section.section { width: 23% !important; float: left !important; margin: 1% !important; } iframe#editorframe { width: 100%; } body#layout { padding-top: 20px; } body#layout:before {content: 'MADE BY : singhyogendra.com.np';padding: 5px 10px;border-radius: 10pc;margin-bottom: 50px;border-radius: 3px;align-items: center;color: #fff;float: left;left: 0;background-color: #0fbfaa;box-shadow: inset 0 1px 1px hsl(0deg 0% 100% / 20%);border: 1px solid #000;background-image: radial-gradient(ellipse farthest-corner at center 0,#c8c8c8 -150%,#15e19d 45%,#0ba4b4 85%);padding: 7px;} body#layout {padding: 10px !important;width: 90% !important;float: left;font-family: tahoma;background: #f0f3fa;} body#layout div#header { padding: 0 !important; border: unset !important; } body#layout li { list-style: none !important; } body#layout div.section {width: 100%;/* margin: 3px 0 !important; */float: left !important;padding: 0 !important;border: none !important;margin-bottom: 0;display: inline-block;float: right;background: transparent;box-shadow: unset;border: 1px solid rgb(0,0,0);color: #333;} body#layout ul.nav.linkm { float: left; width: 100%; display: block; margin: 0 !important; } body#layout div#pages {} body#layout .widget-content { padding: 0 10px !important; /* text-align: center; */ } body#layout div.layout-title { text-align: center; padding: 10px; } body#layout div.layout-widget-description { text-align: center; display: none; } body#layout .menu-section { margin-top: 19px; } body#layout .layout-widget-state.visible {} body#layout .layout-widget-state.visible, body#layout .layout-widget-state.not-visible { margin: 10px; /* background: #3e50b2; */ padding: 1px; border-radius: 5px; } body#layout .section h4 {margin: 10px;text-align: center;} body#layout .tabs-section div.section { width: 31.33% !important; float: left; margin: 1% !important; } body#layout .widget-wrap3 {/* margin: 0 !important; *//* text-align: center; *//* padding: 0 10px; *//* transition: .2s; *//* font-size: .8333333333rem; *//* line-height: 20px; *//* cursor: pointer; *//* border-radius: 3px; *//* -webkit-box-align: center; *//* align-items: center; *//* -webkit-box-pack: center; *//* justify-content: center; *//* font-family: Cairo; *//* font-weight: 700; *//* color: #fff; *//* background-color: #1d1d1d; *//* box-shadow: inset 0 1px 1px hsl(0deg 0% 100% / 20%); *//* border: 1px solid #000; *//* background-image: radial-gradient(ellipse farthest-corner at center 0,#31a2a6 -150%,#333240 45%,#333240 85%); */} body#layout div.section .widget { margin: 0 10px 10px; } body#layout div#HTML162 .widget-content,body#layout  div#HTML161 .widget-content,body#layout  div#HTML163 .widget-content,body#layout  div#HTML108 .widget-content,body#layout  div#HTML107 .widget-content,body#layout  div#HTML167 .widget-content,body#layout  div#HTML16 .widget-content,body#layout  div#HTML66 .widget-content,  div#HTML106 .widget-content, div#HTML6 .widget-content { background: #c83c31 !important; color: #fff !important; } body#layout .layout-widget-state.visible { background: #fff; } body#layout .add_widget { border: unset !important; } body#layout a#layout-addgadget { } body#layout .add_widget a { color: #333 !important; font-size: 17px !important; } body#layout * { font-family: tahoma; } body#layout a.editlink.icon {background-color: #fff;border-radius: 5px;padding: 2px !important;} body#layout .editlink.icon { top: 10px !important; } body#layout div.widget ~ div.widget { } body#layout div#match-cricket { background-color: #c2261a !important; } body#layout div#recent-toda {} body#layout div#match-highlights {} body#layout .widget-content {margin: 0 !important;text-align: center;padding: 0 10px;transition: .2s;font-size: .8333333333rem;line-height: 20px;cursor: pointer;border-radius: 3px;-webkit-box-align: center;align-items: center;-webkit-box-pack: center;justify-content: center;font-family: Cairo;font-weight: 700;color: #fff;background: #555 !important;box-shadow: inset 0 1px 1px hsl(0deg 0% 100% / 20%);border: 1px solid #000;} body#layout .draggable-widget .widget-wrap3 { background: unset !important; margin: 0 !important; } body#layout .draggable-widget .widget-wrap2 { background: unset; } body#layout div#parametre { margin-top: 24px !important; } body#layout div#recent-toda {border-radius: 3px;align-items: center;color: #fff;background-color: #79cd00;box-shadow: inset 0 1px 1px hsl(0deg 0% 100% / 20%);border: 1px solid #000;background-image: brown;} body#layout div#match-highlights {border-radius: 3px;align-items: center;color: #fff;background-color: #c8790a;box-shadow: inset 0 1px 1px hsl(0deg 0% 100% / 20%);border: 1px solid #000;} body#layout div#match-cricket {border-radius: 3px;align-items: center;color: #fff;background-color: #c91414;box-shadow: inset 0 1px 1px hsl(0deg 0% 100% / 20%);border: 1px solid #000;} .layout-widget-state.not-visible:before {background: #333;content: "Hide";color: #fff;padding: 5px 0px;} .layout-widget-state.not-visible { background: transparent !important; }
+div#adspos4 .widget.HTML { width: 48.3%; float: left; margin: 5px; margin-top: 0 !important; } .widget.HTML.locked-widget {} .add_widget a { color: #00838f !important; } body#layout .container.barcontinr .bar-section.section { width: 23% !important; float: left !important; margin: 1% !important; } iframe#editorframe { width: 100%; } body#layout { padding-top: 20px; } body#layout:before {content: 'MADE BY : singhyogendra.com.np';padding: 5px 10px;border-radius: 10pc;margin-bottom: 50px;border-radius: 3px;align-items: center;color: #fff;float: left;left: 0;background-color: #0fbfaa;box-shadow: inset 0 1px 1px hsl(0deg 0% 100% / 20%);border: 1px solid #000;background-image: radial-gradient(ellipse farthest-corner at center 0,#c8c8c8 -150%,#15e19d 45%,#0ba4b4 85%);padding: 7px;} body#layout {padding: 10px !important;width: 90% !important;float: left;font-family: tahoma;background: #f0f3fa;} body#layout div#header { padding: 0 !important; border: unset !important; } body#layout li { list-style: none !important; } body#layout div.section {width: 100%;/* margin: 3px 0 !important; */float: left !important;padding: 0 !important;border: none !important;margin-bottom: 0;display: inline-block;float: right;background: transparent;box-shadow: unset;border: 1px solid rgb(0,0,0);color: #333;} body#layout ul.nav.linkm { float: left; width: 100%; display: block; margin: 0 !important; } body#layout div#pages {} body#layout .widget-content { padding: 0 10px !important; /* text-align: center; */ } body#layout div.layout-title { text-align: center; padding: 10px; } body#layout div.layout-widget-description { text-align: center; display: none; } body#layout .menu-section { margin-top: 19px; } body#layout .layout-widget-state.visible {} body#layout .layout-widget-state.visible, body#layout .layout-widget-state.not-visible { margin: 10px; /* background: #3e50b2; */ padding: 1px; border-radius: 5px; } body#layout .section h4 {margin: 10px;text-align: center;} body#layout .tabs-section div.section { width: 31.33% !important; float: left; margin: 1% !important; } body#layout .widget-wrap3 {/* margin: 0 !important; *//* text-align: center; *//* padding: 0 10px; *//* transition: .2s; *//* font-size: .8333333333rem; *//* line-height: 20px; *//* cursor: pointer; *//* border-radius: 3px; *//* -webkit-box-align: center; *//* align-items: center; *//* -webkit-box-pack: center; *//* justify-content: center; *//* font-family: Cairo; *//* font-weight: 700; *//* color: #fff; *//* background-color: #1d1d1d; *//* box-shadow: inset 0 1px 1px hsl(0deg 0% 100% / 20%); *//* border: 1px solid #000; *//* background-image: radial-gradient(ellipse farthest-corner at center 0,#31a2a6 -150%,#333240 45%,#333240 85%); */} body#layout div.section .widget { margin: 0 10px 10px; } body#layout div#HTML162 .widget-content,body#layout  div#HTML161 .widget-content,body#layout  div#HTML163 .widget-content,body#layout  div#HTML108 .widget-content,body#layout  div#HTML107 .widget-content,body#layout  div#HTML167 .widget-content,body#layout  div#HTML16 .widget-content,body#layout  div#HTML66 .widget-content,  div#HTML106 .widget-content, div#HTML6 .widget-content { background: #c83c31 !important; color: #fff !important; } body#layout .layout-widget-state.visible { background: #fff; } body#layout .add_widget { border: unset !important; } body#layout a#layout-addgadget { } body#layout .add_widget a { color: #333 !important; font-size: 17px !important; } body#layout * { font-family: tahoma; } body#layout a.editlink.icon {background-color: #fff;border-radius: 5px;padding: 2px !important;} body#layout .editlink.icon { top: 10px !important; } body#layout div.widget ~ div.widget { } body#layout div#match-cricket { background-color: #c2261a !important; } body#layout div#recent-toda {} body#layout div#match-highlights {} body#layout .widget-content {margin: 0 !important;text-align: center;padding: 0 10px;transition: .2s;font-size: .8333333333rem;line-height: 20px;cursor: pointer;border-radius: 3px;-webkit-box-align: center;align-items: center;-webkit-box-pack: center;justify-content: center;font-family: Cairo;font-weight: 700;color: #fff;background: #555 !important;box-shadow: inset 0 1px 1px hsl(0deg 0% 100% / 20%);border: 1px solid #000;} body#layout .draggable-widget .widget-wrap3 { background: unset !important; margin: 0 !important; } body#layout .draggable-widget .widget-wrap2 { background: unset; } body#layout div#parametre { margin-top: 24px !important; } body#layout div#recent-toda {border-radius: 3px;align-items: center;color: #fff;background-color: #79cd00;box-shadow: inset 0 1px 1px hsl(0deg 0% 100% / 20%);border: 1px solid #000;background-image: brown;} body#layout div#match-more {border-radius: 3px;align-items: center;color: #fff;background-color: #c8790a;box-shadow: inset 0 1px 1px hsl(0deg 0% 100% / 20%);border: 1px solid #000;} body#layout div#match-cricket {border-radius: 3px;align-items: center;color: #fff;background-color: #c91414;box-shadow: inset 0 1px 1px hsl(0deg 0% 100% / 20%);border: 1px solid #000;} .layout-widget-state.not-visible:before {background: #333;content: "Hide";color: #fff;padding: 5px 0px;} .layout-widget-state.not-visible { background: transparent !important; }
 
 
 
@@ -163,7 +162,7 @@ by: https://yosin-tv.net/
      
     
      
-     /*   .match-info li:before{display: flex;justify-content: center;}*/ .index .blog-posts-sections{width:100%} .whatsapp.whatsapp-mobile{display:block} .whatsapp.whatsapp-desktop{display:none} #box-posts ul li{width:50%;} #feeds-posts{height:1350px} } body.Night{background:#1c2733;color:#fff} 50%{opacity:0} @keyframes blinker{50%{opacity:0}} .Night a{color:#fff!important} .Night a:hover{color:#f80!important} .Night .match-event a{color:#fff!important} .Night .navmenu .nav .navsiteta a:hover{border-bottom:2px solid #f80} .Night .menu-section:before{background:rgb(41 41 41 / 78%)} .Night .navbar-brand,.Night .navmenu .nav .navsites a,.Night .dnmo,.Night .navmenu #menubtn:checked ~ .linkm .navsiteta a,.Night .menulabc,.Night .menublabel.op{background-color:#1c2733;} .Night .menublabel .liwte .line{background:#fff} .Night .menu-section,.Night .panel-default,.index.Night .blogpost,.Night .tabsbox,.Night footer,.Night .blog-post.sections.item-post,.Night .post-tags li,.Night .tourItem .links a,.Night .links,.Night .box-title h1,.Night .box-title h2,.Night .box-title h3,.Night .navtabs li a,.Night .navmenu .linkm,.Night .coMatch,.Night .match-timing .end,.Night #box-posts,.Night #tme_message{background:#263545;} .Night .matchTime .end{background:#023e5d;} .Night .col-md-4.info{border-top:1px solid #263545;} .Night .box-title h1:after,.Night .box-title h2:after,.Night .box-title h3:after,.Night .blogpost .navtabs li a:after{border-color:transparent #3e3e3e transparent transparent} .Night .blog-post.sections.index-post,.Night #latenone,.Night .Share-tags,.Night table tbody .odd,.Night #blog-pager a,.Night .tourItem .item,.Night #postsacs .tourItem.em,.Night #postsacs h2,.Night #postsacs h3,.Night .title-related,.Night table,.Night .post-share,.Night .post-tags,.Night .jubnna,.Night #latejubna,.Night .match-event,.Night #related-posts li,.Night #box-posts ul li a,.Night h2.text-center {background:#1c2733  !important;border:1px solid #121a23  !important;} .Night .box-title,.Night .postTimestamp{background:#121a23;border:0;} .Night .table-bordered tr{border-bottom:1px solid #1c2733} .Night .table-bordered tr{border-bottom:1px solid #1c2733} .Night .table-bordered td{border-right:1px solid #1c2733} .Night .jb-anchor{color:#b0b3b8!important} .Night .footermb a{background:#1c2733;} .Night .main-post-meta{border-top:1px solid #1c2733;border-bottom:1px solid #1c2733;background:#1c2733;} .Night .row.goals .col-md-2 .panel.panel-default,.Night .post-pagination .form-group,.Night .form-group input{color:#e4e6eb;background:#121a23!important} .Night .row.goals .col-md-2 .panel.panel-default{background-color:#1c2733} .Night .panel-footer,.Night #postsacs .panel-footer .hr{border:0;background-color:#1c2733;border-top:1px solid #424242} .Night table tbody tr.even,.Night .brow.even,.Night table thead tr{background-color:#1c2733;} .Night .match-info{border-top:1px solid #263545} .Night  .navmenu .nav .navsiteta a, { background: unset !important; } .Night li.siteta a strong, .Night  div#tabs button.button { background: #1c2733 !important; } .blog-posts-sections {} li.yema a { } li.toda a { background: var(--todaybg); } li.highlights a { background: var(--tomorobg); } .teamname { background: #fff; padding: 5px; display: inline-block; border-radius: 5px; line-height: 16px; min-width: 100px; color: #333; font-weight: bold; } .coMatch{position:relative;margin-bottom:15px;border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 4px rgba(0,0,0,.3);} .backMatch{overflow:hidden;position:relative;display:block;border-radius:8px;background:url(https://lh3.googleusercontent.com/-8XhXQW8xE9o/YRMEqzZVbXI/AAAAAAAAC60/lROwUhvhzYgAcF330Ns2aLBeIYYBj5jAwCLcBGAsYHQ/matchstade.jpg);background-size:100% 100%;} .baMatch{overflow:hidden;display:block;background:rgb(0 0 0 / 59%);} 
+     /*   .match-info li:before{display: flex;justify-content: center;}*/ .index .blog-posts-sections{width:100%} .whatsapp.whatsapp-mobile{display:block} .whatsapp.whatsapp-desktop{display:none} #box-posts ul li{width:50%;} #feeds-posts{height:1350px} } body.Night{background:#1c2733;color:#fff} 50%{opacity:0} @keyframes blinker{50%{opacity:0}} .Night a{color:#fff!important} .Night a:hover{color:#f80!important} .Night .match-event a{color:#fff!important} .Night .navmenu .nav .navsiteta a:hover{border-bottom:2px solid #f80} .Night .menu-section:before{background:rgb(41 41 41 / 78%)} .Night .navbar-brand,.Night .navmenu .nav .navsites a,.Night .dnmo,.Night .navmenu #menubtn:checked ~ .linkm .navsiteta a,.Night .menulabc,.Night .menublabel.op{background-color:#1c2733;} .Night .menublabel .liwte .line{background:#fff} .Night .menu-section,.Night .panel-default,.index.Night .blogpost,.Night .tabsbox,.Night footer,.Night .blog-post.sections.item-post,.Night .post-tags li,.Night .tourItem .links a,.Night .links,.Night .box-title h1,.Night .box-title h2,.Night .box-title h3,.Night .navtabs li a,.Night .navmenu .linkm,.Night .coMatch,.Night .match-timing .end,.Night #box-posts,.Night #tme_message{background:#263545;} .Night .matchTime .end{background:#023e5d;} .Night .col-md-4.info{border-top:1px solid #263545;} .Night .box-title h1:after,.Night .box-title h2:after,.Night .box-title h3:after,.Night .blogpost .navtabs li a:after{border-color:transparent #3e3e3e transparent transparent} .Night .blog-post.sections.index-post,.Night #latenone,.Night .Share-tags,.Night table tbody .odd,.Night #blog-pager a,.Night .tourItem .item,.Night #postsacs .tourItem.em,.Night #postsacs h2,.Night #postsacs h3,.Night .title-related,.Night table,.Night .post-share,.Night .post-tags,.Night .jubnna,.Night #latejubna,.Night .match-event,.Night #related-posts li,.Night #box-posts ul li a,.Night h2.text-center {background:#1c2733  !important;border:1px solid #121a23  !important;} .Night .box-title,.Night .postTimestamp{background:#121a23;border:0;} .Night .table-bordered tr{border-bottom:1px solid #1c2733} .Night .table-bordered tr{border-bottom:1px solid #1c2733} .Night .table-bordered td{border-right:1px solid #1c2733} .Night .jb-anchor{color:#b0b3b8!important} .Night .footermb a{background:#1c2733;} .Night .main-post-meta{border-top:1px solid #1c2733;border-bottom:1px solid #1c2733;background:#1c2733;} .Night .row.goals .col-md-2 .panel.panel-default,.Night .post-pagination .form-group,.Night .form-group input{color:#e4e6eb;background:#121a23!important} .Night .row.goals .col-md-2 .panel.panel-default{background-color:#1c2733} .Night .panel-footer,.Night #postsacs .panel-footer .hr{border:0;background-color:#1c2733;border-top:1px solid #424242} .Night table tbody tr.even,.Night .brow.even,.Night table thead tr{background-color:#1c2733;} .Night .match-info{border-top:1px solid #263545} .Night  .navmenu .nav .navsiteta a, { background: unset !important; } .Night li.siteta a strong, .Night  div#tabs button.button { background: #1c2733 !important; } .blog-posts-sections {} li.yema a { } li.toda a { background: var(--todaybg); } li.more a { background: var(--tomorobg); } .teamname { background: #fff; padding: 5px; display: inline-block; border-radius: 5px; line-height: 16px; min-width: 100px; color: #333; font-weight: bold; } .coMatch{position:relative;margin-bottom:15px;border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 4px rgba(0,0,0,.3);} .backMatch{overflow:hidden;position:relative;display:block;border-radius:8px;background:url(https://lh3.googleusercontent.com/-8XhXQW8xE9o/YRMEqzZVbXI/AAAAAAAAC60/lROwUhvhzYgAcF330Ns2aLBeIYYBj5jAwCLcBGAsYHQ/matchstade.jpg);background-size:100% 100%;} .baMatch{overflow:hidden;display:block;background:rgb(0 0 0 / 59%);} 
     .colmd{width:40%;float:right;text-align:center;padding:35px 0 35px 0;color:#fff;}
     *[dir=&quot;ltr&quot;] .colmd{width:40%;float:left !important;text-align:center;padding:35px 0 35px 0;color:#fff;}
      
@@ -336,7 +335,7 @@ by: https://yosin-tv.net/
 <div class='container'>
 <div class='navbar-brand'>
     <b:section class='header' id='header' maxwidgets='1' name='------------' showaddelement='yes'>
-      <b:widget id='Header1' locked='true' title='IPL 2024 Live Stream (Header)' type='Header' version='1'>
+      <b:widget id='Header1' locked='true' title='YoSinTV: Cricket | Football (Header)' type='Header' version='1'>
         <b:widget-settings>
           <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEgPW62n3GieGxmfl3dOKSs0p1sb9AelxUi7A967d8L82NQYq68_tsDsUdsNXbWhrgy6P7xXQ6nmRlXt0JuyTQDRw5j68jafa3ZhnR_v5q52g41PTk0HcVAlTfcF3G5xr6k5ABqLJ-FZ85vGkK0ip3K7pNEBDQd0DVXv5frMMX0GqRDAo-LrbqFq-djhwuc=s1600</b:widget-setting>
           <b:widget-setting name='displayHeight'>1600</b:widget-setting>
@@ -352,26 +351,9 @@ by: https://yosin-tv.net/
           </b:if>
           <span>www.match-life.com</span>
    <h1><data:title/></h1> </b:if> </a> </b:includable>
-        <b:includable id='behindImageStyle'>
-    <b:if cond='data:sourceUrl'>
-      <b:include cond='data:this.image' data='{                    image: data:this.image,                    selector: &quot;.header-widget&quot;                  }' name='responsiveImageStyle'/>
-      <style type='text/css'>
-        .header-widget {
-          background-position: <data:blog.locale.languageAlignment/>;
-          background-repeat: no-repeat;
-          background-size: cover;
-        }
-      </style>
-    </b:if>
-  </b:includable>
         <b:includable id='description'>
  
 </b:includable>
-        <b:includable id='image'>
-    <a class='header-image-wrapper' expr:href='data:blog.homepageUrl'>
-      <b:include data='{                                                 image: data:image,                                                 altText: data:blog.title.escaped,                                                 originalWidth: data:width,                                                 originalHeight: data:height                                               }' name='responsiveImage'/>
-    </a>
-  </b:includable>
         <b:includable id='title'>
 </b:includable>
       </b:widget>
@@ -594,18 +576,18 @@ by: https://yosin-tv.net/
 
       <b:tag href='/' name='a'><strong>  <b:if cond='data:blog.languageDirection == &quot;ltr&quot;'> Football Live <b:else/>  اليوم</b:if></strong></b:tag> </li> 
     
-    <li class='highlights'>   
-      <b:attr cond='data:blog.view ==  &quot;highlights&quot;' name='class' value='active'/>
+    <li class='more'>   
+      <b:attr cond='data:blog.view ==  &quot;more&quot;' name='class' value='active'/>
  
       
-      <b:tag href='https://www.yosin-tv.net/p/match-highlights.html' name='a'> <strong>  <b:if cond='data:blog.languageDirection == &quot;ltr&quot;'> Highlights <b:else/> الغد </b:if></strong></b:tag> </li>
+      <b:tag href='/?view=more' name='a'> <strong>  <b:if cond='data:blog.languageDirection == &quot;ltr&quot;'> More Live <b:else/> الغد </b:if></strong></b:tag> </li>
     </ul>
       <h2 class='boxstitle'> <b:if cond='data:blog.view ==  &quot;cricket&quot; || data:view.isLayoutMode  == &quot;true&quot;'> 
         <b:if cond='data:blog.languageDirection == &quot;ltr&quot;'> <b:else/>
         </b:if> <strong> 
         <b:if cond='data:blog.languageDirection == &quot;ltr&quot;'> Today Matches <b:else/>
           أهم مباريات الأمس </b:if>
-        </strong> </b:if> <b:if cond='data:blog.view ==  &quot;highlights&quot; || data:view.isLayoutMode  == &quot;true&quot;'> <strong> <b:if cond='data:blog.languageDirection == &quot;ltr&quot;'> Latest Highlights  <b:else/> مباريات الغد </b:if> </strong> </b:if>
+        </strong> </b:if> <b:if cond='data:blog.view ==  &quot;more&quot; || data:view.isLayoutMode  == &quot;true&quot;'> <strong> <b:if cond='data:blog.languageDirection == &quot;ltr&quot;'> More Live <b:else/> مباريات الغد </b:if> </strong> </b:if>
         
         <b:if cond='!data:blog.view || data:view.isLayoutMode  == &quot;true&quot; || data:blog.view ==  &quot;embed&quot;'> 
         <strong> <b:if cond='data:blog.languageDirection == &quot;ltr&quot;'> Today Matches <b:else/> أهم مباريات اليوم </b:if> </strong> </b:if> </h2> </div> 
@@ -617,53 +599,7 @@ by: https://yosin-tv.net/
   <b:section class='recent-wid' id='match-cricket' name='Cricket Matches' showaddelement='yes'>
      <b:widget id='HTML8' locked='false' title='Main Schedule' type='HTML' visible='true'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;!-- Bangladesh vs New Zealand --&gt; 
-&lt;div class=&quot;match-event&quot; id=&quot;jm36679s&quot; data-result=&quot;vs&quot;&gt; &lt;a href=&quot;https://www.yosintv.net/2023/12/new-zealand-vs-bangladesh-2nd-odi-2023.html&quot; title=&quot;Bangladesh vs New Zealand&quot; &gt; &lt;div id=&quot;overlay-match&quot;&gt; &lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Bangladesh&quot; height=&quot;70&quot; src=&quot;https://aimages.willow.tv/teamLogos/bangladesh.png&quot; title=&quot;Bangladesh&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Bangladesh&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot; &gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;7:00 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt;vs &lt;/div&gt; &lt;span id=&quot;mj36679s&quot; class=&quot;match-date&quot; data-start=&quot;2023-12-20T06:00:00+09:00&quot; data-gameends=&quot;2023-12-20T13:00:00+09:00&quot;&gt;&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;New Zealand&quot; height=&quot;70&quot; src=&quot;https://aimages.willow.tv/teamLogos/newzealand.png&quot; title=&quot;New Zealand&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;New Zealand&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
-
-
-
-&lt;!-- India vs S. Africa --&gt; 
-&lt;div class=&quot;match-event&quot; id=&quot;jm18341s&quot; data-result=&quot;vs&quot;&gt; &lt;a href=&quot;https://live.yosin-tv.net/2023/12/south-africa-vs-india-2nd-odi.html&quot; title=&quot;India vs S. Africa&quot; &gt; &lt;div id=&quot;overlay-match&quot;&gt; &lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;India&quot; height=&quot;70&quot; src=&quot;https://aimages.willow.tv/teamLogos/india.png&quot; title=&quot;India&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;India&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot; &gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;8:00 PM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt; vs &lt;/div&gt; &lt;span id=&quot;mj18341s&quot; class=&quot;match-date&quot; data-start=&quot;2023-12-19T20:00:00+09:00&quot; data-gameends=&quot;2023-12-20T01:03:00+09:00&quot;&gt;&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;S. Africa&quot; height=&quot;70&quot; src=&quot;https://aimages.willow.tv/teamLogos/southafrica.png&quot; title=&quot;S. Africa&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;S. Africa&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;</b:widget-setting>
-       </b:widget-settings>
-       <b:includable id='main'>
-  <b:include name='widget-title'/>
-  <div class='widget-content'>
-    <data:content/>
-  </div>
-</b:includable>
-     </b:widget>
-     <b:widget id='HTML20' locked='false' title='BBL' type='HTML' visible='false'>
-       <b:widget-settings>
-         <b:widget-setting name='content'>&lt;div class=&quot;listcolor&quot;&gt;
-&lt;a href=&quot; https://www.yosin-tv.net/p/bbl.html &quot; rel=&quot;follow&quot;&gt;&lt;div&gt;&lt;div&gt;
-&lt;img height=&quot;40&quot; src=&quot;https://cricketvectors.akamaized.net/Series/1FN.png&quot; width=&quot;40&quot; /&gt;
-&lt;/div&gt;&lt;div&gt; Big Bash League - Live  &lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;</b:widget-setting>
-       </b:widget-settings>
-       <b:includable id='main'>
-  <b:include name='widget-title'/>
-  <div class='widget-content'>
-    <data:content/>
-  </div>
-</b:includable>
-     </b:widget>
-     <b:widget id='HTML18' locked='false' title='T10' type='HTML' visible='false'>
-       <b:widget-settings>
-         <b:widget-setting name='content'>&lt;div class=&quot;listcolor&quot;&gt;
-&lt;a href=&quot; https://shorturl.at/gkEMV &quot; rel=&quot;follow&quot;&gt;&lt;div&gt;&lt;div&gt;
-&lt;img height=&quot;40&quot; src=&quot;https://cricketvectors.akamaized.net/Series/1I8.png&quot; width=&quot;40&quot; /&gt;
-&lt;/div&gt;&lt;div&gt; Abu Dhabi T10 League  - Live  &lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;</b:widget-setting>
-       </b:widget-settings>
-       <b:includable id='main'>
-  <b:include name='widget-title'/>
-  <div class='widget-content'>
-    <data:content/>
-  </div>
-</b:includable>
-     </b:widget>
-     <b:widget id='HTML2' locked='false' title='BAN vs NZL' type='HTML' visible='false'>
-       <b:widget-settings>
-         <b:widget-setting name='content'>&lt;div id=&quot;em12535y&quot; class=&quot;match-event  &quot; data-result=&#39;vs&#39;&gt; &lt;a title=&quot;Georgia vs Spain&quot; id=&quot;match-live&quot; href=&quot; https://www.yosin-tv.net/2023/11/ban-vs-nz-1st-test-2023.html &quot;&gt; &lt;div id=&quot;overlay-match&quot;&gt;&lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img alt=&quot;Georgia&quot; height=&quot;70&quot; src=&quot;https://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/ban.png&quot; title=&quot;Georgia&quot; width=&quot;70&quot;/&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt; Bangladesh &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot;&gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt; vs &lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt; &lt;/div&gt; &lt;span id=&quot;dem83270y&quot; class=&quot;match-date&quot; data-start=&quot;2023-11-28T12:30:00+09:00&quot; data-gameends=&quot;2023-12-03T20:30:00+09:00&quot;&gt; 
-&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img alt=&quot;Spain&quot; height=&quot;70&quot; src=&quot;https://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/nzl.png&quot; title=&quot;Spain&quot; width=&quot;70&quot;/&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt; New Zealand &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;</b:widget-setting>
+         <b:widget-setting name='content'/>
        </b:widget-settings>
        <b:includable id='main'>
   <b:include name='widget-title'/>
@@ -708,61 +644,13 @@ There are no important matches
     <b:section class='recent-wid' id='recent-toda' name='Football Matches' showaddelement='yes'>
        <b:widget id='HTML1' locked='false' title='IPL 2023 Live:' type='HTML' visible='true'>
          <b:widget-settings>
-           <b:widget-setting name='content'>&lt;!-- Real Madrid vs Man United Not OK  --&gt;
-&lt;div class=&quot;match-event&quot; id=&quot;jm44859s&quot; data-result=&quot;vs&quot;&gt;
-&lt;a  title=&quot;Real Madrid vs Man United&quot; href=&quot;#&quot; &gt; &lt;div id=&quot;overlay-match&quot;&gt;
-&lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt;
-&lt;div class=&quot;team-logo&quot;&gt; &lt;img  alt=&quot;Real Madrid&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/8633.png&quot; title=&quot;Real Madrid&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Real Madrid&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot; &gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;6:00 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt; vs &lt;/div&gt; &lt;span id=&quot;mj44859s&quot; class=&quot;match-date&quot; data-start=&quot;2023-12-20T06:00:00+09:00&quot; data-gameends=&quot;2023-12-20T12:00:00+09:00&quot;&gt;&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Man United&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/10260.png&quot; title=&quot;Man United&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Man United&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
-
-&lt;div id=&quot;em69178y&quot; class=&quot;match-event  &quot; data-result=&#39;vs&#39;&gt; &lt;a title=&quot;Barcelona vs Leipzig&quot; id=&quot;match-live&quot; href=&quot;#&quot;&gt; &lt;div id=&quot;overlay-match&quot;&gt;&lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img alt=&quot;Barcelona&quot; height=&quot;70&quot; src=&quot;https://cdn.jsdelivr.net/gh/rsmouk/teams@main/spa_barcelona.png&quot; title=&quot;Barcelona&quot; width=&quot;70&quot;/&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Barcelona&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot;&gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;6:00 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt;vs&lt;/div&gt; &lt;span id=&quot;dem48280y&quot; class=&quot;match-date  &quot; data-start=&quot;2023-12-20T06:00:00+09:00&quot; data-gameends=&quot;2023-12-20T20:30:00+09:00&quot;&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img alt=&quot;Leipzig&quot; height=&quot;70&quot; src=&quot;https://cdn.jsdelivr.net/gh/rsmouk/teams@main/ger_rb_leipzig_v2.png&quot; title=&quot;Leipzig&quot; width=&quot;70&quot;/&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Leipzig&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;</b:widget-setting>
-         </b:widget-settings>
-         <b:includable id='main'>
-  <b:include name='widget-title'/>
-  <div class='widget-content'>
-    <data:content/>
-  </div>
-</b:includable>
-       </b:widget>
-       <b:widget id='HTML11' locked='false' title='Main Event Tag' type='HTML' visible='false'>
-         <b:widget-settings>
-           <b:widget-setting name='content'>&lt;div class=&quot;techornate-socials&quot; style=&quot;text-align: center;&quot;&gt; &lt;a class=&quot;fa fa-play&quot;&gt; 
-&lt;span class=&quot;social-counter&quot;&gt; &lt;b&gt;&#9658; Main Event Today &lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;</b:widget-setting>
-         </b:widget-settings>
-         <b:includable id='main'>
-  <b:include name='widget-title'/>
-  <div class='widget-content'>
-    <data:content/>
-  </div>
-</b:includable>
-       </b:widget>
-       <b:widget id='HTML9' locked='false' title='Main Schedule' type='HTML' visible='true'>
-         <b:widget-settings>
-           <b:widget-setting name='content'>&lt;div id=&quot;em85187y&quot; class=&quot;match-event  &quot; data-result=&#39;vs&#39;&gt; &lt;a title=&quot;Urawa Reds vs Man City&quot; id=&quot;match-live&quot; href=&quot;https://live.yosin-tv.net/2023/12/man-city-vs-urawa-red.html&quot;&gt; &lt;div id=&quot;overlay-match&quot;&gt;&lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img alt=&quot;Urawa Reds&quot; height=&quot;70&quot; src=&quot;https://cdn.jsdelivr.net/gh/rsmouk/teams@main/jap_urawa_reds.png&quot; title=&quot;Urawa Reds&quot; width=&quot;70&quot;/&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Urawa Reds&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot;&gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;3:00 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt;vs&lt;/div&gt; &lt;span id=&quot;dem24026y&quot; class=&quot;match-date  &quot; data-start=&quot;2023-12-20T03:00:00+09:00&quot; data-gameends=&quot;2023-12-20T05:00:00+09:00&quot;&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img alt=&quot;Man City&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/8456.png&quot; title=&quot;Man City&quot; width=&quot;70&quot;/&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Man City&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
-
-
-&lt;!-- Dortmund vs Mainz 05 --&gt; 
-&lt;div class=&quot;match-event&quot; id=&quot;jm42711s&quot; data-result=&quot;vs&quot;&gt; &lt;a href=&quot;https://live.yosin-tv.net/2023/12/dortmund-vs-mainz-05.html&quot; title=&quot;Dortmund vs Mainz 05&quot; &gt; &lt;div id=&quot;overlay-match&quot;&gt; &lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Dortmund&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/9789.png&quot; title=&quot;Dortmund&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Dortmund&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot; &gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;4:30 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt;vs&lt;/div&gt; &lt;span id=&quot;mj42711s&quot; class=&quot;match-date&quot; data-start=&quot;2023-12-20T04:30:00+09:00&quot; data-gameends=&quot;2023-12-20T06:30:00+09:00&quot;&gt;&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Mainz 05&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/9905.png&quot; title=&quot;Mainz 05&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Mainz 05&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
-
-
-&lt;!-- Fulham vs Everton --&gt; 
-&lt;div class=&quot;match-event&quot; id=&quot;jm89592s&quot; data-result=&quot;vs&quot;&gt; &lt;a href=&quot;https://live.yosin-tv.net/2023/12/everton-vs-fulham.html&quot; title=&quot;Fulham vs Everton&quot; &gt; &lt;div id=&quot;overlay-match&quot;&gt; &lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Fulham&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/9879.png&quot; title=&quot;Fulham&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Fulham&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot; &gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;4:45 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt; vs &lt;/div&gt; &lt;span id=&quot;mj89592s&quot; class=&quot;match-date&quot; data-start=&quot;2023-12-20T04:45:00+09:00&quot; data-gameends=&quot;2023-12-20T06:45:00+09:00&quot;&gt;&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Everton&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/8668.png&quot; title=&quot;Everton&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Everton&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
+           <b:widget-setting name='content'>&lt;!-- Barcelona vs Osasuna --&gt;
+&lt;div class=&quot;match-event&quot; id=&quot;jm27468s&quot; data-result=&quot;vs&quot;&gt; &lt;a href=&quot;#&quot; title=&quot;Barcelona vs Osasuna&quot; &gt; &lt;div id=&quot;overlay-match&quot;&gt; &lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Barcelona&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/8634.png&quot; title=&quot;Barcelona&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Barcelona&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot; &gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;4:00 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt;&lt;/div&gt;&lt;!--vs--&gt;&lt;span id=&quot;mj27468s&quot; class=&quot;match-date&quot; data-start=&quot;2024-01-12T04:00:00+09:00&quot; data-gameends=&quot;2024-01-12T06:00:00+09:00&quot;&gt;&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Osasuna&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/8371.png&quot; title=&quot;Osasuna&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Osasuna&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
 
 
 
-&lt;!-- Chelsea vs Newcastle --&gt; 
-&lt;div class=&quot;match-event&quot; id=&quot;jm85885s&quot; data-result=&quot;vs&quot;&gt; &lt;a href=&quot;https://live.yosin-tv.net/2023/12/chelsea-vs-newcastle-united.html&quot; title=&quot;Chelsea vs Newcastle&quot; &gt; &lt;div id=&quot;overlay-match&quot;&gt; &lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Chelsea&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/8455.png&quot; title=&quot;Chelsea&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Chelsea&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot; &gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;5:00 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt; vs &lt;/div&gt; &lt;span id=&quot;mj85885s&quot; class=&quot;match-date&quot; data-start=&quot;2023-12-20T05:00:00+09:00&quot; data-gameends=&quot;2023-12-20T07:00:00+09:00&quot;&gt;&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Newcastle&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/10261.png&quot; title=&quot;Newcastle&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Newcastle&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
-
-
-&lt;!-- Napoli vs Frosinone --&gt; 
-&lt;div class=&quot;match-event&quot; id=&quot;jm42432s&quot; data-result=&quot;vs&quot;&gt; &lt;a href=&quot;https://live.yosin-tv.net/2023/12/napoli-vs-frosinone.html&quot; title=&quot;Napoli vs Frosinone&quot; &gt; &lt;div id=&quot;overlay-match&quot;&gt; &lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Napoli&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/9875.png&quot; title=&quot;Napoli&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Napoli&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot; &gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;5:00 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt; vs &lt;/div&gt; &lt;span id=&quot;mj42432s&quot; class=&quot;match-date&quot; data-start=&quot;2023-12-20T05:00:00+09:00&quot; data-gameends=&quot;2023-12-20T07:00:00+09:00&quot;&gt;&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Frosinone&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/9891.png&quot; title=&quot;Frosinone&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Frosinone&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
-
-
-&lt;!-- Atletico Madrid vs Getafe --&gt; 
-&lt;div class=&quot;match-event&quot; id=&quot;jm76284s&quot; data-result=&quot;vs&quot;&gt; &lt;a href=&quot;https://live.yosin-tv.net/2023/12/atletico-madrid-vs-getafe.html&quot; title=&quot;Atletico Madrid vs Getafe&quot; &gt; &lt;div id=&quot;overlay-match&quot;&gt; &lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Atletico Madrid&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/9906.png&quot; title=&quot;Atletico Madrid&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Atletico Madrid&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot; &gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;5:30 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt; vs &lt;/div&gt; &lt;span id=&quot;mj76284s&quot; class=&quot;match-date&quot; data-start=&quot;2023-12-20T05:30:00+09:00&quot; data-gameends=&quot;2023-12-20T07:30:00+09:00&quot;&gt;&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Getafe&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/8305.png&quot; title=&quot;Getafe&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Getafe&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
-
-
-&lt;!-- Granada vs Sevilla --&gt; 
-&lt;div class=&quot;match-event&quot; id=&quot;jm88214s&quot; data-result=&quot;vs&quot;&gt; &lt;a href=&quot;https://live.yosin-tv.net/2023/12/granada-vs-sevilla.html&quot; title=&quot;Granada vs Sevilla&quot; &gt; &lt;div id=&quot;overlay-match&quot;&gt; &lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Granada&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/7878.png&quot; title=&quot;Granada&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Granada&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot; &gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;5:03 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt; vs &lt;/div&gt; &lt;span id=&quot;mj88214s&quot; class=&quot;match-date&quot; data-start=&quot;2023-12-20T05:30:00+09:00&quot; data-gameends=&quot;2023-12-20T06:03:00+09:00&quot;&gt;&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Sevilla&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/8302.png&quot; title=&quot;Sevilla&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Sevilla&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;</b:widget-setting>
+&lt;!-- Juventus vs Frosinone --&gt;
+&lt;div class=&quot;match-event&quot; id=&quot;jm21981s&quot; data-result=&quot;vs&quot;&gt; &lt;a href=&quot;#&quot; title=&quot;Juventus vs Frosinone&quot; &gt; &lt;div id=&quot;overlay-match&quot;&gt; &lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Juventus&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/9885.png&quot; title=&quot;Juventus&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Juventus&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot; &gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;5:00 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt;&lt;/div&gt;&lt;!--vs--&gt;&lt;span id=&quot;mj21981s&quot; class=&quot;match-date&quot; data-start=&quot;2024-01-12T05:00:00+09:00&quot; data-gameends=&quot;2024-01-12T07:00:00+09:00&quot;&gt;&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Frosinone&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/9891.png&quot; title=&quot;Frosinone&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Frosinone&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;</b:widget-setting>
          </b:widget-settings>
          <b:includable id='main'>
   <b:include name='widget-title'/>
@@ -1085,11 +973,6 @@ urn _0x2763b3(_0x37873a);},'QQHEg':_0x5d1ddd(0x3d5,0x3d6,0x380,0x28c,0x31a)+_0x5
       
       </a> </div> </div> <div class='post-info'> <h3 class='post-title'> <a expr:href='data:post.link ? data:post.link : data:post.url'><data:post.title/></a> </h3> </div> <div class='post-footer'> </div> </div> </div>          
                       </b:includable>
-    <b:includable id='nextPageLink'>
-  <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:messages.olderPosts'>
-    <data:messages.olderPosts/>
-  </a>
-</b:includable>
     <b:includable id='nextprev'/>
     <b:includable id='otherSharingButton'/>
     <b:includable id='pagination' var='post'>
@@ -1685,46 +1568,6 @@ We Notify all copyright owners, to discover that the links and media shared by v
  
 
 </b:includable>
-                   <b:includable id='content'>
-  <div class='widget-content'>
-    <b:include name='pageList'/>
-  </div>
-</b:includable>
-                   <b:includable id='overflowButton'>
-  <b:include name='verticalMoreIcon'/>
-</b:includable>
-                   <b:includable id='overflowablePageList'>
-  <div class='overflowable-container'>
-    <div class='overflowable-contents'>
-      <div class='container'>
-        <b:with value='true' var='overflow'>
-        <b:with value='&quot;tabs&quot;' var='pageListClass'>
-          <b:include name='pageList'/>
-        </b:with>
-        </b:with>
-      </div>
-    </div>
-    <div class='overflow-button hidden'>
-      <b:include name='overflowButton'/>
-    </div>
-  </div>
-</b:includable>
-                   <b:includable id='pageLink'>
-  <li>
-    <b:class cond='data:overflow' name='overflowable-item'/>
-    <b:class cond='data:link.isCurrentPage' name='selected'/>
-
-    <a expr:href='data:link.href'><data:link.title/></a>
-  </li>
-</b:includable>
-                   <b:includable id='pageList'>
-  <ul>
-    <b:class cond='data:pageListClass' expr:name='data:pageListClass'/>
-    <b:loop values='data:links' var='link'>
-      <b:include name='pageLink'/>
-    </b:loop>
-  </ul>
-</b:includable>
                  </b:widget>
                  <b:widget id='HTML109' locked='false' title='Telegrame' type='HTML' version='2' visible='false'>
                    <b:widget-settings>
@@ -2107,53 +1950,6 @@ Okay
       
 
       
-      
-<style>
- /* Styles for the centered floating ad */
- #floating-ad {
- display: none;
- position: fixed;
- top: 50%;
- left: 50%;
- transform: translate(-50%, -50%);
- background-color: #fff;
- border: 1px solid #ccc;
- padding: 10px;
- box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
- z-index: 1000;
- }
-
- /* Close button style */
- .close-btn {
- cursor: pointer;
- float: right;
- font-size: 20px;
- font-weight: bold;
- }
- </style>
-
- <!-- <div id='floating-ad'>
- <span class='close-btn' onclick='closeAd()'>&#9421;</span>
- <script async='async' crossorigin='anonymous' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxx'/>
- <ins class='adsbygoogle' data-ad-client='ca-pub-5525538810839147' data-ad-slot='5087351746' style='display: inline-block; width: 300px; height: 250px;'/>
- <script>
- (adsbygoogle = window.adsbygoogle || []).push({});
- </script>
-</div> -->
-
-<script>
- // Function to show the floating ad after 30 seconds
- setTimeout(function () {
- var floatingAd = document.getElementById(&#39;floating-ad&#39;);
- floatingAd.style.display = &#39;block&#39;;
- }, 0000); // 30 seconds
-
- // Function to close the floating ad
- function closeAd() {
- var floatingAd = document.getElementById(&#39;floating-ad&#39;);
- floatingAd.style.display = &#39;none&#39;;
- }
-</script> 
 
       
       
