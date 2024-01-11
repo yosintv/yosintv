@@ -742,12 +742,7 @@
     "name": "M'Gladbach",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png"
   },  
-     
-       {
-    "name": " New____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/____.png"
-  },
-
+    
        
  
   {
@@ -815,143 +810,143 @@
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Morocco",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Sierra Leone",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5803.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Kuwait",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5821.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Germany",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Hungary",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8565.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Scotland",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8498.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Switzerland",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Albania",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10024.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Croatia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Italy",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8204.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Spain",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Denmark",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8238.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "England",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Serbia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8205.png"
   },
      
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Slovenia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5787.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Austria",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8255.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "France",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Netherlands",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6708.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Belgium",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Romania",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9730.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Slovakia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8497.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Czechia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8496.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Portugal",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Turkiye",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6595.png"
   },  
      
      
