@@ -5750,7 +5750,7 @@
      
      
   {
-    "name": "UAE",
+    "name": "UAEE",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5789.png"
   },
        {
