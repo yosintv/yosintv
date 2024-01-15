@@ -16,7 +16,7 @@
 
 
 
-<iframe frameborder="0" height="200" scrolling="no" src="https://www.fctables.com/teams/paris-saint-germain-191585/iframe/?type=team-next-match&amp;lang_id=2&amp;country=77&amp;template=15&amp;team=_____&amp;timezone=Asia/Kolkata&amp;time=24&amp;width=100%&amp;height=250&amp;font=Helvetica&amp;fs=12&amp;lh=22&amp;bg=0a0647&amp;fc=FFFFFF&amp;logo=1&amp;tlink=0&amp;scfs=26&amp;scfc= FFFFFF&amp;scb=1&amp;sclg=0&amp;teamls=80&amp;sh=0&amp;hfb=0&amp;hbc=FFFFFF&amp;hfc= FFFFFF" width="100%"></iframe>
+<iframe frameborder="0" height="200" scrolling="no" src="https://www.fctables.com/teams/yosintv/iframe/?type=team-next-match&amp;lang_id=2&amp;country=77&amp;template=15&amp;team=_____&amp;timezone=Asia/Kolkata&amp;time=24&amp;width=100%&amp;height=250&amp;font=Helvetica&amp;fs=12&amp;lh=22&amp;bg=0a0647&amp;fc=FFFFFF&amp;logo=1&amp;tlink=0&amp;scfs=26&amp;scfc= FFFFFF&amp;scb=1&amp;sclg=0&amp;teamls=80&amp;sh=0&amp;hfb=0&amp;hbc=FFFFFF&amp;hfc= FFFFFF" width="100%"></iframe>
 
 
 
