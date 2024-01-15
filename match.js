@@ -952,136 +952,136 @@
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Ivory Coast",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6709.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "E. Guinea",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8323.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Nigeria",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6346.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Guinea-Bissau",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/230700.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Cape Verde",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5888.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Egypt",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10255.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Mozambique",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5965.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Ghana",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6714.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Senegal",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Cameroon",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6629.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Guinea",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6289.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Gambia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5979.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Algeria",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6317.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Angola",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6712.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Burkina Faso",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6323.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Mauritania",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/68374.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Mali",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5815.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Namibia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5802.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "S. Africaa",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6316.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Tunisia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "DR Congo",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6321.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Tanzania",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7941.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Zambia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6277.png"
   },  
      
      
