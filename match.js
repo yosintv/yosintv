@@ -1093,55 +1093,55 @@
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Sporting CP",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9768.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Benfica",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9772.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "FC Porto",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9773.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Braga",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10264.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Vitoria de G.",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7884.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Moreirense",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8348.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Famalicao",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1634.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Farense",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6004.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Boavista",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8613.png"
   },  
      
      
@@ -1151,55 +1151,55 @@
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Casa Pia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/212821.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Estrela da A",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1074320.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Portimonense",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9765.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Estoril",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7842.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Arouca",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/158085.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Gil Vicente",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9764.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Rio Ave",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7841.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Vizela",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4531.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Chaves",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9774.png"
   },  
      
      
