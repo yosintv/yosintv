@@ -131,9 +131,3 @@ href="https://dd.reducemyweight.net/search?q=https://yosintv.github.io/yosintv/c
 
 
 
-
-
-
-<!--
-<div class="separator" style="clear: both;"><a href="______" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="450" data-original-width="800" src="______" width="320" /></a></div>
--->
