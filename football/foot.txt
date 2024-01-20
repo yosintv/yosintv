@@ -121,7 +121,3 @@ href="https://dd.reducemyweight.net/search?q=___&view=youtube" target="">
   
   <div style="text-align: justify;"><span style="font-size: medium;"><span>YoSinTV Doesn't host any media content on it own Site-Our site visitors might use external or third parties services to show content, (Example: Embedding media from sites like Bet365, Dailymotion , Streamable etc ..) We Notify all copyright owners, to discover that the links and media shared by visitors and contained within this site are hosted somewhere else on the web or embedded from other various sites like above. If you have any legal issues please contact appropriate media file owners / hosters. All trademarks, videos, trade names, service marks, copyrighted work, logos here in belong to their respective owners/companies. </span><a href="/">YoSinTV</a> is not responsible for what other people upload to 3rd party sites..</span></div>
 
-
-<!--
-<div class="separator" style="clear: both;"><a href="_____" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="450" data-original-width="800" src="____" width="320" /></a></div>
--->
