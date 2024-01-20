@@ -59,7 +59,7 @@ href="https://dd.reducemyweight.net/search?q=https://yosintv.github.io/yosintv/m
     
     
 <div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
-href="https://dd.reducemyweight.net/search?q=https://yosintv.github.io/yosintv/m3u8.html?url=https://hls.streambtw.com/live/stream_X.m3u8&view=hls" target="">
+href="https://dd.reducemyweight.net/search?q=https://yosintv.github.io/yosintv/jwplayer.html?url=https://hls.streambtw.com/live/stream_1.m3u8&view=hls" target="">
 <span class="social-counter"><b>Link 2 - _____</b></span></a></li></div>
 
 
