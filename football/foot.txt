@@ -71,7 +71,8 @@ href="https://dd.reducemyweight.net/search?q=https://linecrystal.com/SOCCER/stre
   
 <div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
 href="https://dd.reducemyweight.net/search?q=https://flexsportx.com/zone-X.php&view=youtube" target="">
-<span class="social-counter"><b>Link 4 - _____ </b></span></a></li></div> -->
+<span class="social-counter"><b>Link 4 - _____ </b></span></a></li></div> 
+-->
 
 
 <div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
@@ -83,12 +84,13 @@ href="https://dd.reducemyweight.net/search?q=https://techclips.net/clip/sX.html&
 href="https://dd.reducemyweight.net/search?q=https://gamerarcades.com/assets/sX.html&view=youtube" target="">
 <span class="social-counter"><b>Link 4 - _____ </b></span></a></li></div>
 
+
 <!-- V3 Links-->
 <div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
 href="https://dd.reducemyweight.net/search?q=___&view=youtube" target="">
 <span class="social-counter"><b>Link 5 - _____ </b></span></a></li></div>
   
-  
+
 <div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
 href="https://dd.reducemyweight.net/search?q=___&view=youtube" target="">
 <span class="social-counter"><b>Link 6 - _____ </b></span></a></li></div>
