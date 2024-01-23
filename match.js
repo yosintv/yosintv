@@ -503,7 +503,7 @@
   },  
      
 {
-    "name": "India",
+    "name": "India_",
     "logo": "https://aimages.willow.tv/teamLogos/india.png"
   },  
 
@@ -5713,7 +5713,7 @@
      
      
   {
-    "name": "Indiaa",
+    "name": "India",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6329.png"
   },  
      
