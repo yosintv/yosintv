@@ -508,7 +508,7 @@
   },  
 
 {
-    "name": "Australia",
+    "name": "Australia_",
     "logo": "https://aimages.willow.tv/teamLogos/australia.png"
   },  
 
@@ -797,7 +797,7 @@
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png"
   },
        {
-    "name": "Blank",
+    "name": "Football",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
   },  
      
@@ -5707,7 +5707,7 @@
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5898.png"
   },
        {
-    "name": "Australiaa",
+    "name": "Australia",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6716.png"
   },  
      
