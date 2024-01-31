@@ -1,10 +1,7 @@
 <div>Watch the live match of _____ in HD Quality, Scroll down, check out every links for Smooth Live Stream of _____. Stay tuned with us to watch every live match with us !! </div><div><br /></div>
 
 
-
 <iframe frameborder="0" height="300" scrolling="no" src="https://widgets-livetracker.nami.com/en/football?profile=g9rzlugz3uxie81&amp;trend=0&amp;id=______" width="100%"></iframe>
-
-
 
 
 <div class="container p-0">
@@ -19,8 +16,6 @@
 <div><br />
 <form><input class="MyButton" onclick="window.location.href=''" type="button" value="Refresh Links" /></form>
 <br />
-
-  
   
   
 <script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147"></script>
@@ -29,8 +24,6 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-  
   
     
 <center><div class="techornate-socials"><a class="fa fa-play" 
@@ -62,7 +55,6 @@ href="https://ytv1.reducemyweight.net/search?q=____&view=youtube" target="">
 href="https://ytv1.reducemyweight.net/search?q=___&view=youtube" target=""> 
 <span class="social-counter"><b>Link 6 - _______ </b></span></a></div> </center> 
   
-    
   
  <b>$ads={2}</b> 
   
@@ -71,4 +63,4 @@ href="https://ytv1.reducemyweight.net/search?q=___&view=youtube" target="">
 <div class="container p-0"><div class="post-share text-center m-1"><b:if cond="data:blog.languageDirection == &quot;ltr&quot;"><div style="text-align: center;"><span style="font-family: inherit; font-size: medium;"><b>🔴 YoSinTV: Cricket | Football</b></span></div></b:if></div></div>     
   
   
-  <div style="text-align: justify;"><span style="font-size: medium;"><span>YoSinTV Doesn't host any media content on it own Site-Our site visitors might use external or third parties services to show content, (Example: Embedding media from sites like Bet365, Dailymotion , Streamable etc ..) We Notify all copyright owners, to discover that the links and media shared by visitors and contained within this site are hosted somewhere else on the web or embedded from other various sites like above. If you have any legal issues please contact appropriate media file owners / hosters. All trademarks, videos, trade names, service marks, copyrighted work, logos here in belong to their respective owners/companies. </span><a href="/">YoSinTV</a> is not responsible for what other people upload to 3rd party sites..</span></div>
+<div style="text-align: justify;"><span style="font-size: medium;"><span>YoSinTV Doesn't host any media content on it own Site-Our site visitors might use external or third parties services to show content, (Example: Embedding media from sites like Bet365, Dailymotion , Streamable etc ..) We Notify all copyright owners, to discover that the links and media shared by visitors and contained within this site are hosted somewhere else on the web or embedded from other various sites like above. If you have any legal issues please contact appropriate media file owners / hosters. All trademarks, videos, trade names, service marks, copyrighted work, logos here in belong to their respective owners/companies. </span><a href="/">YoSinTV</a> is not responsible for what other people upload to 3rd party sites..</span></div>
