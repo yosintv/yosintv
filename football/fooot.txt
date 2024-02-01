@@ -1,7 +1,7 @@
 <div>Watch the live match of _____ in HD Quality, Scroll down, check out every links for Smooth Live Stream of _____. Stay tuned with us to watch every live match with us !! </div><div><br /></div>
 
 
-<iframe frameborder="0" height="300" scrolling="no" src="https://widgets-livetracker.nami.com/en/football?profile=g9rzlugz3uxie81&amp;trend=0&amp;id=______" width="100%"></iframe>
+<iframe frameborder="0" height="300" scrolling="no" src="https://widgets-livetracker.nami.com/en/football?profile=g9rzlugz3uxie81&trend=0&id=______" width="100%"></iframe>
 
 
 <div class="container p-0">
