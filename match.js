@@ -1204,8 +1204,8 @@
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Sofascore",
+    "logo": "https://api.sofascore.app/api/v1/team/___/image"
   },  
      
      
