@@ -1,7 +1,4 @@
-<div>Watch the live match of _____ in HD Quality, Scroll down, check out every links for Smooth Live Stream of _____. Stay tuned with us to watch every live match with us !! </div><div><br /></div>
-
-
-<iframe frameborder="0" height="300" scrolling="no" src="https://widgets-livetracker.nami.com/en/football?profile=g9rzlugz3uxie81&trend=0&id=______" width="100%"></iframe>
+<div>Watch the live match of _____ in HD Quality, Scroll down, check out every links for Smooth Live Stream of _____. Stay tuned with us to watch every live match with us !! </div>
 
 
 <div class="container p-0">
@@ -12,8 +9,7 @@
 </div></div>
 
 
-<div><div style="text-align: center;">
-<div><br />
+<div style="text-align: center;"><div><br />
 <form><input class="MyButton" onclick="window.location.href=''" type="button" value="Refresh Links" /></form>
 <br />
   
@@ -27,39 +23,42 @@
   
     
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href="https://v1.reducemyweight.net/search?q=https://yosintv.github.io/yosintv/mid.html?yosintv=____&amp;view=dsz" target="">
+href=" https://stream.cricfoot.net/player.html?src=ttps://yosintv.github.io/yosintv/mid.html?yosintv=____ " target="">
 <span class="social-counter"> <b>Link 1 - _______ </b></span></a></div> </center>
     
     
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href="https://v1.reducemyweight.net/search?q=https://yosintv.github.io/yosintv/jwplayer.html?url=https://hls.streambtw.com/live/stream_X.m3u8&amp;view=hls" target="">
+href="https://stream.cricfoot.net/player.html?src=https://streambtw.com/iframe/chX.php " target="">
 <span class="social-counter"><b>Link 2 - _______ </b></span></a></div> </center>
 
 
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href="https://v1.reducemyweight.net/search?q=____&view=youtube" target=""> 
+href=" https://stream.cricfoot.net/player.html?src=_______ " target=""> 
 <span class="social-counter"><b>Link 3 - _______ </b></span></a></div> </center> 
 
 
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href="https://v1.reducemyweight.net/search?q=https://techclips.net/clip/sX.html&view=youtube" target=""> 
+href=" https://stream.cricfoot.net/player.html?src=https://techclips.net/clip/sX.html " target=""> 
 <span class="social-counter"><b>Link 4 - _______ </b></span></a></div> </center> 
   
     
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href="https://v1.reducemyweight.net/search?q=____&view=youtube" target="">
+href=" https://stream.cricfoot.net/player.html?src=_______ " target="">
 <span class="social-counter"><b>Link 5 - _______ </b></span></a></div> </center>
 
 
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href="https://v1.reducemyweight.net/search?q=___&view=youtube" target=""> 
+href="https://stream.cricfoot.net/player.html?src=_______" target=""> 
 <span class="social-counter"><b>Link 6 - _______ </b></span></a></div> </center> 
   
   
- <b>$ads={2}</b> 
   
-  
-</div></div></div><br /> 
+</div></div><br /> 
+
+<div class="disclaimer" style="text-align: center;"><b><span style="color: black;"> Live Match - Animation Tracker </span></b></div> 
+<iframe frameborder="0" height="300" scrolling="no" src="https://widgets-livetracker.nami.com/en/football?profile=g9rzlugz3uxie81&trend=0&id=______" width="100%"></iframe>
+
+
 <div class="container p-0"><div class="post-share text-center m-1"><b:if cond="data:blog.languageDirection == &quot;ltr&quot;"><div style="text-align: center;"><span style="font-family: inherit; font-size: medium;"><b>🔴 YoSinTV: Cricket | Football</b></span></div></b:if></div></div>     
   
   
