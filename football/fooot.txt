@@ -23,7 +23,7 @@
   
     
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://stream.cricfoot.net/player.html?src=ttps://yosintv.github.io/yosintv/mid.html?yosintv=____ " target="">
+href=" https://stream.cricfoot.net/player.html?src=https://yosintv.github.io/yosintv/mid.html?yosintv=____ " target="">
 <span class="social-counter"> <b>Link 1 - _______ </b></span></a></div> </center>
     
     
