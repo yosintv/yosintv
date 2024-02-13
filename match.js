@@ -802,7 +802,7 @@
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png"
   },
        {
-    "name": "Fotmobb",
+    "name": "Fotmob",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
   },  
      
