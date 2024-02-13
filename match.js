@@ -548,7 +548,7 @@
 
 
          {
-    "name": "Willow",
+    "name": "Willoww",
     "logo": "https://aimages.willow.tv/teamLogos/_____.png"
   }, 
 
@@ -802,7 +802,7 @@
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png"
   },
        {
-    "name": "Fotmob",
+    "name": "Fotmobb",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
   },  
      
