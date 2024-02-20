@@ -20,10 +20,7 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-<center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://si.reducemyweight.net/player.html?hls=https://cakal.click/____.m3u8 " target="">
-<span class="social-counter"> <b>Best Live - _______ </b></span></a></div> </center>
+
   
   
 <center><div class="techornate-socials"><a class="fa fa-play" 
@@ -32,7 +29,7 @@ href=" https://si.reducemyweight.net/player.html?src=https://yosintv.github.io/y
     
     
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href="https://si.reducemyweight.net/player.html?src=https://streambtw.com/iframe/chX.php " target="">
+href="https://si.reducemyweight.net/player.html?src=https://yosintv.github.io/yosintv/jwplayer.html?url=https://hls.streambtw.com/live/stream_X.m3u8 " target="">
 <span class="social-counter"><b>Link 2 - _______ </b></span></a></div> </center>
 
 
