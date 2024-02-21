@@ -1,5 +1,7 @@
 https://hdmatch.xyz/streams/_____.m3u8
 https://hdmatch.xyz:443/streams/_____.m3u8
+https://yosintv.github.io/yosintv/jwplayer.html?url=https://freehdgames.lol/chunklist/hlsch____.m3u8
+
 
 
 https://yosintv.github.io/yosintv/crichd.html?yosintv=willowusa    - Willow USA
