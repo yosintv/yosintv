@@ -1216,71 +1216,71 @@
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Hyderabad",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1086744.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Punjab",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/589749.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Chennaiyin",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/578652.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "East Bengal",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/165184.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Bengaluru",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/485935.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Northeast",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/578656.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Jamshedpur",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/873038.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "FC Goa",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/578650.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Kerala Blasters",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/578654.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Mohun Bagan",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/578651.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Mumbai City",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/578655.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Odisha FC",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/578653.png"
   },  
      
      
