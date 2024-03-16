@@ -1286,11 +1286,72 @@
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "CSK",
+    "logo": "https://api.sofascore.app/api/v1/team/187777/image"
   },  
      
-     
+
+         {
+    "name": "DC",
+    "logo": "https://api.sofascore.app/api/v1/team/187841/image"
+  },  
+
+
+         {
+    "name": "GT",
+    "logo": "https://api.sofascore.app/api/v1/team/410009/image"
+  },  
+
+
+         {
+    "name": "KKR",
+    "logo": "https://api.sofascore.app/api/v1/team/187775/image"
+  },  
+
+
+         {
+    "name": "LSG",
+    "logo": "https://api.sofascore.app/api/v1/team/410010/image"
+  },  
+
+
+         {
+    "name": "MI",
+    "logo": "https://api.sofascore.app/api/v1/team/187780/image"
+  },  
+
+
+         {
+    "name": "PBK",
+    "logo": "https://api.sofascore.app/api/v1/team/187776/image"
+  },  
+
+
+         {
+    "name": "RR",
+    "logo": "https://api.sofascore.app/api/v1/team/187842/image"
+  },  
+
+
+         {
+    "name": "RCB",
+    "logo": "https://api.sofascore.app/api/v1/team/187843/image"
+  },  
+
+
+
+         {
+    "name": "SRH",
+    "logo": "https://api.sofascore.app/api/v1/team/187844/image"
+  },  
+
+
+           {
+    "name": "Nepaal",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/95799.png"
+  },  
+
+       
   {
     "name": "____",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
