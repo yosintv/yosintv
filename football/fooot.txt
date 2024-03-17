@@ -29,7 +29,7 @@ Predicted lineups are available for the match a few days in advance while the ac
 
 <!--
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://br.hls-player.net/player.html?hls=_______ " target="">
+href=" https://br.hls-player.net/player.html?hls=https://play2nm.hnyongshun.cn/live/sd-_______.m3u8 " target="">
 <span class="social-counter"> <b> Fast - _______ </b></span></a></div> </center> 
 
 
