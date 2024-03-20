@@ -1287,62 +1287,62 @@
  
   {
     "name": "CSK",
-    "logo": "https://api.sofascore.app/api/v1/team/187777/image"
+    "logo": "https://aimages.willow.tv/teamLogos/chennaisuperkings.png"
   },  
      
 
          {
     "name": "DC",
-    "logo": "https://api.sofascore.app/api/v1/team/187841/image"
+    "logo": "https://aimages.willow.tv/teamLogos/delhicapitals.png"
   },  
 
 
          {
     "name": "GT",
-    "logo": "https://api.sofascore.app/api/v1/team/410009/image"
+    "logo": "https://aimages.willow.tv/teamLogos/gujarattitans.png"
   },  
 
 
          {
     "name": "KKR",
-    "logo": "https://api.sofascore.app/api/v1/team/187775/image"
+    "logo": "https://aimages.willow.tv/teamLogos/kolkataknightriders.png"
   },  
 
 
          {
     "name": "LSG",
-    "logo": "https://api.sofascore.app/api/v1/team/410010/image"
+    "logo": "https://aimages.willow.tv/teamLogos/lucknowsupergiants.png"
   },  
 
 
          {
     "name": "MI",
-    "logo": "https://api.sofascore.app/api/v1/team/187780/image"
+    "logo": "https://aimages.willow.tv/teamLogos/mumbaiindians.png"
   },  
 
 
          {
-    "name": "PBK",
-    "logo": "https://api.sofascore.app/api/v1/team/187776/image"
+    "name": "PBKS",
+    "logo": "https://aimages.willow.tv/teamLogos/punjabkings.png"
   },  
 
 
          {
     "name": "RR",
-    "logo": "https://api.sofascore.app/api/v1/team/187842/image"
+    "logo": "https://aimages.willow.tv/teamLogos/rajasthanroyals.png"
   },  
 
 
          {
     "name": "RCB",
-    "logo": "https://api.sofascore.app/api/v1/team/187843/image"
+    "logo": "https://aimages.willow.tv/teamLogos/royalchallengersbangalore.png"
   },  
 
 
 
          {
     "name": "SRH",
-    "logo": "https://api.sofascore.app/api/v1/team/187844/image"
+    "logo": "https://aimages.willow.tv/teamLogos/sunrisershyderabad.png"
   },  
 
 
