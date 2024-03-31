@@ -1353,8 +1353,8 @@
 
        
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Imgur",
+    "logo": "https://i.imgur.com/___.png"
   },    
   
        {
