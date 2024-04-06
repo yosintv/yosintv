@@ -34,9 +34,9 @@ href=" https://fr.hls-player.net/player.html?hls=https://play2nm.hnyongshun.cn/l
 
 
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://fr.hls-player.net/player.html?src=https://tinyurl.com/jwplayer1?url=https://cakal.click/___.m3u8" target="">
-<span class="social-counter"> <b> Fast - _______ </b></span></a></div> </center> 
---> 
+href=" https://fr.hls-player.net/player.html?src=_________" target="">
+<span class="social-counter"> <b> Laptop Only - _______ </b></span></a></div> </center> 
+
 
 
 <center><div class="techornate-socials"><a class="fa fa-play" 
