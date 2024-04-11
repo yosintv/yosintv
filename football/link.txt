@@ -1,3 +1,21 @@
+https://yosintv.github.io/yosintv/jwplayer.html?src=https://givemereddit.eu/soccer/mancity.html
+
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 - Sony Ten 1HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 - Sony Ten 2HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 - Sony Ten 3 HD
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 - Sony Ten 4 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8 - Sony Ten 5 HD
+
+ 
+
+
+
+
 https://content.jwplatform.com/libraries/IDzF9Zmk.js
 
 https://www.kqt82.com/football/
@@ -9,25 +27,7 @@ https://weakspell.to/category/soccer-streams/
 https://sportea.eu/
 https://librefutboltv.net/
 
-https://cakal.click/______.m3u8
 
-https://hdmatch.xyz/streams/_____.m3u8
-https://hdmatch.xyz:443/streams/_____.m3u8
-https://yosintv.github.io/yosintv/jwplayer.html?url=https://freehdgames.lol/chunklist/hlsch____.m3u8
-
-<!-- Working-->
-https://pull2.tangyuan1688.com/live/sd-1-_____.m3u8
-
-
-https://pull2.tangyuan1688.com/live/hd-en-1-____.m3u8
-
-
-
-https://play.aomeila.cn/live/hd-en-_____.m3u8
-
-<!-- Not Working -->
-https://xzbonlinepull.pq8.co/live/sd-1-_____.m3u8
-https://xzbonlinepull.pq8.co/live/hd-en-1-_____.m3u8 
 
 
 https://ddkanqiu.net/
