@@ -5,8 +5,8 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 
 
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 - Sony Ten 1HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 - Sony Ten 2HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 - Sony Ten 1 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 - Sony Ten 2 HD
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 - Sony Ten 3 HD
 https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 - Sony Ten 4 HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8 - Sony Ten 5 HD
@@ -36,6 +36,28 @@ https://cctv5zhibo.cc/
 http://www.zhibo8.net/match-list.html
 
 
+<!--Important-->
+https://www.24s.live/
+https://yosintv.github.io/yosintv/generator.html
+https://en.yallashoot.me/
+https://live.syrialive.online/
+https://om.jeinzmacias.io/
+https://easy-sport.tv/
+https://www.soccerstreams.football/reddit
+https://178tiyu.live/lives
+https://techclips.net/schedule/soccerstreams/
+https://sportsonline.gl/prog.txt
+https://streambtw.com/
+https://cricket1.sportshub.stream/
+
+
+https://pericror.com/software/iframe-detector-chrome-extension/
+https://webextension.org/listing/hls-downloader.html
+https://chrome.google.com/webstore/detail/cfklmhljnpiobjgmnllgjioekopgpboo
+
+
+
+<!-- Cricket Links-->
 https://yosintv.github.io/yosintv/crichd.html?yosintv=willowusa    - Willow USA
 https://yosintv.github.io/yosintv/crichd.html?yosintv=superspcric  - SuperSport Cricket
 https://yosintv.github.io/yosintv/crichd.html?yosintv=asports      - A Sports HD
