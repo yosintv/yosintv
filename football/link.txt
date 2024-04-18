@@ -11,11 +11,11 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 
 
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 - Sony Ten 1 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 - Sony Ten 2 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 - Sony Ten 3 HD
-https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 - Sony Ten 4 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8 - Sony Ten 5 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 - Sony Ten 1 HD - https://tinyurl.com/sony1hdd
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 - Sony Ten 2 HD - https://tinyurl.com/zjxspxxt
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 - Sony Ten 3 HD - https://tinyurl.com/mu2yxaru
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 - Sony Ten 4 HD - https://tinyurl.com/ych42enk
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8 - Sony Ten 5 HD - https://tinyurl.com/3yd6myxh
 
  
 
