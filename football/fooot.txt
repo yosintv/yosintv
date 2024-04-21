@@ -29,56 +29,56 @@ Predicted lineups are available for the match a few days in advance while the ac
 
 <!--
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://ir.hls-player.net/player.html?src=https://yosintv2.github.io/tv/ads20.html?newUrl=_________" target="">
+href=" https://yosintv2.github.io/ads/foot.html?id=_________" target="">
 <span class="social-counter"> <b> Best - _______ </b></span></a></div> </center> 
 -->
 
 
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://ir.hls-player.net/player.html?src=https://yosintv2.github.io/tv/ads20.html?newUrl=_______?embed=1 " target="">
+href=" https://yosintv2.github.io/ads/foot.html?id=_______?embed=1 " target="">
 <span class="social-counter"> <b> Fast - _______ </b></span></a></div> </center> 
 
 
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://ir.hls-player.net/player.html?src=https://yosintv2.github.io/tv/ads20.html?newUrl=https://yosintv2.github.io/tv/mid.html?yosintv=_____ " target="">
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?yosintv=_____ " target="">
 <span class="social-counter"> <b> Fast - _______ </b></span></a></div> </center>
 
 
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://ir.hls-player.net/player.html?src=https://yosintv2.github.io/tv/ads20.html?newUrl=https://yosintv.github.io/yosintv/mid.html?yosintv=____ " target="">
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv.github.io/yosintv/mid.html?yosintv=____ " target="">
 <span class="social-counter"> <b> Link 1 - _______ </b></span></a></div> </center>
 
 
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://ir.hls-player.net/player.html?src=https://yosintv2.github.io/tv/ads20.html?newUrl=https://linecrystal.com/events/streamX/" target=""> 
+href=" https://yosintv2.github.io/ads/foot.html?id=https://linecrystal.com/events/streamX/" target=""> 
 <span class="social-counter"><b> Link 2 - _______ </b></span></a></div> </center> 
 
 
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://hr.hls-player.net/player.html?src=https://yosintv2.github.io/tv/ads20.html?newUrl=https://techclips.net/clip/sX.html " target=""> 
+href=" https://yosintv2.github.io/ads/foot.html?id=https://techclips.net/clip/sX.html " target=""> 
 <span class="social-counter"><b> Link 3 - _______ </b></span></a></div> </center> 
 
 
 <!--
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href="https://ir.hls-player.net/player.html?src=https://yosintv2.github.io/tv/ads20.html?newUrl=https://elixx.xyz/aw/_____.php " target="">
+href="https://yosintv2.github.io/ads/foot.html?id=https://elixx.xyz/aw/_____.php " target="">
 <span class="social-counter"><b> Link 4 - _______ </b></span></a></div> </center>
 -->
 
 
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href="https://ir.hls-player.net/player.html?src=https://tinyurl.com/jwplayer1?url=https://hls.streambtw.com/live/stream_X.m3u8 " target="">
+href="https://yosintv2.github.io/ads/foot.html?id=https://hls.streambtw.com/live/stream_X.m3u8 " target="">
 <span class="social-counter"><b> Link 4 - _______ </b></span></a></div> </center>
 
 
 
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://ir.hls-player.net/player.html?src=https://yosintv2.github.io/tv/ads20.html?newUrl=_______ " target=""> 
+href=" https://yosintv2.github.io/ads/foot.html?id=_______ " target=""> 
 <span class="social-counter"><b> Link 5 - _______ </b></span></a></div> </center> 
 
 
 <center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://ir.hls-player.net/player.html?src=https://yosintv2.github.io/tv/ads20.html?newUrl=_______ " target="">
+href=" https://yosintv2.github.io/ads/foot.html?id=_______ " target="">
 <span class="social-counter"><b> Link 6 - _______ </b></span></a></div> </center>
 
   
