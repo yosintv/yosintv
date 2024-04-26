@@ -1,4 +1,5 @@
-<div>Watch the live match of _________ in HD Quality, Scroll down, check out every links for Smooth Live Stream of _________. Stay tuned with us to watch every live match with us !! </div>
+<div>Watch the live match of _________ in HD Quality, Scroll down, check out every links for Smooth Live Stream of _________. 
+Stay tuned with us to watch every live match with us !! </div>
 
 
 
@@ -21,7 +22,7 @@
 <tbody style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;">
 
   
-<!-- Tour Name -->
+<!-- League Name -->
 <tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><td colspan="2" rowspan="1" style="background: rgb(2, 8, 82); border: 0.7pt solid black; font-stretch: inherit; font-variant-east-asian: inherit; font-variant-numeric: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 366.667px;"><span style="color: white;">
 <span style="font-size: 22px;"><b>  _________  </b></span></span></td></tr> 
 
@@ -32,16 +33,16 @@
 
 
 
-<!-- Tour Full Date -->
+<!-- This Match FullDate -->
 <tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 1px; padding: 0px; vertical-align: baseline;"><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 181.524px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-family: inherit; font-size: medium;">Date</span></strong></td><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 180.762px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-family: inherit; font-size: medium;"> _________ </span></strong></td></tr> 
 
 
-<!-- Match Time -->
+<!-- This Match Time -->
 <tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 181.524px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-family: inherit; font-size: medium;">Time</span></strong></td><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 180.762px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;">
 <span style="font-family: inherit; font-size: medium;"> 02:30 PM LOCAL <br /></span></strong></td></tr> 
 
 
-<!-- Venue Name -->
+<!-- This Match Venue Name -->
 <tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 181.524px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-family: inherit; font-size: medium;"> Venue </span></strong></td><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-variant-east-asian: inherit; font-variant-numeric: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 180.762px;">
 <span style="font-size: medium;"><b> _________ </b></span></td></tr> 
 
@@ -81,22 +82,22 @@
 
   
 <div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
-href="https://yosintv.reducemyweight.net/search?q=____&view=dsz" target="">
+href="https://gm.reducemyweight.net/player.html?src=_____" target="">
 <span class="social-counter"> <b>Link 1 - _____</b></span></a></li></div>
     
     
 <div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
-href="https://yosintv.reducemyweight.net/search?q=https://yosintv.github.io/yosintv/crichd.html?yosintv=____&view=yosintv" target="">
+href="https://gm.reducemyweight.net/player.html?src=_____" target="">
 <span class="social-counter"><b>Link 2 - _____</b></span></a></li></div>
   
   
 <div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
-href="https://yosintv.reducemyweight.net/search?q=https://yosintv.github.io/yosintv/crichd.html?yosintv=____&view=yosintv" target="">
+href="https://gm.reducemyweight.net/player.html?src=_____" target="">
 <span class="social-counter"><b>Link 3 - _____ </b></span></a></li></div>
   
   
 <div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
-href="https://yosintv.reducemyweight.net/search?q=https://yosintv.github.io/yosintv/crichd.html?yosintv=____&view=yosintv" target="">
+href="https://gm.reducemyweight.net/player.html?src=_____" target="">
 <span class="social-counter"><b>Link 4 - _____ </b></span></a></li></div>
 
   
@@ -117,17 +118,15 @@ href="https://yosintv.reducemyweight.net/search?q=https://yosintv.github.io/yosi
 
 
 
-</div></div></div><br /> 
+</div></div></div><br/> 
 
 <div class="container p-0"><div class="post-share text-center m-1"><b:if cond="data:blog.languageDirection == &quot;ltr&quot;"><div style="text-align: center;"><span style="font-family: inherit; font-size: medium;"><b>🔴 YoSinTV: Cricket | Football</b></span></div></b:if></div></div>
 
- 
-
-<div class="container p-0"><div class="post-share text-center m-1"><b:if cond="data:blog.languageDirection == &quot;ltr&quot;"><div style="text-align: center;"><span style="font-family: inherit; font-size: medium;"><b>❌ Attention !!</b></span></div></b:if></div></div>    
 
 
 
- <div style="text-align: justify;"><span style="font-size: medium;"><span>YoSinTV Doesn't host any media content on it own Site-Our site visitors might use external or third parties services to show content, (Example: Embedding media from sites like Bet365, Dailymotion , Streamable etc ..) We Notify all copyright owners, to discover that the links and media shared by visitors and contained within this site are hosted somewhere else on the web or embedded from other various sites like above. If you have any legal issues please contact appropriate media file owners / hosters. All trademarks, videos, trade names, service marks, copyrighted work, logos here in belong to their respective owners/companies. </span><a href="/">YoSinTV</a> is not responsible for what other people upload to 3rd party sites..</span></div>
+
+<div style="text-align: justify;"><span style="font-size: medium;"><span>YoSinTV Doesn't host any media content on it own Site-Our site visitors might use external or third parties services to show content, (Example: Embedding media from sites like Bet365, Dailymotion , Streamable etc ..) We Notify all copyright owners, to discover that the links and media shared by visitors and contained within this site are hosted somewhere else on the web or embedded from other various sites like above. If you have any legal issues please contact appropriate media file owners / hosters. All trademarks, videos, trade names, service marks, copyrighted work, logos here in belong to their respective owners/companies. </span><a href="/">YoSinTV</a> is not responsible for what other people upload to 3rd party sites..</span></div>
 
 
 
