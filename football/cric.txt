@@ -2,8 +2,6 @@
 Stay tuned with us to watch every live match with us !! </div>
 
 
-
-
 <!-- Post Responsive Ads -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -14,8 +12,6 @@ Stay tuned with us to watch every live match with us !! </div>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-
 
 
 <table border="0" cellpadding="0" cellspacing="0" style="background-color: white; border-collapse: collapse; border-spacing: 0px; border: 0.8pt solid rgb(0, 0, 0); color: black; font-stretch: inherit; font-variant-east-asian: inherit; font-variant-numeric: inherit; line-height: inherit; margin: 0px 0px 1.25rem; padding: 0px; text-align: center; vertical-align: baseline; width: 100%;">
@@ -26,7 +22,6 @@ Stay tuned with us to watch every live match with us !! </div>
 <tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><td colspan="2" rowspan="1" style="background: rgb(2, 8, 82); border: 0.7pt solid black; font-stretch: inherit; font-variant-east-asian: inherit; font-variant-numeric: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 366.667px;"><span style="color: white;">
 <span style="font-size: 22px;"><b>  _________  </b></span></span></td></tr> 
 
-  
 
 <!-- Tour Name -->
 <tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><td colspan="2" rowspan="1" style="background: rgb(0, 0, 0); border: 0.7pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 366.667px;"><strong style="border: 0px; color: white; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="border: 0px; font-family: inherit; font-size: medium; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"> Match Info </span></strong></td></tr> 
@@ -37,8 +32,7 @@ Stay tuned with us to watch every live match with us !! </div>
 <span style="font-family: inherit; font-size: medium;"> _______ <br /></span></strong></td></tr> 
 
 
-
-<!-- This Match FullDate -->
+<!-- This Match Date -->
 <tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 1px; padding: 0px; vertical-align: baseline;"><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 181.524px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-family: inherit; font-size: medium;">Date</span></strong></td><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 180.762px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-family: inherit; font-size: medium;"> _________ </span></strong></td></tr> 
 
 
@@ -47,13 +41,10 @@ Stay tuned with us to watch every live match with us !! </div>
 <span style="font-family: inherit; font-size: medium;"> 02:30 PM LOCAL <br /></span></strong></td></tr> 
 
 
-<!-- This Match Venue Name -->
+<!-- This Match Venue -->
 <tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 181.524px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-family: inherit; font-size: medium;"> Venue </span></strong></td><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-variant-east-asian: inherit; font-variant-numeric: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 180.762px;">
 <span style="font-size: medium;"><b> _________ </b></span></td></tr> 
-
-
 </tbody></table>
-
 
 
 <div class="container p-0">
@@ -61,16 +52,13 @@ Stay tuned with us to watch every live match with us !! </div>
 <div style="text-align: center;"><b style="font-family: arial; font-size: 13px;">👉</b><b style="font-family: arial; font-size: 13px;">The match links are activated 15 minutes before starts.</b></div>
 <span style="text-align: center;">
 <div><span><span style="font-size: 13px;"><i style="font-family: arial;">👉</i><span style="font-family: arial;"><b>Go to below links to get matches. If the first link doesn’t work, go for the second or third link.</b></span></span></span></div></span>
-
 </div></div>
-
 
 
 <div><div style="text-align: center;">
 <div><br />
 <form><input class="MyButton" onclick="window.location.href=''" type="button" value="Refresh Links" /></form>
 <br />
-
 
 
 <!-- Post Responsive Ads -->
@@ -83,7 +71,6 @@ Stay tuned with us to watch every live match with us !! </div>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
   
 <div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
