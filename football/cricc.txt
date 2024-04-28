@@ -33,3 +33,11 @@ href=" https://__.reducemyweight.net/player.html?src=____ " target="">
   
 </div></div><br /> 
 <div class="container p-0"><div class="post-share text-center m-1"><b:if cond="data:blog.languageDirection == &quot;ltr&quot;"><div style="text-align: center;"><span style="font-family: inherit; font-size: medium;"><b>🔴 YoSinTV: Cricket | Football</b></span></div></b:if></div></div>     
+
+
+<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147"></script>
+<!--Post Responsive Ads-->
+<ins class="adsbygoogle" data-ad-client="ca-pub-5525538810839147" data-ad-format="auto" data-ad-slot="3536360020" data-full-width-responsive="true" style="display: block;"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
