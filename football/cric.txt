@@ -33,7 +33,6 @@ Stay tuned with us to watch every live match with us !! </div>
 <span style="font-size: 22px;"><b>  _________  </b></span></span></td></tr> 
 
 
-<!-- Tour Name -->
 <tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><td colspan="2" rowspan="1" style="background: rgb(0, 0, 0); border: 0.7pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 366.667px;"><strong style="border: 0px; color: white; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="border: 0px; font-family: inherit; font-size: medium; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"> Match Info </span></strong></td></tr> 
 
 
@@ -48,7 +47,7 @@ Stay tuned with us to watch every live match with us !! </div>
 
 <!-- This Match Time -->
 <tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 181.524px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-family: inherit; font-size: medium;">Time</span></strong></td><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 180.762px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;">
-<span style="font-family: inherit; font-size: medium;"> 02:30 PM LOCAL <br /></span></strong></td></tr> 
+<span style="font-family: inherit; font-size: medium;"> _____ <br /></span></strong></td></tr> 
 
 
 <!-- This Match Venue -->
@@ -112,7 +111,7 @@ href="https://gm.reducemyweight.net/player.html?src=_____" target="">
 
 
 
-<div style="text-align: justify;"><span style="font-size: medium;"><span>YoSinTV Doesn't host any media content on it own Site-Our site visitors might use external or third parties services to show content, (Example: Embedding media from sites like Bet365, Dailymotion , Streamable etc ..) We Notify all copyright owners, to discover that the links and media shared by visitors and contained within this site are hosted somewhere else on the web or embedded from other various sites like above. If you have any legal issues please contact appropriate media file owners / hosters. All trademarks, videos, trade names, service marks, copyrighted work, logos here in belong to their respective owners/companies. </span><a href="/">YoSinTV</a> is not responsible for what other people upload to 3rd party sites..</span></div>
+<div style="text-align: justify;"><span style="font-size: medium;"><span>YoSinTV Doesn't host any media content on it own Site-Our site visitors might use external or third parties services to show content, (Example: Embedding media from sites like Bet365, Dailymotion , Streamable etc ..) We Notify all copyright owners, to discover that the links and media shared by visitors and contained within this site are hosted somewhere else on the web or embedded from other various sites like above. </span></div>
 
 
 
