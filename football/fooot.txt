@@ -104,7 +104,7 @@ href=" https://yosintv2.github.io/ads/foot.html?id=_______ " target="">
 </div></div><br /> 
 <!-- Animation Here-->
 <div class="disclaimer" style="text-align: center;"><b><span style="color: black;"> Live Match - Animation Tracker </span></b></div> 
-<iframe frameborder="0" height="300" scrolling="no" src="https://widgets-livetracker.nami.com/en/football?profile=g9rzlugz3uxie81&trend=0&id=______" width="100%"></iframe>
+<iframe frameborder="0" height="300" scrolling="no" src="https://yosintv.github.io/yosintv/football/tracker.html?id=____" width="100%"></iframe>
 
 
 
