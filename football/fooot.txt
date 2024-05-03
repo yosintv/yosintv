@@ -35,6 +35,14 @@ Predicted lineups are available for the match a few days in advance while the ac
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
+<!-- Animation Here-->
+<div class="disclaimer" style="text-align: center;"><b><span style="color: black;"> Live Match - Animation Tracker </span></b></div> 
+<iframe frameborder="0" height="300" scrolling="no" src="https://widgets-livetracker.nami.com/en/football?profile=g9rzlugz3uxie81&trend=0&id=3939488" width="100%"></iframe>
+</div></div><br/>
+
+
+
 <!--
 <center><div class="techornate-socials"><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=_________" target="">
@@ -88,24 +96,6 @@ href=" https://yosintv2.github.io/ads/foot.html?id=_______ " target="">
 <center><div class="techornate-socials"><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=_______ " target="">
 <span class="social-counter"><b> Link 6 - _______ </b></span></a></div> </center>
-
-
-
-<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147"></script>
-<!--Post Responsive Ads-->
-<ins class="adsbygoogle" data-ad-client="ca-pub-5525538810839147" data-ad-format="auto" data-ad-slot="3536360020" data-full-width-responsive="true" style="display: block;"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-
-</div></div><br /> 
-<!-- Animation Here-->
-<div class="disclaimer" style="text-align: center;"><b><span style="color: black;"> Live Match - Animation Tracker </span></b></div> 
-<iframe frameborder="0" height="300" scrolling="no" src="https://yosintv.github.io/yosintv/football/tracker.html?id=____" width="100%"></iframe>
-
 
 
 
