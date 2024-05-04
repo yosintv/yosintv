@@ -217,6 +217,7 @@ by: https://yosin-tv.net/
           <b:widget id='LinkList3' locked='false' title='color settings' type='LinkList' version='2' visible='true'>
             <b:widget-settings>
               <b:widget-setting name='text-10'>Color match soon  live-soon</b:widget-setting>
+              <b:widget-setting name='shownum'>734294560</b:widget-setting>
               <b:widget-setting name='link-17'>none</b:widget-setting>
               <b:widget-setting name='link-16'>Neo Sans Arabic, Changa, Segoe UI</b:widget-setting>
               <b:widget-setting name='sorting'>NONE</b:widget-setting>
@@ -274,6 +275,7 @@ by: https://yosin-tv.net/
               <b:widget-setting name='text-4'>Ennable encode link (beta) encode</b:widget-setting>
               <b:widget-setting name='text-7'>Autoplay video xautoplay</b:widget-setting>
               <b:widget-setting name='text-6'>Player Logo logox</b:widget-setting>
+              <b:widget-setting name='shownum'>100000000</b:widget-setting>
               <b:widget-setting name='sorting'>NONE</b:widget-setting>
               <b:widget-setting name='link-1'>5</b:widget-setting>
               <b:widget-setting name='link-2'>5525538810839147</b:widget-setting>
@@ -335,7 +337,7 @@ by: https://yosin-tv.net/
 <div class='container'>
 <div class='navbar-brand'>
     <b:section class='header' id='header' maxwidgets='1' name='------------' showaddelement='yes'>
-      <b:widget id='Header1' locked='true' title='YoSinTV: Cricket | Football (Header)' type='Header' version='1'>
+      <b:widget id='Header1' locked='true' title='YoSinTV Store (Header)' type='Header' version='1'>
         <b:widget-settings>
           <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEgPW62n3GieGxmfl3dOKSs0p1sb9AelxUi7A967d8L82NQYq68_tsDsUdsNXbWhrgy6P7xXQ6nmRlXt0JuyTQDRw5j68jafa3ZhnR_v5q52g41PTk0HcVAlTfcF3G5xr6k5ABqLJ-FZ85vGkK0ip3K7pNEBDQd0DVXv5frMMX0GqRDAo-LrbqFq-djhwuc=s1600</b:widget-setting>
           <b:widget-setting name='displayHeight'>1600</b:widget-setting>
@@ -405,6 +407,7 @@ by: https://yosin-tv.net/
    <b:section class='top-header' id='social' maxwidgets='1' name='------------' showaddelement='no'>
      <b:widget id='LinkList1' locked='true' title='Follow pages' type='LinkList' version='2' visible='true'>
        <b:widget-settings>
+         <b:widget-setting name='shownum'>100000000</b:widget-setting>
          <b:widget-setting name='link-3'>https://www.youtube.com/channel/UCxlTgCX3au3xsNN_lR-IRug/</b:widget-setting>
          <b:widget-setting name='sorting'>NONE</b:widget-setting>
          <b:widget-setting name='text-1'>twitter</b:widget-setting>
@@ -462,7 +465,7 @@ by: https://yosin-tv.net/
     </b:widget>
     <b:widget id='HTML256' locked='false' title='Search Box' type='HTML' version='2' visible='false'>
       <b:widget-settings>
-        <b:widget-setting name='content'>&lt;style type=&quot;text/css&quot;&gt;
+        <b:widget-setting name='content'><![CDATA[<style type="text/css">
     #hbz-searchbox {
         min-width: 250px;
         margin: 10px auto;
@@ -474,7 +477,7 @@ by: https://yosin-tv.net/
     #hbz-input {
         width: 59.2%;
         padding: 10.5px 4%;
-        font: bold 15px &quot;lucida sans&quot;, &quot;trebuchet MS&quot;, &quot;Tahoma&quot;;
+        font: bold 15px "lucida sans", "trebuchet MS", "Tahoma";
         border: none;
     }
    
@@ -493,13 +496,13 @@ by: https://yosin-tv.net/
         cursor: pointer;
         height: 40px;
         width: 32.8%;
-        font: bold 15px/40px &quot;lucida sans&quot;, &quot;trebuchet MS&quot;, &quot;Tahoma&quot;;
+        font: bold 15px/40px "lucida sans", "trebuchet MS", "Tahoma";
         color: #FFF;
         background-color: #D83C3C;
     }
    
     #hbz-submit::before {
-        content: &quot;&quot;;
+        content: "";
         position: absolute;
         border-width: 8px;
         border-style: solid solid solid none;
@@ -526,15 +529,15 @@ by: https://yosin-tv.net/
     #hbz-submit:hover::before {
         border-color: transparent #E54040;
 }
-&lt;/style&gt;
+</style>
 
-&lt;b:if cond=&#39;data:view.isHomepage || data:view.isPage&#39;&gt; 
-&lt;form id=&quot;hbz-searchbox&quot; action=&quot;/search&quot; method=&quot;get&quot;&gt;
-    &lt;input type=&quot;text&quot; id=&quot;hbz-input&quot; name=&quot;q&quot; placeholder=&quot;Search today match...&quot; /&gt;
-    &lt;input type=&quot;hidden&quot; name=&quot;max-results&quot; value=&quot;8&quot; /&gt;
-    &lt;button id=&quot;hbz-submit&quot; type=&quot;submit&quot;&gt;Search&lt;/button&gt;
-&lt;/form&gt;
-&lt;/b:if&gt;</b:widget-setting>
+<b:if cond='data:view.isHomepage || data:view.isPage'> 
+<form id="hbz-searchbox" action="/search" method="get">
+    <input type="text" id="hbz-input" name="q" placeholder="Search today match..." />
+    <input type="hidden" name="max-results" value="8" />
+    <button id="hbz-submit" type="submit">Search</button>
+</form>
+</b:if>]]></b:widget-setting>
       </b:widget-settings>
       <b:includable id='main'>
         <div expr:class='&quot;alert alert-&quot;+data:title' role='alert'><data:content/></div>
@@ -610,9 +613,9 @@ by: https://yosin-tv.net/
      </b:widget>
      <b:widget id='HTML3' locked='true' title='There are no important matches' type='HTML' version='2' visible='false'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;div class=&quot;match-event&quot;&gt; &lt;h4&gt;
+         <b:widget-setting name='content'><![CDATA[<div class="match-event"> <h4>
 There are no important matches
-&lt;/h4&gt; &lt;/div&gt;</b:widget-setting>
+</h4> </div>]]></b:widget-setting>
        </b:widget-settings>
        <b:includable id='main'> <div class='derard'> <data:content/> </div> </b:includable>
      </b:widget>
@@ -622,8 +625,8 @@ There are no important matches
   <b:section class='recent-wid' id='match-highlights' name='Highlights' showaddelement='yes'>
      <b:widget id='HTML10' locked='false' title='Cricket Highlights' type='HTML' visible='true'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;div class=&quot;listcolor&quot;&gt;
-&lt;a href=&quot; https://a1.reducemyweight.net/search?q=https://shorturl.at/mwFM4&amp;view=youtube &quot; rel=&quot;follow&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;img height=&quot;50&quot; src=&quot; https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png &quot; width=&quot;50&quot; /&gt;&lt;/div&gt;&lt;div&gt; IND vs AUS 1st T20 Highlights &lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;</b:widget-setting>
+         <b:widget-setting name='content'><![CDATA[<div class="listcolor">
+<a href=" https://a1.reducemyweight.net/search?q=https://shorturl.at/mwFM4&view=youtube " rel="follow"><div><div><img height="50" src=" https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png " width="50" /></div><div> IND vs AUS 1st T20 Highlights </div></div></a></div>]]></b:widget-setting>
        </b:widget-settings>
        <b:includable id='main'>
   <b:include name='widget-title'/>
@@ -634,8 +637,8 @@ There are no important matches
      </b:widget>
      <b:widget id='HTML5' locked='true' title='Football Highlights' type='HTML' version='2' visible='true'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;div class=&quot;listcolor&quot;&gt;
-&lt;a href=&quot; # &quot; rel=&quot;follow&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;img height=&quot;50&quot; src=&quot; https://raw.githubusercontent.com/yosintv/yosintv/main/football/soccer.png &quot; width=&quot;50&quot; /&gt;&lt;/div&gt;&lt;div&gt; All Football Highlights &lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;</b:widget-setting>
+         <b:widget-setting name='content'><![CDATA[<div class="listcolor">
+<a href=" # " rel="follow"><div><div><img height="50" src=" https://raw.githubusercontent.com/yosintv/yosintv/main/football/soccer.png " width="50" /></div><div> All Football Highlights </div></div></a></div>]]></b:widget-setting>
        </b:widget-settings>
        <b:includable id='main'> <b:include name='widget-title'/> <div class='widget-content'> <data:content/> </div> </b:includable>
      </b:widget>
@@ -644,13 +647,13 @@ There are no important matches
     <b:section class='recent-wid' id='recent-toda' name='Football Matches' showaddelement='yes'>
        <b:widget id='HTML1' locked='false' title='IPL 2023 Live:' type='HTML' visible='true'>
          <b:widget-settings>
-           <b:widget-setting name='content'>&lt;!-- Barcelona vs Osasuna --&gt;
-&lt;div class=&quot;match-event&quot; id=&quot;jm27468s&quot; data-result=&quot;vs&quot;&gt; &lt;a href=&quot;#&quot; title=&quot;Barcelona vs Osasuna&quot; &gt; &lt;div id=&quot;overlay-match&quot;&gt; &lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Barcelona&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/8634.png&quot; title=&quot;Barcelona&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Barcelona&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot; &gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;4:00 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt;&lt;/div&gt;&lt;!--vs--&gt;&lt;span id=&quot;mj27468s&quot; class=&quot;match-date&quot; data-start=&quot;2024-01-12T04:00:00+09:00&quot; data-gameends=&quot;2024-01-12T06:00:00+09:00&quot;&gt;&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Osasuna&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/8371.png&quot; title=&quot;Osasuna&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Osasuna&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
+           <b:widget-setting name='content'><![CDATA[<!-- Barcelona vs Osasuna -->
+<div class="match-event" id="jm27468s" data-result="vs"> <a href="#" title="Barcelona vs Osasuna" > <div id="overlay-match"> <div id="watch-match"></div> </div> </a> <div class="first-team"> <div class="team-logo"> <img loading="lazy" alt="Barcelona" height="70" src="https://images.fotmob.com/image_resources/logo/teamlogo/8634.png" title="Barcelona" width="70" /> </div> <div class="team-name">Barcelona</div> </div> <div class="match-time" > <div class="match-timing"> <div id="match-hour">4:00 AM</div> <div id="result-now"></div><!--vs--><span id="mj27468s" class="match-date" data-start="2024-05-12T04:00:00+09:00" data-gameends="2024-05-12T06:00:00+09:00"></span> </div> </div> <div class="left-team"> <div class="team-logo"> <img loading="lazy" alt="Osasuna" height="70" src="https://images.fotmob.com/image_resources/logo/teamlogo/8371.png" title="Osasuna" width="70" /> </div> <div class="team-name">Osasuna</div> </div> </div>
 
 
 
-&lt;!-- Juventus vs Frosinone --&gt;
-&lt;div class=&quot;match-event&quot; id=&quot;jm21981s&quot; data-result=&quot;vs&quot;&gt; &lt;a href=&quot;#&quot; title=&quot;Juventus vs Frosinone&quot; &gt; &lt;div id=&quot;overlay-match&quot;&gt; &lt;div id=&quot;watch-match&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/a&gt; &lt;div class=&quot;first-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Juventus&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/9885.png&quot; title=&quot;Juventus&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Juventus&lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;match-time&quot; &gt; &lt;div class=&quot;match-timing&quot;&gt; &lt;div id=&quot;match-hour&quot;&gt;5:00 AM&lt;/div&gt; &lt;div id=&quot;result-now&quot;&gt;&lt;/div&gt;&lt;!--vs--&gt;&lt;span id=&quot;mj21981s&quot; class=&quot;match-date&quot; data-start=&quot;2024-01-12T05:00:00+09:00&quot; data-gameends=&quot;2024-01-12T07:00:00+09:00&quot;&gt;&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;left-team&quot;&gt; &lt;div class=&quot;team-logo&quot;&gt; &lt;img loading=&quot;lazy&quot; alt=&quot;Frosinone&quot; height=&quot;70&quot; src=&quot;https://images.fotmob.com/image_resources/logo/teamlogo/9891.png&quot; title=&quot;Frosinone&quot; width=&quot;70&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;team-name&quot;&gt;Frosinone&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;</b:widget-setting>
+<!-- Juventus vs Frosinone -->
+<div class="match-event" id="jm21981s" data-result="vs"> <a href="#" title="Juventus vs Frosinone" > <div id="overlay-match"> <div id="watch-match"></div> </div> </a> <div class="first-team"> <div class="team-logo"> <img loading="lazy" alt="Juventus" height="70" src="https://images.fotmob.com/image_resources/logo/teamlogo/9885.png" title="Juventus" width="70" /> </div> <div class="team-name">Juventus</div> </div> <div class="match-time" > <div class="match-timing"> <div id="match-hour">5:00 AM</div> <div id="result-now"></div><!--vs--><span id="mj21981s" class="match-date" data-start="2024-01-12T05:00:00+09:00" data-gameends="2024-01-12T07:00:00+09:00"></span> </div> </div> <div class="left-team"> <div class="team-logo"> <img loading="lazy" alt="Frosinone" height="70" src="https://images.fotmob.com/image_resources/logo/teamlogo/9891.png" title="Frosinone" width="70" /> </div> <div class="team-name">Frosinone</div> </div> </div>]]></b:widget-setting>
          </b:widget-settings>
          <b:includable id='main'>
   <b:include name='widget-title'/>
@@ -661,14 +664,14 @@ There are no important matches
        </b:widget>
        <b:widget id='HTML102' locked='true' title='There are no important matches' type='HTML' version='2' visible='false'>
          <b:widget-settings>
-           <b:widget-setting name='content'>&lt;div class=&quot;listcolor&quot;&gt;
-&lt;a href=&quot; https://www.yosin-tv.net/p/live-football.html &quot; rel=&quot;follow&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;img height=&quot;50&quot; src=&quot; https://raw.githubusercontent.com/yosintv/yosintv/main/football/soccer.png &quot; width=&quot;50&quot; /&gt;&lt;/div&gt;&lt;div&gt; All Football Matches Live &lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
+           <b:widget-setting name='content'><![CDATA[<div class="listcolor">
+<a href=" https://www.yosin-tv.net/p/live-football.html " rel="follow"><div><div><img height="50" src=" https://raw.githubusercontent.com/yosintv/yosintv/main/football/soccer.png " width="50" /></div><div> All Football Matches Live </div></div></a></div>
 
 
 
-&lt;div class=&quot;match-event&quot;&gt; &lt;h4&gt;
+<div class="match-event"> <h4>
 There are no important matches
-&lt;/h4&gt; &lt;/div&gt;</b:widget-setting>
+</h4> </div>]]></b:widget-setting>
          </b:widget-settings>
          <b:includable id='main'> <div class='derard'> <data:content/> </div> </b:includable>
        </b:widget>
@@ -756,7 +759,7 @@ There are no important matches
                 </b:loop> 
                 </b:if>
                 
-                <b:if cond='data:blog.view != &quot;onlive&quot;'> <b:if cond='data:view.isMultipleItems'> <div class='container'> <div class='blogpost'> <div class='box-title'> <h2><a href='/'><strong> <b:if cond='data:blog.searchQuery'> <data:blog.searchQuery/> </b:if> <b:if cond='data:view.isLabelSearch'> <data:view.search.label/> </b:if> <b:if cond='data:view.isHomepage'> Recent Blogs</b:if> </strong></a></h2> </div> <div class='blog-posts hfeed index-post-wrap'> 
+                <b:if cond='data:blog.viewww != &quot;onlive&quot;'> <b:if cond='data:view.isMultipleItemss'> <div class='container'> <div class='blogpost'> <div class='box-title'> <h2><a href='/'><strong> <b:if cond='data:blog.searchQuery'> <data:blog.searchQuery/> </b:if> <b:if cond='data:view.isLabelSearch'> <data:view.search.label/> </b:if> <b:if cond='data:view.isHomepageeee'> Recent Blogs</b:if> </strong></a></h2> </div> <div class='blog-posts hfeed index-post-wrap'> 
                   <div class='grid-post'>
                   <div class='grid-posts'> 
       <b:loop index='ads' values='data:posts' var='post'> 
@@ -880,7 +883,9 @@ There are no important matches
        <b:if cond='data:view.description.escaped == &quot;multiple&quot;'>  <script> var playerx = &quot;multiple&quot;; </script>  </b:if>
        <b:if cond='data:view.description.escaped == &quot;random&quot;'>  <script> var playerx = &quot;random&quot;; </script>  </b:if>
        
-       <b:if cond='data:view.description.escaped == &quot;player1&quot;'> <script src='https://cdn.dashjs.org/latest/dash.all.min.js'/> <script src='https://cdn.jsdelivr.net/npm/hls.js@latest'/> <script src='https://cdn.plyr.io/3.6.2/plyr.polyfilled.js'/> <link href='https://cdn.plyr.io/3.6.2/plyr.css' rel='stylesheet'/> <script crossorigin='anonymous' src='https://cdn.plyr.io/3.5.6/demo.js'/> <video controls='' crossorigin='' data-poster='' id='video' playsinline=''> </video> </b:if> <!-- plyr--> <b:if cond='data:view.description.escaped == &quot;player2&quot;'> <script src='https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js' type='text/javascript'/> <script src='https://cdn.jsdelivr.net/npm/clappr-ima-plugin@latest/dist/clappr-ima-plugin.min.js' type='text/javascript'/> <script src='https://cdn.jsdelivr.net/gh/asfarmed/players@main/level-selector.js' type='text/javascript'/> <div id='player'/> </b:if> <!-- clappr--> <!-- jwp--> <b:if cond='data:view.description.escaped == &quot;player3&quot;'>  <script src='https://jwpsrv.com/library/M43RvO9QEeKipSIACqoQEQ.js' type='text/javascript'/> <script src='https://cdn.jwplayer.com/libraries/XY0A37GC.js'/> <div id='player'/> </b:if> <!-- russian--> <b:if cond='data:view.description.escaped == &quot;player4&quot; || data:view.description.escaped == &quot;custom-player&quot;'> <div id='player'/> </b:if> <!-- plyr Dash--> <b:if cond='data:view.description.escaped == &quot;player5&quot;'> <ink href='https://cdn.plyr.io/3.6.2/plyr.css' rel='stylesheet'/> <script src='https://cdn.plyr.io/3.6.2/plyr.js'/> <script src='http://cdn.dashjs.org/v3.1.0/dash.all.min.js'/> <video controls='' data-poster='' id='videoContainer' playsinline='' type='application/x-mpegURL'/> </b:if> <!-- radian--> <b:if cond='data:view.description.escaped == &quot;player6&quot;'> <script src='https://cdn.radiantmediatechs.com/rmp/5.12.0/js/rmp-shaka.min.js'/> <script async='async' src='https://cdn.radiantmediatechs.com/rmp/5.11.3/js/rmp-hlsjslight.min.js'/> <div class='videoif dash' controls='' crossorigin='' dir='ltr' id='rmpPlayer' playsinline='' preload='none'/> </b:if> <!-- video--> <b:if cond='data:view.description.escaped == &quot;player7&quot;'> <video controls='' id='videoContainer' width='400'> <source expr:src='data:post.body snippet { length: 1900, links: false, linebreaks: false, ellipsis: false }' type='video/mp4'/> <source expr:src='data:post.body snippet { length: 1900, links: false, linebreaks: false, ellipsis: false }' type='video/ogg'/> Your browser does not support HTML video. </video> </b:if> <!-- twitch--> <b:if cond='data:view.description.escaped == &quot;twitch&quot;'> &lt;iframe allow=&#39;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#39; allowfullscreen=&#39;&#39; frameborder=&#39;0&#39; height=&#39;100%&#39; src=&#39;<b:eval expr='data:post.body snippet { length: 1900, links: false, linebreaks: false, ellipsis: false }'/>&amp;parent=www.exemple.com&#39; width=&#39;100%&#39;&gt; &lt;/iframe&gt; </b:if> <!-- youtube--> <b:if cond='data:view.description.escaped == &quot;youtube&quot;'> <!-- iframe --> &lt;iframe scrolling=&quot;no&quot; allowfullscreen=&quot;&quot; gesture=&quot;media&quot; allow=&quot;autoplay; encrypted-media&quot;  preload=&#39;&#39; allow=&#39;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#39; allowfullscreen=&#39;&#39; frameborder=&#39;0&#39; height=&#39;100%&#39; src=&#39;<b:eval expr='data:post.body snippet { length: 1900, links: false, linebreaks: false, ellipsis: false }'/>&#39; width=&#39;100%&#39;&gt; &lt;/iframe&gt; </b:if>
+       <b:if cond='data:view.description.escaped == &quot;player1&quot;'> <script src='https://cdn.dashjs.org/latest/dash.all.min.js'/> <script src='https://cdn.jsdelivr.net/npm/hls.js@latest'/> <script src='https://cdn.plyr.io/3.6.2/plyr.polyfilled.js'/> <link href='https://cdn.plyr.io/3.6.2/plyr.css' rel='stylesheet'/> <script crossorigin='anonymous' src='https://cdn.plyr.io/3.5.6/demo.js'/> <video controls='' crossorigin='' data-poster='' id='video' playsinline=''> </video> </b:if> <!-- plyr--> <b:if cond='data:view.description.escaped == &quot;player2&quot;'> <script src='https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js' type='text/javascript'/> <script src='https://cdn.jsdelivr.net/npm/clappr-ima-plugin@latest/dist/clappr-ima-plugin.min.js' type='text/javascript'/> <script src='https://cdn.jsdelivr.net/gh/asfarmed/players@main/level-selector.js' type='text/javascript'/> <div id='player'/> </b:if> <!-- clappr--> <!-- jwp--> <b:if cond='data:view.description.escaped == &quot;player3&quot;'>  <script src='https://jwpsrv.com/library/M43RvO9QEeKipSIACqoQEQ.js' type='text/javascript'/> <script src='https://cdn.jwplayer.com/libraries/XY0A37GC.js'/> <div id='player'/> </b:if> <!-- russian--> <b:if cond='data:view.description.escaped == &quot;player4&quot; || data:view.description.escaped == &quot;custom-player&quot;'> <div id='player'/> </b:if> <!-- plyr Dash--> <b:if cond='data:view.description.escaped == &quot;player5&quot;'> <ink href='https://cdn.plyr.io/3.6.2/plyr.css' rel='stylesheet'/> <script src='https://cdn.plyr.io/3.6.2/plyr.js'/> <script src='http://cdn.dashjs.org/v3.1.0/dash.all.min.js'/> <video controls='' data-poster='' id='videoContainer' playsinline='' type='application/x-mpegURL'/> </b:if> <!-- radian--> <b:if cond='data:view.description.escaped == &quot;player6&quot;'> <script src='https://cdn.radiantmediatechs.com/rmp/5.12.0/js/rmp-shaka.min.js'/> <script async='async' src='https://cdn.radiantmediatechs.com/rmp/5.11.3/js/rmp-hlsjslight.min.js'/> <div class='videoif dash' controls='' crossorigin='' dir='ltr' id='rmpPlayer' playsinline='' preload='none'/> </b:if> <!-- video--> <b:if cond='data:view.description.escaped == &quot;player7&quot;'> <video controls='' id='videoContainer' width='400'> <source expr:src='data:post.body snippet { length: 1900, links: false, linebreaks: false, ellipsis: false }' type='video/mp4'/> <source expr:src='data:post.body snippet { length: 1900, links: false, linebreaks: false, ellipsis: false }' type='video/ogg'/> Your browser does not support HTML video. </video> </b:if> <!-- twitch--> <b:if cond='data:view.description.escaped == &quot;twitch&quot;'> &lt;iframe allow=&#39;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#39; allowfullscreen=&#39;&#39; frameborder=&#39;0&#39; height=&#39;100%&#39; src=&#39;<b:eval expr='data:post.body snippet { length: 1900, links: false, linebreaks: false, ellipsis: false }'/>&amp;parent=www.exemple.com&#39; width=&#39;100%&#39;&gt; &lt;/iframe&gt; </b:if> 
+      
+   <!-- youtube--> <b:if cond='data:view.description.escaped == &quot;youtube&quot;'> <!-- iframe --> &lt;iframe scrolling=&quot;no&quot; allowfullscreen=&quot;&quot; gesture=&quot;media&quot; allow=&quot;autoplay; encrypted-media&quot;  preload=&#39;&#39; allow=&#39;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#39; allowfullscreen=&#39;&#39; frameborder=&#39;0&#39; height=&#39;100%&#39; src=&#39;<b:eval expr='data:post.body snippet { length: 1900, links: false, linebreaks: false, ellipsis: false }'/>&#39; width=&#39;100%&#39;&gt; &lt;/iframe&gt; </b:if>
 <div class='video-serv'> <div id='result'/> 
   
   <b:if cond='data:view.description.escaped != &quot;multiple&quot;'> 
@@ -1329,13 +1334,13 @@ urn _0x2763b3(_0x37873a);},'QQHEg':_0x5d1ddd(0x3d5,0x3d6,0x380,0x28c,0x31a)+_0x5
               <b:section class='headerz p-1' id='descrption' maxwidgets='1' name='Website discription' showaddelement='no'>
                 <b:widget id='HTML12' locked='true' title='DMCA - YoSinTV - Cricket | Football' type='HTML' version='1'>
                   <b:widget-settings>
-                    <b:widget-setting name='content'>&lt;p&gt;
+                    <b:widget-setting name='content'><![CDATA[<p>
 
-&lt;b&gt;YoSinTV&lt;/b&gt; doesn&#39;t host any media content on it own site. Our site visitors might use external or third parties services to show content, (Example: Embedding media from sites like Bet365, Dailymotion , Streamable etc.) 
+<b>YoSinTV</b> doesn't host any media content on it own site. Our site visitors might use external or third parties services to show content, (Example: Embedding media from sites like Bet365, Dailymotion , Streamable etc.) 
 
-&lt;br/&gt;
+<br/>
 We Notify all copyright owners, to discover that the links and media shared by visitors and contained within this site are hosted somewhere else on the web or embedded from other various sites like above. If you have any legal issues please contact appropriate media file owners/hosters.
- &lt;/p&gt;</b:widget-setting>
+ </p>]]></b:widget-setting>
                   </b:widget-settings>
                   <b:includable id='main'> <div class='container'> <div class='tabsbox'> <div class='box-title'> <h3><strong><data:title/></strong></h3> </div> <div class='wdthbox'> <data:content/> </div> </div> </div> </b:includable>
                 </b:widget>
@@ -1612,18 +1617,17 @@ We Notify all copyright owners, to discover that the links and media shared by v
      </b:widget>
      <b:widget id='HTML704' locked='true' title='Mid Post Ads' type='HTML' version='2' visible='false'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;script async src=&quot;https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147&quot;
-     crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
-&lt;!-- Responsive Ads --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:block&quot;
-     data-ad-client=&quot;ca-pub-5525538810839147&quot;
-     data-ad-slot=&quot;6796017996&quot;
-     data-ad-format=&quot;auto&quot;
-     data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
+         <b:widget-setting name='content'><![CDATA[<script async="async" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147" crossorigin="anonymous" ></script>
+<!-- Responsive Ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5525538810839147"
+     data-ad-slot="6796017996"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;&lt;br/&gt;</b:widget-setting>
+</script><br/>]]></b:widget-setting>
        </b:widget-settings>
        <b:includable id='main'><b:if cond='data:view.isPost'><div class='HTML mtads'><data:content/></div>
             <script>/*<![CDATA[*/     document.querySelector("#adsense-target p") ? document.querySelectorAll("#adsense-target p")[Math.floor(document.querySelectorAll("#adsense-target p").length / 2)].after(document.querySelector("div#HTML704 .HTML")) : document.querySelector("#adsense-target br") ? document.querySelectorAll("#adsense-target br")[Math.floor(document.querySelectorAll("#adsense-target br").length / 2)].after(document.querySelector("div#HTML704 .HTML")) : document.querySelector("div#HTML704 .HTML").innerHTML = "";
@@ -1633,16 +1637,16 @@ We Notify all copyright owners, to discover that the links and media shared by v
      </b:widget>
      <b:widget id='HTML708' locked='true' title='Under we suggest you' type='HTML' version='2' visible='false'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;!-- Responsive Ads --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:block&quot;
-     data-ad-client=&quot;ca-pub-5525538810839147&quot;
-     data-ad-slot=&quot;6796017996&quot;
-     data-ad-format=&quot;auto&quot;
-     data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
+         <b:widget-setting name='content'><![CDATA[<!-- Responsive Ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5525538810839147"
+     data-ad-slot="6796017996"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;</b:widget-setting>
+</script>]]></b:widget-setting>
        </b:widget-settings>
        <b:includable id='main'>
             <b:if cond='data:view.isPost'>
@@ -1674,16 +1678,15 @@ We Notify all copyright owners, to discover that the links and media shared by v
      </b:widget>
      <b:widget id='HTML712' locked='true' title='Above the definition of the site' type='HTML' version='2' visible='false'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;script async src=&quot;https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147&quot;
-     crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
-&lt;!-- 728x90 Ads --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:inline-block;width:970px;height:250px&quot;
-     data-ad-client=&quot;ca-pub-5525538810839147&quot;
-     data-ad-slot=&quot;5912194004&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
+         <b:widget-setting name='content'><![CDATA[<script async="async" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147" crossorigin="anonymous" ></script>
+<!-- 728x90 Ads -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:250px"
+     data-ad-client="ca-pub-5525538810839147"
+     data-ad-slot="5912194004"></ins>
+<script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;</b:widget-setting>
+</script>]]></b:widget-setting>
        </b:widget-settings>
        <b:includable id='main'>
             <b:if cond='data:view.isHomepage'>
@@ -1691,16 +1694,16 @@ We Notify all copyright owners, to discover that the links and media shared by v
      </b:widget>
      <b:widget id='HTML713' locked='true' title='Below is the site description' type='HTML' version='2' visible='false'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;!-- Responsive Ads --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:block&quot;
-     data-ad-client=&quot;ca-pub-5525538810839147&quot;
-     data-ad-slot=&quot;6796017996&quot;
-     data-ad-format=&quot;auto&quot;
-     data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
+         <b:widget-setting name='content'><![CDATA[<!-- Responsive Ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5525538810839147"
+     data-ad-slot="6796017996"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;</b:widget-setting>
+</script>]]></b:widget-setting>
        </b:widget-settings>
        <b:includable id='main'>
             <b:if cond='data:view.isHomepage'>
@@ -1708,14 +1711,14 @@ We Notify all copyright owners, to discover that the links and media shared by v
      </b:widget>
      <b:widget id='HTML714' locked='true' title='Above the latest Posts' type='HTML' version='2' visible='false'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;!-- 728x90 Ads --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:inline-block;width:728px;height:90px&quot;
-     data-ad-client=&quot;ca-pub-5525538810839147&quot;
-     data-ad-slot=&quot;5912194004&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
+         <b:widget-setting name='content'><![CDATA[<!-- 728x90 Ads -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-5525538810839147"
+     data-ad-slot="5912194004"></ins>
+<script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;</b:widget-setting>
+</script>]]></b:widget-setting>
        </b:widget-settings>
        <b:includable id='main'>
             <b:if cond='data:view.isMultipleItems'>
@@ -1723,16 +1726,16 @@ We Notify all copyright owners, to discover that the links and media shared by v
      </b:widget>
      <b:widget id='HTML715' locked='true' title='Under the latest posts' type='HTML' version='2' visible='false'>
        <b:widget-settings>
-         <b:widget-setting name='content'>&lt;!-- Responsive Ads --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:block&quot;
-     data-ad-client=&quot;ca-pub-5525538810839147&quot;
-     data-ad-slot=&quot;6796017996&quot;
-     data-ad-format=&quot;auto&quot;
-     data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
+         <b:widget-setting name='content'><![CDATA[<!-- Responsive Ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5525538810839147"
+     data-ad-slot="6796017996"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;</b:widget-setting>
+</script>]]></b:widget-setting>
        </b:widget-settings>
        <b:includable id='main'>
             <b:if cond='data:view.isMultipleItems || data:view.isHomepage'>
