@@ -34,7 +34,7 @@
      
  
   {
-    "name": "Al Nassr FC",
+    "name": "Al Nassr ",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png"
   },  
      
@@ -112,7 +112,7 @@
      
      
   {
-    "name": "Crystal Palace",
+    "name": "Crystal Pal",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png"
   },
      
@@ -129,7 +129,7 @@
      
      
   {
-    "name": "AFC Bournemouth",
+    "name": "Bournemouth",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png"
   },    
   
@@ -140,7 +140,7 @@
      
      
   {
-    "name": "Sheffield United",
+    "name": "Sheffield ",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8657.png"
   },  
      
@@ -164,7 +164,7 @@
      
      
   {
-    "name": "Athletic Club",
+    "name": "Athletic ",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png"
   },  
      
@@ -212,7 +212,7 @@
      
      
   {
-    "name": "Deportivo Alaves",
+    "name": "Deportivo ",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png"
   },  
      
@@ -498,7 +498,7 @@
        
        
   {
-    "name": "Nepal",
+    "name": "Nepal_",
     "logo": "https://aimages.willow.tv/teamLogos/nepal.png"
   },  
      
@@ -513,30 +513,30 @@
   },  
 
        {
-    "name": "Bangladesh",
+    "name": "Bangladesh_",
     "logo": "https://aimages.willow.tv/teamLogos/bangladesh.png"
   },  
 
        {
-    "name": "New Zealand",
+    "name": "New Zealand_",
     "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
   },  
 
 
        {
-    "name": "Afghanistan",
+    "name": "Afghanistan_",
     "logo": "https://aimages.willow.tv/teamLogos/afghanistan.png"
   },  
 
 
        {
-    "name": "Pakistan",
+    "name": "Pakistan_",
     "logo": "https://aimages.willow.tv/teamLogos/pakistan.png"
   },  
 
 
        {
-    "name": "Sri Lanka",
+    "name": "Sri Lanka_",
     "logo": "https://aimages.willow.tv/teamLogos/srilanka.png"
   },  
 
@@ -560,19 +560,19 @@
 
 
        {
-    "name": "S. Africa",
+    "name": "S.Africa",
     "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
   },  
 
 
        {
-    "name": "USA",
+    "name": "USA_",
     "logo": "https://aimages.willow.tv/teamLogos/usa.png"
   }, 
 
        
          {
-    "name": "UAE",
+    "name": "UAE_",
     "logo": "https://aimages.willow.tv/teamLogos/uae.png"
   }, 
 
@@ -582,12 +582,6 @@
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png"
   }, 
 
-
-              {
-    "name": "Cricket",
-    "logo": "https://aimages.willow.tv/teamLogos/___.png"
-  }, 
-     
      
   {
     "name": "Everton",
@@ -1347,7 +1341,7 @@
 
 
            {
-    "name": "Nepaal",
+    "name": "Nepal",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/95799.png"
   },  
 
@@ -1358,97 +1352,97 @@
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Argentina",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Canada",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Chile",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9762.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Peru",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5798.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Ecuador",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6707.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Jamaica",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5806.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Mexico",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Venezuela",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5800.png"
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Bolivia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5797.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Panama",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5922.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "USA",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6713.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Uruguay",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5796.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Brazil",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Colombia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8258.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Costa Rica",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6705.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Paraguay",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6705.png"
   },    
   
        {
