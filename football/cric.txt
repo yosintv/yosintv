@@ -1,13 +1,9 @@
 <div>Watch the live match of _________ in HD Quality, Scroll down, check out every links for Smooth Live Stream of _________. 
 Stay tuned with us to watch every live match with us !! </div><br/>
 
-<div>______</div><br/>
-
-
-<div>______</div><br/>
-
-
-<div>______</div><br/>
+<div>
+Predicted Playing XI are available for the match a few days in advance while the actual Playing XU will be available about an hour ahead of the match.
+</div>
 
 
 <!-- Post Responsive Ads -->
