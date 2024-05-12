@@ -1615,7 +1615,7 @@ body#layout #hidden-widgets{display:none!important}
 
 <style>
 .matchflex{display:flex;flex-direction:column;margin:0px 12px 0}
-.match-event{border:1px solid #ddd;overflow:hidden;text-align:center;background:#eceef2;margin-bottom:10px;position:relative;border-radius:5px;}
+.match-event{border:1px solid #ddd;overflow:hidden;text-align:center;background:#D4D5DE;margin-bottom:10px;position:relative;border-radius:5px;}
 .match-event.h{display:none}
 .match-name,.match-event.ch-end #match-hour,.match-event.ch-live #match-hour,.match-event.ch-soon #result-now,.match-event.notstart 
  #result-now,.match-event.h,.match-event.ch-end #match-live,.match-event.d #match-live{display:none!important}
@@ -1639,7 +1639,7 @@ body#layout #hidden-widgets{display:none!important}
 .team-name { margin: 0px auto; display: table; }
 .left-team .team-logo{float:left}
 .team-name{display:table;color:#000; font-weight: bold}
-.match-timing{margin:28px 0;color:#000;    font-weight: bold;}
+.match-timing{margin:35px 0;color:#000;    font-weight: bold;}
 .league-logo img{margin:5px auto}
 #result-now{font-size:31px;letter-spacing:5px;margin-right:-5px;color:#444}
 #result-noww{font-size:31px;margin-right:-5px;direction:ltr}
@@ -1657,7 +1657,19 @@ body#layout #hidden-widgets{display:none!important}
 }
 
   
-.match-timing .live{background:#931800}
+.match-timing .live {
+    background: #931800;
+    animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
+  
+  
 .match-timing .end{background:#474747}
 .match-timing .soon{background:#0f6f37}
 .match-info ul{list-style:none}
@@ -2993,7 +3005,21 @@ body#layout #hidden-widgets{display:none!important}
     <!-- Header Ads -->
     <div class='flex-center' id='header-ads-wrap'>
       <b:section class='header-ads container row-x1' id='header-ads' maxwidgets='3' name='Header ADS' showaddelement='yes'>
-        <b:widget id='HTML7' locked='false' title='Ads' type='HTML' visible='true'>
+        <b:widget id='HTML7' locked='false' title='Match Schedule' type='HTML' visible='true'>
+          <b:widget-settings>
+            <b:widget-setting name='content'><![CDATA[<!-- CSK vs RR --> 
+<div class="match-event" id="jm14854s" data-result="vs"> <a href="https://livee.singhyogendra.com.np/2024/05/csk-v-rr.html" title="CSK vs RR" > <div id="overlay-match"> <div id="watch-match"></div> </div> </a> <div class="first-team"> <div class="team-logo"> <img loading="lazy" alt="CSK" height="70" src="https://aimages.willow.tv/teamLogos/chennaisuperkings.png" title="CSK" width="70" /> </div> <div class="team-name">CSK</div> </div> <div class="match-time" > <div class="match-timing"> <div id="match-hour">7:00 PM</div> <div id="result-now"></div><span id="mj14854s" class="match-date" data-start="2024-05-12T19:00:00+09:00" data-gameends="2024-05-12T23:00:00+09:00"></span> </div> </div> <div class="left-team"> <div class="team-logo"> <img loading="lazy" alt="RR" height="70" src="https://aimages.willow.tv/teamLogos/rajasthanroyals.png" title="RR" width="70" /> </div> <div class="team-name">RR</div> </div> </div>
+
+
+
+<!-- RCB vs DC --> 
+<div class="match-event" id="jm61150s" data-result="vs"> <a href="#" title="RCB vs DC" > <div id="overlay-match"> <div id="watch-match"></div> </div> </a> <div class="first-team"> <div class="team-logo"> <img loading="lazy" alt="RCB" height="70" src="https://aimages.willow.tv/teamLogos/royalchallengersbangalore.png" title="RCB" width="70" /> </div> <div class="team-name">RCB</div> </div> <div class="match-time" > <div class="match-timing"> <div id="match-hour">11:00 PM</div> <div id="result-now"></div><span id="mj61150s" class="match-date" data-start="2024-05-12T23:00:00+09:00" data-gameends="2024-05-13T03:00:00+09:00"></span> </div> </div> <div class="left-team"> <div class="team-logo"> <img loading="lazy" alt="DC" height="70" src="https://aimages.willow.tv/teamLogos/delhicapitals.png" title="DC" width="70" /> </div> <div class="team-name">DC</div> </div> </div>]]></b:widget-setting>
+          </b:widget-settings>
+          <b:includable id='main'>
+      <b:include name='html-content'/>
+    </b:includable>
+        </b:widget>
+        <b:widget cond='data:view.isHomepage' id='HTML5' locked='false' title='Ads' type='HTML' visible='true'>
           <b:widget-settings>
             <b:widget-setting name='content'><![CDATA[<script async="async" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147" crossorigin="anonymous" ></script>
 <!-- Ressponsive -->
@@ -3006,20 +3032,6 @@ body#layout #hidden-widgets{display:none!important}
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>]]></b:widget-setting>
-          </b:widget-settings>
-          <b:includable id='main'>
-      <b:include name='html-content'/>
-    </b:includable>
-        </b:widget>
-        <b:widget cond='data:view.isHomepage' id='HTML5' locked='false' title='Cricket Schedule' type='HTML' visible='true'>
-          <b:widget-settings>
-            <b:widget-setting name='content'><![CDATA[<!-- CSK vs RR --> 
-<div class="match-event" id="jm14854s" data-result="vs"> <a href="https://livee.singhyogendra.com.np/2024/05/csk-v-rr.html" title="CSK vs RR" > <div id="overlay-match"> <div id="watch-match"></div> </div> </a> <div class="first-team"> <div class="team-logo"> <img loading="lazy" alt="CSK" height="70" src="https://aimages.willow.tv/teamLogos/chennaisuperkings.png" title="CSK" width="70" /> </div> <div class="team-name">CSK</div> </div> <div class="match-time" > <div class="match-timing"> <div id="match-hour">7:00 PM</div> <div id="result-now"></div><span id="mj14854s" class="match-date" data-start="2024-05-12T19:00:00+09:00" data-gameends="2024-05-12T23:00:00+09:00"></span> </div> </div> <div class="left-team"> <div class="team-logo"> <img loading="lazy" alt="RR" height="70" src="https://aimages.willow.tv/teamLogos/rajasthanroyals.png" title="RR" width="70" /> </div> <div class="team-name">RR</div> </div> </div>
-
-
-
-<!-- RCB vs DC --> 
-<div class="match-event" id="jm61150s" data-result="vs"> <a href="#" title="RCB vs DC" > <div id="overlay-match"> <div id="watch-match"></div> </div> </a> <div class="first-team"> <div class="team-logo"> <img loading="lazy" alt="RCB" height="70" src="https://aimages.willow.tv/teamLogos/royalchallengersbangalore.png" title="RCB" width="70" /> </div> <div class="team-name">RCB</div> </div> <div class="match-time" > <div class="match-timing"> <div id="match-hour">11:00 PM</div> <div id="result-now"></div><span id="mj61150s" class="match-date" data-start="2024-05-12T23:00:00+09:00" data-gameends="2024-05-13T03:00:00+09:00"></span> </div> </div> <div class="left-team"> <div class="team-logo"> <img loading="lazy" alt="DC" height="70" src="https://aimages.willow.tv/teamLogos/delhicapitals.png" title="DC" width="70" /> </div> <div class="team-name">DC</div> </div> </div>]]></b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
       <b:include name='html-content'/>
@@ -3072,7 +3084,7 @@ function getTimeRemaining(distance) {
 }
 
 function formatDuration(duration) {
-    return duration.days + "d " + duration.hours + "h " + duration.minutes + "m " + duration.seconds + "s";
+    return duration.hours + "h " + duration.minutes + "m " + duration.seconds + "s";
 }
 
 function createCountdown(countdownElement) {
