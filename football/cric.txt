@@ -18,36 +18,25 @@ Predicted Playing XI are available for the match a few days in advance while the
 </script>
 
 
-<table border="0" cellpadding="0" cellspacing="0" style="background-color: white; border-collapse: collapse; border-spacing: 0px; border: 0.8pt solid rgb(0, 0, 0); color: black; font-stretch: inherit; font-variant-east-asian: inherit; font-variant-numeric: inherit; line-height: inherit; margin: 0px 0px 1.25rem; padding: 0px; text-align: center; vertical-align: baseline; width: 100%;">
-<tbody style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;">
-
+<table border="0" cellpadding="0" cellspacing="0" style="border: 0.8pt solid rgb(0, 0, 0); text-align: center; width: 100%;"><tbody><tr style="height: 50px;">
+<td colspan="2" rowspan="1" style="background: none 0% 0% repeat scroll rgb(0, 102, 0); border: 0.7pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 100%;">
+<span style="color: white; font-size: large;"><b>_________</b></span></td></tr>
   
-<!-- League Name -->
-<tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><td colspan="2" rowspan="1" style="background: rgb(2, 8, 82); border: 0.7pt solid black; font-stretch: inherit; font-variant-east-asian: inherit; font-variant-numeric: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 366.667px;"><span style="color: white;">
-<span style="font-size: 22px;"><b>  _________  </b></span></span></td></tr> 
+<tr style="height: 50px;"><td colspan="1" rowspan="1" style="background-color: #56923d; border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"><span style="color: white; font-family: inherit;"><b>Event</b></span></td><td colspan="1" rowspan="1" style="background-color: #56923d; border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"><span style="color: white; font-family: inherit;"><b>Detail</b></span></td></tr>
+  
+<tr style="height: 50px;"><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"> Match :</td><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"> ______ </td></tr> 
+  
+<tr style="height: 50px;"><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"><span style="font-family: inherit;"> Date:</span></td><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"> 
+_______</td></tr>
+  
+<tr style="height: 50px;"><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"><span style="font-family: inherit;">Time:</span></td><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;">
+<span>______ </span></td></tr>
+  
+<tr style="height: 50px;"><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"><span style="font-family: inherit;">Venue:</span></td><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;">
+<span>______ </span></td></tr>
 
-
-<tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><td colspan="2" rowspan="1" style="background: rgb(0, 0, 0); border: 0.7pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 366.667px;"><strong style="border: 0px; color: white; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="border: 0px; font-family: inherit; font-size: medium; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"> Match Info </span></strong></td></tr> 
-
-
-<!-- This Match Name -->
-<tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 181.524px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-family: inherit; font-size: medium;">Match</span></strong></td><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 180.762px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;">
-<span style="font-family: inherit; font-size: medium;"> _______ <br /></span></strong></td></tr> 
-
-
-<!-- This Match Date -->
-<tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 1px; padding: 0px; vertical-align: baseline;"><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 181.524px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-family: inherit; font-size: medium;">Date</span></strong></td><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 180.762px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-family: inherit; font-size: medium;"> _________ </span></strong></td></tr> 
-
-
-<!-- This Match Time -->
-<tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 181.524px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-family: inherit; font-size: medium;">Time</span></strong></td><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 180.762px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;">
-<span style="font-family: inherit; font-size: medium;"> _____ <br /></span></strong></td></tr> 
-
-
-<!-- This Match Venue -->
-<tr style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 181.524px;"><strong style="border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="font-family: inherit; font-size: medium;"> Venue </span></strong></td><td colspan="1" rowspan="1" style="border: 1pt solid black; font-stretch: inherit; font-variant-east-asian: inherit; font-variant-numeric: inherit; height: 50px; line-height: inherit; margin: 0px; padding: 2px; vertical-align: middle; width: 180.762px;">
-<span style="font-size: medium;"><b> _________ </b></span></td></tr> 
-</tbody></table>
+</tbody>
+</table>
 
 
 <div class="container p-0">
@@ -82,16 +71,17 @@ Predicted Playing XI are available for the match a few days in advance while the
 href="https://26.reducemyweight.net/player.html?src=https://yosintv2.github.io/ads/bjm.html?m=______">
 <span class="social-counter"><b> Link 1 - _____ </b></span></a></div>
   
-  
 <div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
 href="https://26.reducemyweight.net/player.html?src=_____">
 <span class="social-counter"> <b> Link 2 - _____ </b></span></a></div>
   
-  
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://yosintv2.github.io/tv/ads.html">
+<span class="social-counter"> <b> Link 2 - _____ </b></span></a></div>
+
 <div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
 href="https://26.reducemyweight.net/player.html?src=https://yosintv.github.io/yosintv/crichd.html?yosintv=_____">
 <span class="social-counter"> <b> Link 3 - _____ </b></span></a></div>
-  
   
 <div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
 href="https://26.reducemyweight.net/player.html?src=https://yosintv.github.io/yosintv/crichd.html?yosintv=_____">
