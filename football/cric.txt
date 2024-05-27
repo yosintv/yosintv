@@ -76,24 +76,26 @@ Predicted Playing XI are available for the match a few days in advance while the
 </script>
 
   
-<div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
-href="https://gm.reducemyweight.net/player.html?src=_____" target="">
-<span class="social-counter"> <b>Link 1 - _____</b></span></a></li></div>
-    
-    
-<div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
-href="https://gm.reducemyweight.net/player.html?src=_____" target="">
-<span class="social-counter"><b>Link 2 - _____</b></span></a></li></div>
+<!-- <b>$ads={2}</b> -->
+
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://26.reducemyweight.net/player.html?src=https://yosintv2.github.io/ads/bjm.html?m=______">
+<span class="social-counter"><b> Link 1 - _____ </b></span></a></div>
   
   
-<div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
-href="https://gm.reducemyweight.net/player.html?src=_____" target="">
-<span class="social-counter"><b>Link 3 - _____ </b></span></a></li></div>
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://26.reducemyweight.net/player.html?src=_____">
+<span class="social-counter"> <b> Link 2 - _____ </b></span></a></div>
   
   
-<div class="techornate-socials"><li style="text-align: center;"><a class="fa fa-play" 
-href="https://gm.reducemyweight.net/player.html?src=_____" target="">
-<span class="social-counter"><b>Link 4 - _____ </b></span></a></li></div>
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://26.reducemyweight.net/player.html?src=https://yosintv.github.io/yosintv/crichd.html?yosintv=_____">
+<span class="social-counter"> <b> Link 3 - _____ </b></span></a></div>
+  
+  
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://26.reducemyweight.net/player.html?src=https://yosintv.github.io/yosintv/crichd.html?yosintv=_____">
+<span class="social-counter"> <b> Link 4 - _____ </b></span></a></div>
 
 
 
