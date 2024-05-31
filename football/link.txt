@@ -1,6 +1,5 @@
-rtmp://1d59ef78b2a7.entrypoint.cloud.wowza.com/app-20j8lcD3
-1d59ef78b2a7.entrypoint.cloud.wowza.com
-
+sk_ap-south-1_lrlVAdgYrJwU_aCZMaavwFZ9pQsdUKZuZvHj3zC7fOl
+rtmps://50f24ef78975.global-contribute.live-video.net:443/app/
 
 https://jancdn-b.bunycdn.com/live/indexa22.m3u8
 
