@@ -1,7 +1,7 @@
 <!--Animation Here-->
 <div class="disclaimer" style="text-align: center;"><b><span style="color: black;"> Live Match - Animation Tracker </span></b></div> 
 <iframe frameborder="0" height="250" scrolling="no" src="https://www.yosin-tv.net/tracker.html?id=_____" width="100%"></iframe>
-</div><br/>
+<br/>
 
 
 <b>$ads={2}</b>  
@@ -14,6 +14,11 @@ href=" https://yosintv2.github.io/ads/foot.html?id=_________" >
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/bjm.html?m=_____" >
 <span class="social-counter"> <b> Best - _______ </b></span></a></div>  
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/tv/ads.html " >
+<span class="social-counter"> <b> Fast - _______ </b></span></a></div> 
+
 -->
 
 
@@ -24,11 +29,6 @@ href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ad
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv.github.io/yosintv/midd.html?yosintv=____ " >
-<span class="social-counter"> <b> Fast - _______ </b></span></a></div> 
-
-
-<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/tv/ads.html " >
 <span class="social-counter"> <b> Fast - _______ </b></span></a></div> 
 
 
