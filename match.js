@@ -34,7 +34,7 @@
      
  
   {
-    "name": "Al Nassr ",
+    "name": "Al Nassr",
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png"
   },  
      
