@@ -18,7 +18,6 @@ href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ad
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/tv/ads.html " >
 <span class="social-counter"> <b> Fast - _______ </b></span></a></div> 
-
 -->
 
 
