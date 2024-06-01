@@ -96,3 +96,5 @@ https://yosintv.github.io/yosintv/crichd.html?yosintv=______       - ___________
 
 
 https://eu02.dmca.run/TUDN/index.m3u8 - TUDN EN Vivo
+https://eu02.dmca.run/tnt1/index.m3u8 - TNT 1
+https://eu02.flowstreams.pw/247-skymain/index.m3u8 - SKY Main Event
