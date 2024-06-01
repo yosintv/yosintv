@@ -102,3 +102,4 @@ https://eu02.dmca.run/TUDN/index.m3u8 - TUDN EN Vivo
 https://eu02.dmca.run/tnt1/index.m3u8 - TNT 1
 https://eu02.flowstreams.pw/247-skymain/index.m3u8 - SKY Main Event
 https://jancdn-b.bunycdn.com/live/indexa22.m3u8
+https://karostream.tulix.tv/WillowTvHighBitrate/index.m3u8 - WillowTV
