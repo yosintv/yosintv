@@ -118,3 +118,9 @@ https://eu02.dmca.run/tnt1/index.m3u8 - TNT 1
 https://eu02.flowstreams.pw/247-skymain/index.m3u8 - SKY Main Event
 https://jancdn-b.bunycdn.com/live/indexa22.m3u8
 https://karostream.tulix.tv/WillowTvHighBitrate/index.m3u8 - WillowTV
+
+
+
+
+
+https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8
