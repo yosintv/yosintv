@@ -1,43 +1,35 @@
-<div>Watch the live match of _______ in HD Quality, Scroll down, check out every links for Smooth Live Stream of _______. Stay tuned with us to watch every live match with us !! </div>
+<!-- <b>$ads={2}</b> -->
 
-
-<div style="text-align: center;"><div>
-<form><input class="MyButton" onclick="window.location.href=''" type="button" value="Refresh Links" /></form>
-<br />
-  
-  
-<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147"></script>
-<!--Post Responsive Ads-->
-<ins class="adsbygoogle" data-ad-client="ca-pub-5525538810839147" data-ad-format="auto" data-ad-slot="3536360020" data-full-width-responsive="true" style="display: block;"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/bkp/plyrr.html?url=https://mhdmaxtv.me/sports24/live.m3u8?id=willow-cricket-116">
+<span class="social-counter"><b> HD Live - _____ </b></span></a></div>
   
 
-<center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://__.reducemyweight.net/player.html?src=____ " target="">
-<span class="social-counter"> <b> Best - _______ </b></span></a></div> </center>
-    
-    
-<center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://__.reducemyweight.net/player.html?src=____ " target="">
-<span class="social-counter"><b>Link 1 - _______ </b></span></a></div> </center>
-
-
-<center><div class="techornate-socials"><a class="fa fa-play" 
-href=" https://__.reducemyweight.net/player.html?src=____ " target=""> 
-<span class="social-counter"><b>Link 2 - _______ </b></span></a></div> </center> 
-
-
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/english.php">
+<span class="social-counter"> <b> English - _____ </b></span></a></div>
   
-</div></div><br /> 
-<div class="container p-0"><div class="post-share text-center m-1"><b:if cond="data:blog.languageDirection == &quot;ltr&quot;"><div style="text-align: center;"><span style="font-family: inherit; font-size: medium;"><b>🔴 YoSinTV: Cricket | Football</b></span></div></b:if></div></div>     
+
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://yosintv2.github.io/tv/ads.html">
+<span class="social-counter"> <b> Hindi - _____ </b></span></a></div>
 
 
-<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147"></script>
-<!--Post Responsive Ads-->
-<ins class="adsbygoogle" data-ad-client="ca-pub-5525538810839147" data-ad-format="auto" data-ad-slot="3536360020" data-full-width-responsive="true" style="display: block;"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/hindi.php">
+<span class="social-counter"> <b> Hindi - _____ </b></span></a></div>
+  
+
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/auto.php ">
+<span class="social-counter"> <b> Hindi - _____ </b></span></a></div>
+
+
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/bkp/plyrr.html?url=https://karostream.tulix.tv/WillowTvHighBitrate/index.m3u8">
+<span class="social-counter"> <b> English - _____ </b></span></a></div>
+
+
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/tv/test.html">
+<span class="social-counter"> <b> Laptop Only - _____ </b></span></a></div>
