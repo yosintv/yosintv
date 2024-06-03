@@ -2,11 +2,15 @@
 
 
 
-<!-- <b>$ads={2}</b> -->
+<!-- <b>$ads={2}</b> 
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://yosintv2.github.io/tv/ads.html">
+<span class="social-counter"> <b> Hindi - _____ </b></span></a></div>
+-->
 
 <div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
-href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/bkp/plyrr.html?url=https://mhdmaxtv.me/sports24/live.m3u8?id=willow-cricket-116">
-<span class="social-counter"><b> HD Live - _____ </b></span></a></div>
+href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/bkp/plyrr.html?url=https://karostream.tulix.tv/WillowTvHighBitrate/index.m3u8">
+<span class="social-counter"> <b> English - _____ </b></span></a></div>
 
 
 <div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
@@ -15,14 +19,9 @@ href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/b
 
 
 <div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
-href="https://yosintv2.github.io/tv/ads.html">
-<span class="social-counter"> <b> Hindi - _____ </b></span></a></div>
-
-
-<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
 href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/hindi.php">
 <span class="social-counter"> <b> Hindi - _____ </b></span></a></div>
-  
+
 
 <div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
 href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/auto.php ">
@@ -30,8 +29,8 @@ href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/b
 
 
 <div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
-href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/bkp/plyrr.html?url=https://karostream.tulix.tv/WillowTvHighBitrate/index.m3u8">
-<span class="social-counter"> <b> English - _____ </b></span></a></div>
+href="https://30.reducemyweight.net/player.html?src=https://yosintv2.github.io/bkp/plyrr.html?url=https://mhdmaxtv.me/sports24/live.m3u8?id=willow-cricket-116">
+<span class="social-counter"><b> HD Live - _____ </b></span></a></div>
 
 
 <div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
