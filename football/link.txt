@@ -13,6 +13,8 @@ https://id.gdplayertv.to/live-tv/astro-cricket/?embed=true
 rtmp://live.restream.io/live
 re_8025854_65f86ac41f69aa956e8b
 
+re_8036289_d545c08b80e2b6644372 - Backup
+
 
 https://yosintv2.github.io/tv/a1live.html
 
