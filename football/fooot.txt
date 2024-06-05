@@ -42,7 +42,7 @@ Predicted lineups are available for the match a few days in advance while the ac
 
 <!-- Animation Here-->
 <div class="disclaimer" style="text-align: center;"><b><span style="color: black;"> Live Match - Animation Tracker </span></b></div> 
-<iframe frameborder="0" height="300" scrolling="no" src="https://yosintv.github.io/yosintv/football/tracker.html?id=____" width="100%"></iframe>
+<iframe frameborder="0" height="300" scrolling="no" src="https://www.yosin-tv.net/tracker.html?id=____ width="100%"></iframe>
 </div></div><br/>
 
 
