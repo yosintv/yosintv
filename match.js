@@ -1469,27 +1469,27 @@
     "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6718.png"
   },
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Kosovo",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/430156.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Norway",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png"
   },  
      
      
  
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "San Marino",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6035.png"
   },  
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Slovakia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8497.png"
   },    
   
        {
