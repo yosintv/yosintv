@@ -19,10 +19,10 @@ Predicted lineups are available for the match a few days in advance while the ac
 <div class="container p-0">
 <div class="post-share text-center m-1">
 <div style="text-align: center;"><b style="font-family: arial; font-size: 13px;">
-👉&nbsp;</b><b style="font-family: arial; font-size: 13px;">The match links are activated 15 minutes before kickoff.&nbsp;</b></div>
-<span style="text-align: center;">
+👉 </b><b style="font-family: arial; font-size: 13px;">The match links are activated 15 minutes before kickoff.
+</b></div><span style="text-align: center;">
 <div><span><span style="font-size: 13px;"><i style="font-family: arial;">
-👉</i><span style="font-family: arial;"><b>&nbsp;Go to below links to get matches. If the first link doesn’t work, go for the second or third link.</b></span></span></span></div></span>
+👉 </i><span style="font-family: arial;"><b>Go to below links to get matches. If the first link doesn’t work, go for the second or third link.</b></span></span></span></div></span>
 </div></div>
 
 
@@ -38,17 +38,76 @@ Predicted lineups are available for the match a few days in advance while the ac
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 <!-- Animation Here-->
 <div class="disclaimer" style="text-align: center;"><b><span style="color: black;"> Live Match - Animation Tracker </span></b></div> 
-<iframe frameborder="0" height="300" scrolling="no" src="https://www.yosin-tv.net/tracker.html?id=____ width="100%"></iframe>
+<iframe frameborder="0" height="300" scrolling="no" src="https://yosintv.github.io/yosintv/football/tracker.html?id=____" width="100%"></iframe>
 </div></div><br/>
 
 
+<!--
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/foot.html?id=_________" >
+<span class="social-counter"> <b> Best - _______ </b></span></a></div>  
 
-<!-- https://yosintv2.github.io/bkp/fnp.html -->
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/bjm.html?m=_____" >
+<span class="social-counter"> <b> Best - _______ </b></span></a></div>  
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/tv/ads.html " >
+<span class="social-counter"> <b> Fast - _______ </b></span></a></div> 
+-->
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/weakspell.html?m=____ " >
+<span class="social-counter"> <b> Fast - _______ </b></span></a></div>  
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=____ " >
+<span class="social-counter"> <b> Fast - _______ </b></span></a></div> 
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=____ " >
+<span class="social-counter"> <b> Link 1 - _______ </b></span></a></div> 
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/foot.html?id=https://linecrystal.com/events/streamX/ " > 
+<span class="social-counter"><b> Link 2 - _______ </b></span></a></div>  
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/foot.html?id=https://techclips.net/clip/sX.html " > 
+<span class="social-counter"><b> Link 3 - _______ </b></span></a></div>  
+
+
+<!--
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href="https://yosintv2.github.io/ads/foot.html?id=https://elixx.xyz/aw/_____.php " >
+<span class="social-counter"><b> Link 4 - _______ </b></span></a></div> 
+-->
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/stbw.html?m=X " >
+<span class="social-counter"><b> Link 4 - _______ </b></span></a></div> 
 
 
 
-<div class="container p-0"><div class="post-share text-center m-1"><b:if cond="data:blog.languageDirection == &quot;ltr&quot;"><div style="text-align: center;"><span style="font-family: inherit; font-size: medium;"><b>🔴 YoSinTV: Cricket | Football</b></span></div></b:if></div></div>     
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/foot.html?id=_______ " > 
+<span class="social-counter"><b> Link 5 - _______ </b></span></a></div>  
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/foot.html?id=_______ " >
+<span class="social-counter"><b> Link 6 - _______ </b></span></a></div> 
+
+
+
+<div class="container p-0"><div class="post-share text-center m-1">
+<b:if cond="data:blog.languageDirection == &quot;ltr&quot;"><div style="text-align: center;">
+<span style="font-family: inherit; font-size: medium;"><b>🔴 YoSinTV: Cricket | Football</b></span></div></b:if></div></div>    
