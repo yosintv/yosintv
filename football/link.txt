@@ -17,7 +17,7 @@ re_8036289_d545c08b80e2b6644372 - Backup
 
 
 https://yosintv2.github.io/tv/a1live.html
-
+https://cors-proxy.elfsight.com/116.153.46.92/livetx-rtmp.dongqiudi.com/live/sd-1-4036293.m3u8
 
 
 //m3u8 Tools
