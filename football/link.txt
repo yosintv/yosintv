@@ -19,6 +19,8 @@ re_8036289_d545c08b80e2b6644372 - Backup
 https://yosintv2.github.io/tv/a1live.html
 https://cors-proxy.elfsight.com/116.153.46.92/livetx-rtmp.dongqiudi.com/live/sd-1-4036293.m3u8
 
+https://tinyurl.com/2amw3wps - Sharjah Sports
+https://tinyurl.com/22s6nxp4 - Dubai Sports
 
 //m3u8 Tools
 https://yosintv2.github.io/tv/m3u8.html?url=____
