@@ -3,13 +3,7 @@
 <html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateVersion='1.3.0' expr:class='data:blog.languageDirection' expr:dir='data:blog.languageDirection' expr:lang='data:blog.localeUnderscoreDelimited' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <b:include name='theme-dark-mode'/>
 <head>
-   
-<script async='async' crossorigin='anonymous' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147'/>
-  
-<script async='async' crossorigin='anonymous' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6965866125086829'/>
-
-<meta content='ca-pub-6965866125086829' name='google-adsense-account'/>
-  
+     
 <link href='https://cdn.jsdelivr.net/gh/iamsinghyogendra/yosintv/rosyotv.css' rel='stylesheet'/>
 <link href='https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css' rel='stylesheet'/>
 <script src='https://code.jquery.com/jquery-3.5.1.slim.min.js'/>
@@ -3032,19 +3026,12 @@ body#layout #hidden-widgets{display:none!important}
                 <b:section class='litespot-pro-main-nav' id='litespot-pro-main-nav' maxwidgets='1' name='Header Menu' showaddelement='no'>
                   <b:widget id='LinkList101' locked='true' title='Main Menu' type='LinkList' visible='true'>
                     <b:widget-settings>
-                      <b:widget-setting name='text-10'>_Ligue 1</b:widget-setting>
-                      <b:widget-setting name='sorting'>NONE</b:widget-setting>
-                      <b:widget-setting name='link-1'>https://</b:widget-setting>
-                      <b:widget-setting name='link-2'>https://</b:widget-setting>
-                      <b:widget-setting name='link-12'>https://www.am2z.com/</b:widget-setting>
-                      <b:widget-setting name='link-0'>#</b:widget-setting>
-                      <b:widget-setting name='link-11'>https://www.mrjaz.com/</b:widget-setting>
-                      <b:widget-setting name='link-10'>https://mob.yosin-tv.net/p/ligue1.html</b:widget-setting>
                       <b:widget-setting name='text-9'>_Serie A</b:widget-setting>
                       <b:widget-setting name='link-9'>https://mob.yosin-tv.net/p/seriea.html</b:widget-setting>
                       <b:widget-setting name='text-8'>_Bundesliga</b:widget-setting>
                       <b:widget-setting name='link-7'>https://mob.yosin-tv.net/p/laliga.html</b:widget-setting>
                       <b:widget-setting name='link-8'>https://mob.yosin-tv.net/p/bundesliga.html</b:widget-setting>
+                      <b:widget-setting name='text-10'>_Ligue 1</b:widget-setting>
                       <b:widget-setting name='link-5'>#</b:widget-setting>
                       <b:widget-setting name='link-6'>https://mob.yosin-tv.net/p/epl.html</b:widget-setting>
                       <b:widget-setting name='link-3'>https://</b:widget-setting>
@@ -3057,8 +3044,11 @@ body#layout #hidden-widgets{display:none!important}
                       <b:widget-setting name='text-4'>Euro Cup</b:widget-setting>
                       <b:widget-setting name='text-7'>_Laliga</b:widget-setting>
                       <b:widget-setting name='text-6'>_EPL</b:widget-setting>
-                      <b:widget-setting name='text-11'>Tipography</b:widget-setting>
-                      <b:widget-setting name='text-12'>Shortcodes</b:widget-setting>
+                      <b:widget-setting name='sorting'>NONE</b:widget-setting>
+                      <b:widget-setting name='link-1'>https://</b:widget-setting>
+                      <b:widget-setting name='link-2'>https://</b:widget-setting>
+                      <b:widget-setting name='link-0'>#</b:widget-setting>
+                      <b:widget-setting name='link-10'>https://mob.yosin-tv.net/p/ligue1.html</b:widget-setting>
                     </b:widget-settings>
                     <b:includable id='main' var='this'>
       <b:include name='widget-title'/>
@@ -3135,7 +3125,7 @@ body#layout #hidden-widgets{display:none!important}
 
   
 <!-- India vs Pakistan --> 
-<div class="match-event" id="jm5783s" data-result="vs"> <a href="https://www.hls-player.net/2024/06/ind-pak.html" title="India_ vs Pakistan_" > <div id="overlay-match"> <div id="watch-match"></div> </div> </a> <div class="first-team"> <div class="team-logo"> <img loading="lazy" alt="India_" height="70" src="https://aimages.willow.tv/teamLogos/india.png" title="India_" width="70" /> </div> <div class="team-name">India</div> </div> <div class="match-time" > <div class="match-timing"> <div id="match-hour">11:30 PM</div> <div id="result-now"></div><span id="mj5783s" class="match-date" data-start="2024-06-09T23:30:00+09:00" data-gameends="2024-06-10T03:50:00+09:00"></span> </div> </div> <div class="left-team"> <div class="team-logo"> <img loading="lazy" alt="Pakistan_" height="70" src="https://aimages.willow.tv/teamLogos/pakistan.png" title="Pakistan_" width="70" /> </div> <div class="team-name">Pakistan</div> </div> </div>]]></b:widget-setting>
+<div class="match-event" id="jm5783s" data-result="vs"> <a href="https://www.hls-player.net/2024/06/ind-pak.html" title="India_ vs Pakistan_" > <div id="overlay-match"> <div id="watch-match"></div> </div> </a> <div class="first-team"> <div class="team-logo"> <img loading="lazy" alt="India_" height="70" src="https://aimages.willow.tv/teamLogos/india.png" title="India_" width="70" /> </div> <div class="team-name">India</div> </div> <div class="match-time" > <div class="match-timing"> <div id="match-hour">11:30 PM</div> <div id="result-now"></div><span id="mj5783s" class="match-date" data-start="2024-06-19T03:50:00+09:00" data-gameends="2024-06-19T09:50:00+09:00"></span> </div> </div> <div class="left-team"> <div class="team-logo"> <img loading="lazy" alt="Pakistan_" height="70" src="https://aimages.willow.tv/teamLogos/pakistan.png" title="Pakistan_" width="70" /> </div> <div class="team-name">Pakistan</div> </div> </div>]]></b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
       <b:include name='html-content'/>
