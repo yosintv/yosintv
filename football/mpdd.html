@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>URL Generator</title>
+    <title>URL Generator and Shortener</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <script>
         function generateURL() {
@@ -13,29 +13,69 @@
 
             const generatedURL = `https://yosintv2.github.io/tv/mpd.html?file=${urlInput}&keyId=${encodeURIComponent(id1Input)}&key=${encodeURIComponent(id2Input)}`;
 
-            document.getElementById('outputURL').textContent = generatedURL;
-            document.getElementById('outputURL').href = generatedURL;
+            document.getElementById('generatedURL').textContent = generatedURL;
+            document.getElementById('generatedURL').href = generatedURL;
+            document.getElementById('shortenBtn').disabled = false;  // Enable the shorten button
+        }
+
+        async function shortenURL() {
+            const generatedURL = document.getElementById('generatedURL').href;
+
+            if (!generatedURL) {
+                alert("Please generate a URL first");
+                return;
+            }
+
+            try {
+                const response = await fetch('https://tinyurl.com/api-create.php?url=' + encodeURIComponent(generatedURL));
+                const shortenedURL = await response.text();
+
+                document.getElementById('shortenedURL').textContent = shortenedURL;
+                document.getElementById('shortenedURL').href = shortenedURL;
+                document.getElementById('result').style.display = "";
+            } catch (error) {
+                console.error('Error shortening URL:', error);
+            }
+        }
+
+        function copyToClipboard() {
+            const copyText = document.getElementById('shortenedURL');
+            const textArea = document.createElement('textarea');
+            textArea.value = copyText.href;
+            document.body.appendChild(textArea);
+            textArea.select();
+            document.execCommand('Copy');
+            document.body.removeChild(textArea);
+            alert('Copied to clipboard!');
         }
     </script>
 </head>
 <body>
     <div class="container mt-5">
-        <h1 class="text-center">MPD URL Generator</h1>
+        <h1 class="text-center">URL Generator and Shortener</h1>
         <form>
+        
             <div class="form-group">
-                <input type="text" class="form-control" id="urlInput" name="urlInput" placeholder="mpd url here">
+                <input type="text" class="form-control" id="urlInput" name="urlInput" placeholder="mpd URL">
             </div>
             <div class="form-group">
-                <input type="text" class="form-control" id="id1Input" name="id1Input" placeholder="Key 1">
+                <input type="text" class="form-control" id="id1Input" name="id1Input" placeholder="key 1">
             </div>
             <div class="form-group">
-                <input type="text" class="form-control" id="id2Input" name="id2Input" placeholder="Key 2">
+                <input type="text" class="form-control" id="id2Input" name="id2Input" placeholder="key 2">
             </div>
             <button type="button" class="btn btn-primary btn-block" onclick="generateURL()">Generate URL</button>
         </form>
         <div class="mt-4">
             <h2>Generated URL:</h2>
-            <a id="outputURL" href="#" target="_blank"></a>
+            <a id="generatedURL" href="#" target="_blank"></a>
+        </div>
+        <div class="mt-4">
+            <button type="button" class="btn btn-secondary btn-block" id="shortenBtn" onclick="shortenURL()" disabled>Shorten URL</button>
+        </div>
+        <div id="result" class="mt-4" style="display: none;">
+            <a id="shortenedURL" href="#" target="_blank"></a>
+            <button class="btn btn-info mt-2" onclick="copyToClipboard()">Copy</button>
         </div>
     </div>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
