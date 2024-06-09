@@ -11,7 +11,7 @@
             const id1Input = document.getElementById('id1Input').value;
             const id2Input = document.getElementById('id2Input').value;
 
-            const generatedURL = `https://yosintv2.github.io/tv/mpd.html?file=${encodeURIComponent(urlInput)}&keyId=${encodeURIComponent(id1Input)}&key=${encodeURIComponent(id2Input)}`;
+            const generatedURL = `https://yosintv2.github.io/tv/mpd.html?file=${urlInput}&keyId=${encodeURIComponent(id1Input)}&key=${encodeURIComponent(id2Input)}`;
 
             document.getElementById('outputURL').textContent = generatedURL;
             document.getElementById('outputURL').href = generatedURL;
@@ -20,19 +20,16 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1 class="text-center">URL Generator</h1>
+        <h1 class="text-center">MPD URL Generator</h1>
         <form>
             <div class="form-group">
-                <label for="urlInput">URL here:</label>
-                <input type="text" class="form-control" id="urlInput" name="urlInput" placeholder="Enter URL">
+                <input type="text" class="form-control" id="urlInput" name="urlInput" placeholder="mpd url here">
             </div>
             <div class="form-group">
-                <label for="id1Input">ID 1:</label>
-                <input type="text" class="form-control" id="id1Input" name="id1Input" placeholder="Enter ID 1">
+                <input type="text" class="form-control" id="id1Input" name="id1Input" placeholder="Key 1">
             </div>
             <div class="form-group">
-                <label for="id2Input">ID 2:</label>
-                <input type="text" class="form-control" id="id2Input" name="id2Input" placeholder="Enter ID 2">
+                <input type="text" class="form-control" id="id2Input" name="id2Input" placeholder="Key 2">
             </div>
             <button type="button" class="btn btn-primary btn-block" onclick="generateURL()">Generate URL</button>
         </form>
