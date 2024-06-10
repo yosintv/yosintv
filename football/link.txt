@@ -5,7 +5,7 @@ https://yosintv2.github.io/tv/mpd.html?file=______&keyId=_____&key=_____
 
 
 rtmps://live.cloudflare.com:443/live/
-7c606ed2cb4d4c2dbd7152d672492964k553fc1fc353e58ff6843cc25ecf0f6ba
+0ee423bf2ebf930132d27fa95664af24k7db3df099f2c4b74d460ccb525a24e92
 
 
 https://ptvsports2.com/
