@@ -1493,8 +1493,8 @@
   },    
   
        {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Poland",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8568.png"
   },  
      
      
