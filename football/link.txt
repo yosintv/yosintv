@@ -2,9 +2,6 @@ https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8 - CCTV 5
 
 https://s6.hopslan.com/zdfx1/tracks-v1a1/mono.m3u8
 
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-
 https://live.notebulk.xyz/ySXfstdsAQRe75HI96O4DA/1718390662/fr_beinsports1/index.m3u8
 https://live.notebulk.xyz/GlFtS2B9JYxIzgwTs9abLw/1718373485/pt_sporttv1/index.m3u8
 
