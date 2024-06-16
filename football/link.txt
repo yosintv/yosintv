@@ -1,3 +1,21 @@
+# Go to your home directory
+cd ~
+
+# Download the latest release of owncast for Linux
+wget https://github.com/owncast/owncast/releases/latest/download/owncast-linux-amd64.zip
+
+# Unzip the downloaded file
+unzip owncast-linux-amd64.zip
+
+# Make the owncast binary executable
+chmod +x owncast
+
+# Optionally, move owncast binary to /usr/local/bin to make it accessible from anywhere
+sudo mv owncast /usr/local/bin/
+
+
+
+
 https://yosintv2.github.io/bkp/plyrr.html?url=https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 
 https://s6.hopslan.com/zdfx1/tracks-v1a1/mono.m3u8
