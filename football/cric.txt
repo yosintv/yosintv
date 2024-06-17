@@ -2,7 +2,7 @@
 Stay tuned with us to watch every live match with us !! </div><br/>
 
 <div>
-Predicted Playing XI are available for the match a few days in advance while the actual Playing XU will be available about an hour ahead of the match.
+Predicted Playing XI are available for the match a few days in advance while the actual Playing XI will be available about an hour ahead of the match.
 </div>
 
 
@@ -16,27 +16,6 @@ Predicted Playing XI are available for the match a few days in advance while the
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-
-<table border="0" cellpadding="0" cellspacing="0" style="border: 0.8pt solid rgb(0, 0, 0); text-align: center; width: 100%;"><tbody><tr style="height: 50px;">
-<td colspan="2" rowspan="1" style="background: none 0% 0% repeat scroll rgb(0, 102, 0); border: 0.7pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 100%;">
-<span style="color: white; font-size: large;"><b>_________</b></span></td></tr>
-  
-<tr style="height: 50px;"><td colspan="1" rowspan="1" style="background-color: #56923d; border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"><span style="color: white; font-family: inherit;"><b>Event</b></span></td><td colspan="1" rowspan="1" style="background-color: #56923d; border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"><span style="color: white; font-family: inherit;"><b>Detail</b></span></td></tr>
-  
-<tr style="height: 50px;"><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"> Match :</td><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"> ______ </td></tr> 
-  
-<tr style="height: 50px;"><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"><span style="font-family: inherit;"> Date:</span></td><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"> 
-_______</td></tr>
-  
-<tr style="height: 50px;"><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"><span style="font-family: inherit;">Time:</span></td><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;">
-<span>______ </span></td></tr>
-  
-<tr style="height: 50px;"><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;"><span style="font-family: inherit;">Venue:</span></td><td colspan="1" rowspan="1" style="border: 0.5pt solid black; height: 50px; padding: 2px; vertical-align: middle; width: 50%;">
-<span>______ </span></td></tr>
-
-</tbody>
-</table>
 
 
 <div class="container p-0">
@@ -65,39 +44,41 @@ _______</td></tr>
 </script>
 
   
-<!-- <b>$ads={2}</b> -->
-
-<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
-href="https://26.reducemyweight.net/player.html?src=https://yosintv2.github.io/ads/bjm.html?m=______">
-<span class="social-counter"><b> Link 1 - _____ </b></span></a></div>
-  
-<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
-href="https://26.reducemyweight.net/player.html?src=_____">
-<span class="social-counter"> <b> Link 2 - _____ </b></span></a></div>
-  
+<!--
 <div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
 href="https://yosintv2.github.io/tv/ads.html">
-<span class="social-counter"> <b> Link 2 - _____ </b></span></a></div>
+<span class="social-counter"> <b> Hindi - _____ </b></span></a></div>
 
-<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
-href="https://26.reducemyweight.net/player.html?src=https://yosintv.github.io/yosintv/crichd.html?yosintv=_____">
-<span class="social-counter"> <b> Link 3 - _____ </b></span></a></div>
-  
-<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
-href="https://26.reducemyweight.net/player.html?src=https://yosintv.github.io/yosintv/crichd.html?yosintv=_____">
-<span class="social-counter"> <b> Link 4 - _____ </b></span></a></div>
+<div class="techornate-socials" style="text-align: center;">
+<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/bkp/bjm.html?m=____">
+<span class="social-counter"> <b> Best Link - _____  </b></span></a></div>
+-->
+
+<div class="techornate-socials" style="text-align: center;">
+<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/test.html">
+<span class="social-counter"> <b> Best Link - _____  </b></span></a></div>
+
+
+<div class="techornate-socials" style="text-align: center;">
+<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/english.php">
+<span class="social-counter"> <b> English - _____ </b></span></a></div>
+
+
+<div class="techornate-socials" style="text-align: center;">
+<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/hindi.php">
+<span class="social-counter"> <b> Hindi - _____ </b></span></a></div>
+
+
+<div class="techornate-socials" style="text-align: center;">
+<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/auto.php ">
+<span class="social-counter"> <b> English - _____ </b></span></a></div>
+
+
+<div class="techornate-socials" style="text-align: center;">
+<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/test.html">
+<span class="social-counter"> <b> Laptop Only - _____ </b></span></a></div>
 
 
 
 </div></div></div><br/> 
-
 <div class="container p-0"><div class="post-share text-center m-1"><b:if cond="data:blog.languageDirection == &quot;ltr&quot;"><div style="text-align: center;"><span style="font-family: inherit; font-size: medium;"><b>🔴 YoSinTV: Cricket | Football</b></span></div></b:if></div></div>
-
-
-
-
-
-<div style="text-align: justify;"><span style="font-size: medium;"><span>YoSinTV Doesn't host any media content on it own Site-Our site visitors might use external or third parties services to show content, (Example: Embedding media from sites like Bet365, Dailymotion , Streamable etc ..) We Notify all copyright owners, to discover that the links and media shared by visitors and contained within this site are hosted somewhere else on the web or embedded from other various sites like above. </span></div>
-
-
-
