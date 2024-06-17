@@ -52,11 +52,11 @@ href="https://yosintv2.github.io/tv/ads.html">
 <div class="techornate-socials" style="text-align: center;">
 <a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/bkp/bjm.html?m=____">
 <span class="social-counter"> <b> Best Link - _____  </b></span></a></div>
--->
 
 <div class="techornate-socials" style="text-align: center;">
-<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/test.html">
+<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=____">
 <span class="social-counter"> <b> Best Link - _____  </b></span></a></div>
+-->
 
 
 <div class="techornate-socials" style="text-align: center;">
