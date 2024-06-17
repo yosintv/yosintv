@@ -1,5 +1,4 @@
-rtmp://159.65.113.166:1935/live
-**********
+https://shorter.me/7K4BN - yosintv.xyz
 
 
 https://yosintv2.github.io/bkp/plyrr.html?url=https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
