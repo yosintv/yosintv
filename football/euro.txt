@@ -56,6 +56,11 @@ href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/tv/ads.html " >
+<span class="social-counter"> <b> Smooth - Croatia vs Albania </b></span></a></div> 
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=____ " >
 <span class="social-counter"> <b> Link 1 - _______ </b></span></a></div> 
 
@@ -76,20 +81,25 @@ href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/2" >
-<span class="social-counter"> <b> Link 5 - _______ </b></span></a></div>  
+href=" https://yosintv2.github.io/tv/ads.html " >
+<span class="social-counter"> <b> Link 5 - Croatia vs Albania </b></span></a></div> 
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/3" >
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/2" >
 <span class="social-counter"> <b> Link 6 - _______ </b></span></a></div>  
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/3" >
+<span class="social-counter"> <b> Link 7 - _______ </b></span></a></div>  
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=_______ " > 
-<span class="social-counter"><b> Link 7 - _______ </b></span></a></div>  
+<span class="social-counter"><b> Link 8 - _______ </b></span></a></div>  
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=_______ " >
-<span class="social-counter"><b> Link 8 - _______ </b></span></a></div> 
+<span class="social-counter"><b> Link 9 - _______ </b></span></a></div> 
