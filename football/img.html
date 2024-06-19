@@ -26,6 +26,11 @@
             height: auto;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        .gallery img:hover {
+            transform: scale(1.05);
         }
     </style>
 </head>
@@ -54,6 +59,7 @@
                 images.forEach(img => {
                     const imageElement = document.createElement('img');
                     imageElement.src = img.src;
+                    imageElement.onclick = () => window.open(img.src, '_blank');
                     gallery.appendChild(imageElement);
                 });
             });
