@@ -4,31 +4,37 @@
 href="https://yosintv2.github.io/tv/ads.html">
 <span class="social-counter"> <b> Hindi - _____ </b></span></a></div>
 
-<div class="techornate-socials" style="text-align: center;">
-<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/bkp/bjm.html?m=____">
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/bkp/bjm.html?m=____">
+<span class="social-counter"> <b> Best Link - _____  </b></span></a></div>
+
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/test.html">
 <span class="social-counter"> <b> Best Link - _____  </b></span></a></div>
 -->
 
-<div class="techornate-socials" style="text-align: center;">
-<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/test.html">
-<span class="social-counter"> <b> Best Link - _____  </b></span></a></div>
-
-
-<div class="techornate-socials" style="text-align: center;">
-<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/english.php">
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/english.php">
 <span class="social-counter"> <b> English - _____ </b></span></a></div>
 
 
-<div class="techornate-socials" style="text-align: center;">
-<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/hindi.php">
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/hindi.php">
 <span class="social-counter"> <b> Hindi - _____ </b></span></a></div>
 
 
-<div class="techornate-socials" style="text-align: center;">
-<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/auto.php ">
+<div class="techornate-socials" style="text-align: center;"><a class="fa fa-play" 
+href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/bkp/sbox.html?url=https://emdftinya.tinyuri.org/embed/auto.php ">
 <span class="social-counter"> <b> English - _____ </b></span></a></div>
 
 
-<div class="techornate-socials" style="text-align: center;">
-<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/test.html">
-<span class="social-counter"> <b> Laptop Only - _____ </b></span></a></div>
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/scream.html?mid=t20-world-cup-super-8-south-africa-vs-usa/1" >
+<span class="social-counter"> <b>Smooth - _____ </b></span></a></div>
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/scream.html?mid=t20-world-cup-super-8-south-africa-vs-usa/1" >
+<span class="social-counter"> <b>Smooth - _____ </b></span></a></div>
+
+
