@@ -46,9 +46,7 @@ Predicted lineups are available for the match a few days in advance while the ac
 </script>
 
 
-<div style="text-align: center;"><div><br />
-<form><input class="MyButton" onclick="window.location.href='https://yosintv2.github.io/tv/ads.html'" type="button" value="Refresh Links" /></form>
-<br />
+<div style="text-align: center;"><form><input style="text-align: center;" class="MyButton" onclick="window.location.href='https://yosintv2.github.io/tv/ads.html'" type="button" value="Refresh Links" /></form></div><br/>
 
 
 <!--
