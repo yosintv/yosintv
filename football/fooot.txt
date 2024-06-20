@@ -24,24 +24,31 @@ Predicted lineups are available for the match a few days in advance while the ac
 <div><span><span style="font-size: 13px;"><i style="font-family: arial;">
 👉 </i><span style="font-family: arial;"><b>Go to below links to get matches. If the first link doesn’t work, go for the second or third link.</b></span></span></span></div></span>
 </div></div>
+  
+
+<!--Animation Here-->
+<div class="disclaimer" style="text-align: center;"><b><span style="color: black;"> Live Match - Animation Tracker </span></b></div> 
+<iframe frameborder="0" height="250" scrolling="no" src="https://www.yosin-tv.net/tracker.html?id=_____" width="100%"></iframe>
+<br/>
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147"
+     crossorigin="anonymous"></script>
+<!-- Ressponsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5525538810839147"
+     data-ad-slot="4345862479"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 <div style="text-align: center;"><div><br />
 <form><input class="MyButton" onclick="window.location.href='https://yosintv2.github.io/tv/ads.html'" type="button" value="Refresh Links" /></form>
 <br />
-  
-  
-<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147"></script>
-<!--Post Responsive Ads-->
-<ins class="adsbygoogle" data-ad-client="ca-pub-5525538810839147" data-ad-format="auto" data-ad-slot="3536360020" data-full-width-responsive="true" style="display: block;"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<!-- Animation Here-->
-<div class="disclaimer" style="text-align: center;"><b><span style="color: black;"> Live Match - Animation Tracker </span></b></div> 
-<iframe frameborder="0" height="300" scrolling="no" src="https://yosintv.github.io/yosintv/football/tracker.html?id=____" width="100%"></iframe>
-</div></div><br/>
 
 
 <!--
@@ -50,13 +57,24 @@ href=" https://yosintv2.github.io/ads/foot.html?id=_________" >
 <span class="social-counter"> <b> Best - _______ </b></span></a></div>  
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/bkp/bjm.html?m=_____" >
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/bkp/plyrr.html?url=____" >
 <span class="social-counter"> <b> Best - _______ </b></span></a></div>  
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/bkp/bjm.html?m=____ " >
+<span class="social-counter"> <b> Fast - _______ </b></span></a></div>  
+
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/tv/ads.html " >
 <span class="social-counter"> <b> Fast - _______ </b></span></a></div> 
 -->
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/1stream.html?m=_____ " >
+<span class="social-counter"> <b> Fast - _______ </b></span></a></div>  
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
@@ -67,6 +85,11 @@ href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ad
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=____ " >
 <span class="social-counter"> <b> Fast - _______ </b></span></a></div> 
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/tv/ads.html " >
+<span class="social-counter"> <b> Smooth - Croatia vs Albania </b></span></a></div> 
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
@@ -86,26 +109,32 @@ href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/1" >
-<span class="social-counter"> <b> Link 4 - Romania vs Ukraine </b></span></a></div>  
+<span class="social-counter"> <b>Link 4 - _______ </b></span></a></div>
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/tv/ads.html " >
+<span class="social-counter"> <b> Link 5 - Croatia vs Albania </b></span></a></div> 
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/2" >
-<span class="social-counter"> <b> Link 5 - Romania vs Ukraine </b></span></a></div>  
+<span class="social-counter"> <b> Link 6 - _______ </b></span></a></div>  
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/3" >
-<span class="social-counter"> <b> Link 6 - Romania vs Ukraine </b></span></a></div>  
+<span class="social-counter"> <b> Link 7 - _______ </b></span></a></div>  
+
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=_______ " > 
-<span class="social-counter"><b> Link 7 - _______ </b></span></a></div>  
+<span class="social-counter"><b> Link 8 - _______ </b></span></a></div>  
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=_______ " >
-<span class="social-counter"><b> Link 8 - _______ </b></span></a></div> 
+<span class="social-counter"><b> Link 9 - _______ </b></span></a></div> 
 
 
 
