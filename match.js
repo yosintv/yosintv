@@ -1521,8 +1521,8 @@
      
      
   {
-    "name": "____",
-    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/___.png"
+    "name": "Georgia",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8268.png"
   },  
      
      
