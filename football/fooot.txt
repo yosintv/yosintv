@@ -52,7 +52,9 @@ Predicted lineups are available for the match a few days in advance while the ac
 </script>
 
 
-<div style="text-align: center;"><form><input style="text-align: center;" class="MyButton" onclick="window.location.href='https://yosintv2.github.io/tv/ads.html'" type="button" value="Refresh Links" /></form></div><br/>
+<div style="text-align: center;"><form>
+<input style="text-align: center;" class="MyButton" onclick="window.location.href='https://yosintv2.github.io/tv/ads.html'" type="button" value="Refresh Links" />
+</form></div><br/>
 
 
 <!--
@@ -60,9 +62,6 @@ Predicted lineups are available for the match a few days in advance while the ac
 href=" https://yosintv2.github.io/ads/foot.html?id=_________" >
 <span class="social-counter"> <b> No Lag - TeamName </b></span></a></div> 
 
-<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" http://33.reducemyweight.net/player.html?src=http://hls.nyoozy.com/?url=_____ " >
-<span class="social-counter"> <b> No Lag - TeamName </b></span></a></div>  
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/tv/ads.html " >
@@ -83,12 +82,12 @@ href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ad
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=____ " >
+href=" https://yosintv2.github.io/tv/ads.html " >
 <span class="social-counter"> <b> Smooth - TeamName </b></span></a></div> 
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/tv/ads.html " >
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=____ " >
 <span class="social-counter"> <b> Smooth - TeamName </b></span></a></div> 
 
 
@@ -108,13 +107,13 @@ href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/1" >
-<span class="social-counter"> <b>Link 4 - TeamName </b></span></a></div>
+href=" https://yosintv2.github.io/tv/ads.html " >
+<span class="social-counter"> <b> Link 5 - TeamName </b></span></a></div> 
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/tv/ads.html " >
-<span class="social-counter"> <b> Link 5 - TeamName </b></span></a></div> 
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/1" >
+<span class="social-counter"> <b>Link 4 - TeamName </b></span></a></div>
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
@@ -123,21 +122,16 @@ href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/3" >
-<span class="social-counter"> <b> Link 7 - TeamName </b></span></a></div>  
-
-
-<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=_______ " > 
-<span class="social-counter"><b> Link 8 - TeamName </b></span></a></div>  
+<span class="social-counter"><b> Link 7 - TeamName </b></span></a></div>  
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=_______ " >
-<span class="social-counter"><b> Link 9 - TeamName </b></span></a></div> 
+<span class="social-counter"><b> Link 8 - TeamName </b></span></a></div> 
 
 
 
 <div class="container p-0"><div class="post-share text-center m-1">
-<b:if cond="data:blog.languageDirection == &quot;ltr&quot;"><div style="text-align: center;">
+<b:if cond="data:blog.languageDirection == "ltr""><div style="text-align: center;">
 <span style="font-family: inherit; font-size: medium;"><b>🔴 YoSinTV: Cricket | Football</b></span></div></b:if></div></div>    
