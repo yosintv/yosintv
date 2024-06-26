@@ -1,70 +1,74 @@
 <!--
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/ads/foot.html?id=_________ ">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/ads/foot.html?id=_________ "> TeamName </a></span>
+</div></div>
 
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/tv/ads.html">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/tv/ads.html"> TeamName </a></span></div></div>
 -->
 
 [hfcm id="3"]
 
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/1stream.html?m=_____ ">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="/">Upcoming Events in YoSinTV</a></span>
+</div></div>
 
 
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/weakspell.html?m=____ ">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/1stream.html?m=_____ "> TeamName </a></span>
+</div></div>
 
 
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/tv/ads.html ">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/weakspell.html?m=____ "> TeamName </a></span>
+</div></div>
 
 
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=____ ">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/tv/ads.html ">TeamName </a></span>
+</div></div>
 
 
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=____  ">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=____ "> TeamName </a></span>
+</div></div>
 
 
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/ads/foot.html?id=https://newsarena24h.com/events/streamX/  ">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=____  "> TeamName </a></span>
+</div></div>
 
 
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/stbw.html?m=X ">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/ads/foot.html?id=https://newsarena24h.com/events/streamX/  ">TeamName </a></span>
+</div></div>
 
 
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/tv/ads.html ">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/stbw.html?m=X "> TeamName </a></span>
+</div></div>
 
 
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/1 ">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/tv/ads.html ">TeamName </a></span>
+</div></div>
 
 
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/2 ">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/1 "> TeamName </a></span>
+</div></div>
 
 
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/ads/foot.html?id=_______ ">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/2 "> TeamName </a></span>
+</div></div>
 
 
-<div class="yosintv-container"><div class="yosintv-button"><span>
-<a href="https://yosintv2.github.io/ads/foot.html?id=_______ ">
-TeamName  </a></span></div></div>
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/ads/foot.html?id=_______ "> TeamName </a></span>
+</div></div>
+
+
+<div class="yosintv-container"><div class="yosintv-button">
+<span><a href="https://yosintv2.github.io/ads/foot.html?id=_______ "> TeamName </a></span>
+</div></div>
