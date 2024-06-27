@@ -1,17 +1,16 @@
 <!--Link Starts-->
 [hfcm id="3"]
-<div class="liner bdr" style="background: 0px 0px repeat #084c81; border: #0c2654; color: white; font-family: georgia; font-size: 15px; font-weight: bold; margin: 0px; outline: 0px; padding: 10px 0px; text-align: center; vertical-align: baseline; width: 100%;"><span style="background: 0px 0px repeat rgba(0, 0, 0, 0); border: 0px; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">
-<i> _______ Live Links👇👇</i></span></div>
+<div class="liner bdr" style="background: 0px 0px repeat #084c81; border: #0c2654; color: white; font-family: georgia; font-size: 15px; font-weight: bold; margin: 0px; outline: 0px; padding: 10px 0px; text-align: center; vertical-align: baseline; width: 100%;"><span style="background: 0px 0px repeat rgba(0, 0, 0, 0); border: 0px; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"> _______ Live Links👇👇</span></div>
+
 <div class="separator" style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="__________"> 
 <img src="https://i.postimg.cc/02Hcs8cQ/20221101-010037.webp" width="200" height="60" border="0" data-original-height="240" data-original-width="800" /></a></div>
-<div class="liner bdr" style="background: 0px 0px repeat #084c81; border: #0c2654; color: white; font-family: georgia; font-size: 15px; font-weight: bold; margin: 0px; outline: 0px; padding: 10px 0px; text-align: center; vertical-align: baseline; width: 100%;"><span style="background: 0px 0px repeat rgba(0, 0, 0, 0); border: 0px; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"> 
-<i>POSSIBLE PLAYING 11</i></span></div>
+<div class="liner bdr" style="background: 0px 0px repeat #084c81; border: #0c2654; color: white; font-family: georgia; font-size: 15px; font-weight: bold; margin: 0px; outline: 0px; padding: 10px 0px; text-align: center; vertical-align: baseline; width: 100%;"><span style="background: 0px 0px repeat rgba(0, 0, 0, 0); border: 0px; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"> POSSIBLE PLAYING 11</span></div>
 
-<div><i><b>India XI: </b></i><span style="color: #202124;"> 
-<i>Rohit Sharma (C), Virat Kohli, Rishabh Pant (WK), Suryakumar Yadav, Shivam Dube, Hardik Pandya, Ravindra Jadeja, Axar Patel, Kuldeep Yadav, Arshdeep Singh, Jasprit Bumrah..</i> 
-</span></div><div><b><i> </i></b></div>
+<div> <b>_____ Possible XI: </b> 
+<span style="color: #202124;"> ________</span></div>
+<div><b><i> </i></b></div>
 
-<div><i><b>England XI: </b></i><span style="color: #040c28;">
-<i>Phil Salt, Jos Buttler (C &amp; WK), Jonny Bairstow, Harry Brook, Moeen Ali, Liam Livingstone, Sam Curran, Chris Jordan, Jofra Archer, Adil Rashid, Reece Topley..</i> </span></div>
+<div><b>_____ Possible XI: </b>
+<span style="color: #040c28;"> ________</span></div>
 <div><i style="color: white; font-family: georgia; font-size: 15px; font-weight: bold; text-align: center;"> </i></div>
 <!--Link Ends-->
