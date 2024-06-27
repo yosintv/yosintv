@@ -37,6 +37,11 @@
 <iframe id="iframe" allowfullscreen="allowfullscreen" allowtransparency="true" frameborder="0" height="100%" marginheight="0" marginwidth="0" 
 sandbox="allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation" src width="100%"></iframe> 
 </div>
+
+<div class="join-button-container">
+<a class="join-button" href="https://t.ly/AQAHY" target="_blank">Make Full Screen</a>
+</div>
+    
 </div>
         
         
@@ -107,10 +112,27 @@ sandbox="allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-to
           font-size: 20px;
           z-index: 9999;
         }
+
+      .join-button-container {
+    position: absolute;
+    top: 10px; /* Adjust this value to position the button vertically */
+    left: 10px; /* Adjust this value to position the button horizontally */
+    z-index: 1000; /* Ensure the button appears above the iframe */
+  }
+  .join-button {
+    padding: 5px 20px;
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+    
       </style>
     </div>
-
-        
 
     <style>
         .video-js {
