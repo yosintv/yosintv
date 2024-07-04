@@ -28,13 +28,14 @@ Predicted lineups are available for the match a few days in advance while the ac
 👉 </b><b style="font-family: arial; font-size: 13px;">The match links are activated 15 minutes before kickoff.
 </b></div><span style="text-align: center;">
 <div><span><span style="font-size: 13px;"><i style="font-family: arial;">
-👉 </i><span style="font-family: arial;"><b>Go to below links to get matches. If the first link doesn’t work, go for the second or third link.</b></span></span></span></div></span>
-</div></div>
+👉 </i><span style="font-family: arial;">
+<b>Go to below links to get matches. If the first link doesn’t work, go for the second or third link.</b></span></span></span>
+</div></span></div></div>
   
 
 <!--Animation Here-->
 <div class="disclaimer" style="text-align: center;"><b><span style="color: black;"> Live Match - Animation Tracker </span></b></div> 
-<iframe frameborder="0" height="250" scrolling="no" src="https://m.yosin-tv.net/tracker.html?id=_____" width="100%"></iframe>
+<iframe frameborder="0" height="250" scrolling="no" src="https://yosintv.cricfoot.net/tracker.html?id=_____" width="100%"></iframe>
 <br/>
 
 
@@ -53,14 +54,14 @@ Predicted lineups are available for the match a few days in advance while the ac
 
 
 <div style="text-align: center;"><form>
-<input style="text-align: center;" class="MyButton" onclick="window.location.href='https://yosintv2.github.io/tv/ads.html'" type="button" value="Refresh Links" />
-</form></div><br/>
+<input style="text-align: center;" class="MyButton" onclick="window.location.href='https://yosintv2.github.io/tv/ads.html'" 
+type="button" value="Refresh Links"/></form></div><br/>
 
 
 <!--
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=_________" >
-<span class="social-counter"> <b> No Lag - TeamName </b></span></a></div> 
+<span class="social-counter"> <b> Mob/PC - TeamName </b></span></a></div> 
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
