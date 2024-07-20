@@ -72,20 +72,6 @@ href=" https://yosintv2.github.io/tv/ads.html " >
 
 
 
-<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv.net/player.html?src=https://yosintv2.github.io/ads/1stream.html?m=_____ " >
-<span class="social-counter"> <b> HD Live - TeamName </b></span></a></div>  
-
-
-<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv.net/player.html?src=https://yosintv2.github.io/ads/weakspell.html?m=____ " >
-<span class="social-counter"> <b> HD Live - TeamName </b></span></a></div>  
-
-
-<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/tv/ads.html " >
-<span class="social-counter"> <b> Smooth - TeamName </b></span></a></div> 
-
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv.net/player.html?src=https://yosintv2.github.io/tv/scream.html?mid=_____/1" >
@@ -93,29 +79,18 @@ href=" https://yosintv.net/player.html?src=https://yosintv2.github.io/tv/scream.
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv.net/player.html?src=https://yosintv2.github.io/tv/scream.html?mid=_____/2" >
-<span class="social-counter"> <b> English - TeamName </b></span></a></div>  
+href=" https://yosintv2.github.io/tv/ads.html " >
+<span class="social-counter"> <b> Link 1 - TeamName </b></span></a></div> 
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv.net/player.html?src=https://yosintv2.github.io/tv/midd.html?mid=____ " >
-<span class="social-counter"> <b> Smooth - TeamName </b></span></a></div> 
+<span class="social-counter"> <b> Link 2 - TeamName </b></span></a></div> 
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv.net/player.html?src=https://yosintv2.github.io/tv/mid.html?mid=____ " >
-<span class="social-counter"> <b> Link 1 - TeamName </b></span></a></div> 
-
-
-
-<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv.net/player.html?src=https://newsarena24h.com/events/streamX/ " > 
-<span class="social-counter"><b> Link 2 - TeamName </b></span></a></div>  
-
-
-<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href="https://yosintv.net/player.html?src=https://yosintv2.github.io/ads/stbw.html?m=X " >
-<span class="social-counter"><b> Link 3 - TeamName </b></span></a></div> 
+<span class="social-counter"> <b> Link 3 - TeamName </b></span></a></div> 
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
@@ -123,6 +98,7 @@ href=" https://yosintv2.github.io/tv/ads.html " >
 <span class="social-counter"> <b> Link 4 - TeamName </b></span></a></div> 
 
 
+<!--
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv.net/player.html?src=_______ " > 
 <span class="social-counter"><b> Link 5 - TeamName </b></span></a></div>  
@@ -131,7 +107,7 @@ href=" https://yosintv.net/player.html?src=_______ " >
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv.net/player.html?src=_______ " >
 <span class="social-counter"><b> Link 6 - TeamName </b></span></a></div> 
-
+-->
 
 
 <div class="container p-0"><div class="post-share text-center m-1">
