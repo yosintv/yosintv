@@ -60,7 +60,7 @@ type="button" value="Refresh Links"/></form></div><br/>
 
 <!--
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv.net/player.html?src=_________" >
+href=" https://yosintv2.github.io/ads/foot.html?src=_________" >
 <span class="social-counter"> <b> Mob/PC - TeamName </b></span></a></div> 
 
 
@@ -74,7 +74,7 @@ href=" https://yosintv2.github.io/tv/ads.html " >
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv.net/player.html?src=https://yosintv2.github.io/tv/scream.html?mid=_____/1" >
+href=" https://yosintv2.github.io/ads/foot.html?src=https://yosintv2.github.io/tv/scream.html?mid=_____/1" >
 <span class="social-counter"> <b> English - TeamName </b></span></a></div>
 
 
@@ -84,12 +84,12 @@ href=" https://yosintv2.github.io/tv/ads.html " >
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv.net/player.html?src=https://yosintv2.github.io/tv/midd.html?mid=____ " >
+href="https://yosintv2.github.io/ads/foot.html?src=https://yosintv2.github.io/tv/midd.html?mid=____ " >
 <span class="social-counter"> <b> Link 2 - TeamName </b></span></a></div> 
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv.net/player.html?src=https://yosintv2.github.io/tv/mid.html?mid=____ " >
+href="https://yosintv2.github.io/ads/foot.html?src=https://yosintv2.github.io/tv/mid.html?mid=____ " >
 <span class="social-counter"> <b> Link 3 - TeamName </b></span></a></div> 
 
 
@@ -100,12 +100,12 @@ href=" https://yosintv2.github.io/tv/ads.html " >
 
 <!--
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv.net/player.html?src=_______ " > 
+href="https://yosintv2.github.io/ads/foot.html?src=_______ " > 
 <span class="social-counter"><b> Link 5 - TeamName </b></span></a></div>  
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv.net/player.html?src=_______ " >
+href="https://yosintv2.github.io/ads/foot.html?src=_______ " >
 <span class="social-counter"><b> Link 6 - TeamName </b></span></a></div> 
 -->
 
