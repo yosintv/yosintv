@@ -60,7 +60,7 @@ type="button" value="Refresh Links"/></form></div><br/>
 
 <!--
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/bkp/plyrr2.html?url=____" >
+href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/bkp/plyrr.html?url=_________ " >
 <span class="social-counter"> <b> Mob/PC - TeamName </b></span></a></div> 
 
 
