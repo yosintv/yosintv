@@ -65,34 +65,21 @@ href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/bk
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/ads/foot.html?id=_________" >
-<span class="social-counter"> <b> Mob/PC - TeamName </b></span></a></div> 
-
-
-<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/tv/ads.html " >
 <span class="social-counter"> <b> Fast - TeamName </b></span></a></div> 
--->
-
-
 
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=_________" >
 <span class="social-counter"> <b> Mob/PC - TeamName </b></span></a></div> 
+-->
 
-
-
-<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/tv/ads.html " >
-<span class="social-counter"> <b> Mob/PC - TeamName </b></span></a></div> 
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/1" >
 <span class="social-counter"> <b> English - TeamName </b></span></a></div>
-
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
@@ -103,6 +90,11 @@ href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
 href=" https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=____ " >
 <span class="social-counter"> <b> Link 1 - TeamName </b></span></a></div> 
+
+
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/adsense.html" >
+<span class="social-counter"> <b> English - TeamName </b></span></a></div>
 
 
 <div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
@@ -139,7 +131,6 @@ href=" https://yosintv2.github.io/ads/foot.html?id=_______ " >
 <div class="container p-0"><div class="post-share text-center m-1">
 <b:if cond="data:blog.languageDirection == "ltr""><div style="text-align: center;">
 <span style="font-family: inherit; font-size: medium;"><b>🔴 YoSinTV: Cricket | Football</b></span></div></b:if></div></div>    
-
 
 
 <!--
