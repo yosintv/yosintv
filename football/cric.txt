@@ -60,21 +60,19 @@ Predicted Playing XI are available for the match a few days in advance while the
 -->
 
 
-
-
 <div class="techornate-socials" style="text-align: center;">
 <a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/1">
 <span class="social-counter"> <b> English - _____ </b></span></a></div>
 
 
 <div class="techornate-socials" style="text-align: center;">
-<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/1">
+<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/2">
 <span class="social-counter"> <b> English - _____ </b></span></a></div>
 
 
-<div class="techornate-socials" style="text-align: center;">
-<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/1">
-<span class="social-counter"> <b> English - _____ </b></span></a></div>
+<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
+href=" https://yosintv2.github.io/ads/adsense.html" >
+<span class="social-counter"> <b> English - TeamName </b></span></a></div>
 
 
 
