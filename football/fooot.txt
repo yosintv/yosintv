@@ -22,15 +22,13 @@ Predicted lineups are available for the match a few days in advance while the ac
 
 
 
-<div class="container p-0">
 <div class="post-share text-center m-1">
-<div style="text-align: center;"><b style="font-family: arial; font-size: 13px;">
-👉 </b><b style="font-family: arial; font-size: 13px;">The match links are activated 15 minutes before kickoff.
-</b></div><span style="text-align: center;">
-<div><span><span style="font-size: 13px;"><i style="font-family: arial;">
-👉 </i><span style="font-family: arial;">
-<b>Go to below links to get matches. If the first link doesn’t work, go for the second or third link.</b></span></span></span>
-</div></span></div></div>
+<div style="text-align: center;">
+👉<b style="font-family: arial; font-size: 13px;">The match links are activated 15 minutes before kickoff.
+</b></div>
+<div style="text-align: center;">
+👉<b style="font-family: arial; font-size: 13px;">Go to below links to get matches. If the first link doesn’t work, go for the second or third link.
+</b></div></div>
   
 
 <!--Animation Here-->
