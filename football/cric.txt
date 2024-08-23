@@ -1,4 +1,4 @@
-<div>Watch the live match of _________ in HD Quality, Scroll down, check out every links for Smooth Live Stream of _________. 
+<div>Watch the live match of TeamName in HD Quality, Scroll down, check out every links for Smooth Live Stream of TeamName. 
 Stay tuned with us to watch every live match with us !! </div><br/>
 
 <div>
@@ -47,28 +47,28 @@ Predicted Playing XI are available for the match a few days in advance while the
 
 <!--
 <div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
-<div class="livee-name"> Mob/PC - ________ </div></div>
+<div class="livee-name"> Mob/PC - TeamName </div></div>
 
 
 <div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
-<div class="livee-name"> Mob/PC - ________ </div></div>
+<div class="livee-name"> Mob/PC - TeamName </div></div>
 -->
 
 
 <div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
-<div class="livee-name"> Link 1 - ________ </div></div>
+<div class="livee-name"> Link 1 - TeamName </div></div>
 
 
 <div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
-<div class="livee-name"> Link 2 - ________ </div></div>
+<div class="livee-name"> Link 2 - TeamName </div></div>
 
 
 <div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
-<div class="livee-name"> Link 3 - ________ </div></div>
+<div class="livee-name"> Link 3 - TeamName </div></div>
 
 
 <div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
-<div class="livee-name"> Link 4 - ________ </div></div>
+<div class="livee-name"> Link 4 - TeamName </div></div>
 
 
 
