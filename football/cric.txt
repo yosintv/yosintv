@@ -44,36 +44,31 @@ Predicted Playing XI are available for the match a few days in advance while the
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-  
+
 <!--
-
-<div class="techornate-socials" style="text-align: center;">
-<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=_________ ">
-<span class="social-counter"> <b> Mob/PC - _____  </b></span></a></div>
+<div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
+<div class="livee-name"> Mob/PC - ________ </div></div>
 
 
-<div class="techornate-socials" style="text-align: center;">
-<a class="fa fa-play" href="https://yosintv2.github.io/tv/ads.html">
-<span class="social-counter"> <b> Hindi - _____ </b></span></a></div>
-
+<div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
+<div class="livee-name"> Mob/PC - ________ </div></div>
 -->
 
 
-<div class="techornate-socials" style="text-align: center;">
-<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/1">
-<span class="social-counter"> <b> English - _____ </b></span></a></div>
+<div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
+<div class="livee-name"> Link 1 - ________ </div></div>
 
 
-<div class="techornate-socials" style="text-align: center;">
-<a class="fa fa-play" href="https://yosintv2.github.io/ads/cric.html?id=https://yosintv2.github.io/tv/scream.html?mid=_____/2">
-<span class="social-counter"> <b> English - _____ </b></span></a></div>
+<div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
+<div class="livee-name"> Link 2 - ________ </div></div>
 
 
-<div class="techornate-socials" style="text-align: center;" ><a class="fa fa-play" 
-href=" https://yosintv2.github.io/ads/adsense.html" >
-<span class="social-counter"> <b> English - _____ </b></span></a></div>
+<div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
+<div class="livee-name"> Link 3 - ________ </div></div>
 
 
+<div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
+<div class="livee-name"> Link 4 - ________ </div></div>
 
 
 
