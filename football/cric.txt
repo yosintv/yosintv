@@ -48,10 +48,18 @@ Predicted Playing XI are available for the match a few days in advance while the
 
 
 <div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
-<div class="livee-name"> Link 1 - TeamName </div></div>
+<div class="livee-name"> Smooth 1 - TeamName </div></div>
 
 
 <div class="livee" data-link="https://yosintv2.github.io/tv/ads.html" >
+<div class="livee-name"> Smooth 2 - TeamName </div></div>
+
+
+<div class="livee" data-link="https://yosintv2.github.io/ads/cric.html?id=_________" >
+<div class="livee-name"> Link 1 - TeamName </div></div>
+
+
+<div class="livee" data-link="https://yosintv2.github.io/ads/adsense.html" >
 <div class="livee-name"> Link 2 - TeamName </div></div>
 
 
