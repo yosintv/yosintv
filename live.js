@@ -1,7 +1,7 @@
 const channels = {
 
     // Real Madrid | 
-    rma1: " https://go.xib.cc/live/32150 ",       // TVLE
+    rma1: " https://go.xib.cc/live/lol ",       // TVLE
     rma2: " https://go.xib.cc/live/32150 ",       // TVLE
     rma3: " https://go.xib.cc/live/32150 ",        // TVLE
     rma4: " https://yosintv2.github.io/tv/midd.html?mid=4145397 ",       // MID
